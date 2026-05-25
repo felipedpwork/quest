@@ -1,0 +1,558 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+
+    <title>Quest dos Caras</title>
+
+    <link rel="icon" type="image/png" href="quest-icon.png">
+    <link rel="apple-touch-icon" href="quest-icon.png">
+
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+
+    <style>
+        *{
+            margin:0;
+            padding:0;
+            box-sizing:border-box;
+            -webkit-tap-highlight-color: transparent;
+        }
+
+        html{
+            background:#030712;
+        }
+
+        body{
+            margin:0;
+            padding:20px 15px 40px;
+            background:
+            radial-gradient(
+                circle at top,
+                rgba(29, 78, 216, 0.2),
+                transparent 40%
+            ),
+            linear-gradient(
+                180deg,
+                #0b1329 0%,
+                #050b14 50%,
+                #020617 100%
+            );
+            color:#EFE5E6;
+            display:flex;
+            flex-direction:column;
+            align-items:center;
+            font-family:'Poppins', sans-serif;
+            min-height:100vh;
+            overflow-x:hidden;
+        }
+
+        header{
+            text-align:center;
+            margin-bottom:20px;
+            display:flex;
+            flex-direction:column;
+            align-items:center;
+        }
+
+        .logo-jogo{
+            width:220px;
+            max-width:100%;
+            border-radius:20px;
+            margin-bottom:12px;
+            filter: drop-shadow(0 0 18px rgba(37, 99, 235, 0.35));
+        }
+
+        h1{
+            color:#F4B41A;
+            font-size:1.9rem;
+            text-transform:uppercase;
+            letter-spacing:4px;
+            font-weight:800;
+        }
+
+        .card{
+            width:100%;
+            max-width:500px;
+            background: rgba(15, 23, 42, 0.85);
+            backdrop-filter:blur(12px);
+            border-radius:26px;
+            padding:22px;
+            border: 1px solid rgba(255,255,255,.06);
+            box-shadow:
+            0 10px 35px rgba(0,0,0,.55),
+            0 0 20px rgba(37, 99, 235, 0.15);
+        }
+
+        .btn-aleatorio {
+            width: 100%;
+            background: linear-gradient(135deg, #1d4ed8, #1e3a8a);
+            color: white;
+            border: 1px solid rgba(255,255,255,0.1);
+            padding: 14px;
+            border-radius: 18px;
+            font-weight: 700;
+            font-size: 1rem;
+            cursor: pointer;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            margin-bottom: 20px;
+            box-shadow: 0 6px 20px rgba(29, 78, 216, 0.25);
+            transition: .25s ease;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 10px;
+        }
+
+        .btn-aleatorio:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 8px 25px rgba(37, 99, 235, 0.4);
+            background: linear-gradient(135deg, #2563eb, #1d4ed8);
+        }
+
+        .abas-categorias{
+            display:grid;
+            grid-template-columns: repeat(3,1fr);
+            gap:10px;
+            margin-bottom:22px;
+        }
+
+        .tab-btn{
+            background: rgba(255,255,255,.03);
+            color:#a5b4fc;
+            border: 1px solid rgba(255,255,255,.05);
+            padding:12px 6px;
+            border-radius:14px;
+            font-weight:600;
+            font-size:.82rem;
+            cursor:pointer;
+            text-transform:uppercase;
+            transition:.25s ease;
+        }
+
+        .tab-btn:hover{
+            transform: translateY(-2px);
+            background: rgba(255,255,255,.06);
+        }
+
+        .tab-btn.active{
+            background: linear-gradient(135deg, #3b82f6, #1d4ed8);
+            color:white;
+            border-color:#60a5fa;
+            box-shadow: 0 0 18px rgba(59, 130, 246, 0.4);
+        }
+
+        .seletor-cartas{
+            display:none;
+        }
+
+        .seletor-cartas.active{
+            display:block;
+            margin-bottom:22px;
+            padding-bottom:18px;
+            border-bottom: 1px solid rgba(255,255,255,.06);
+        }
+
+        .seletor-titulo{
+            color:#94a3b8;
+            margin-bottom:10px;
+            font-size:.95rem;
+            font-weight:600;
+        }
+
+        .dropdown-cartas{
+            width:100%;
+            background: rgba(255,255,255,.03);
+            color:#EFE5E6;
+            border: 1px solid rgba(255,255,255,.06);
+            padding:14px 16px;
+            border-radius:14px;
+            font-size:1rem;
+            font-weight:600;
+            outline:none;
+            cursor:pointer;
+            appearance:none;
+            transition:.25s ease;
+            background-image:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='10' height='10' viewBox='0 0 10 10'><path d='M0 3l5 5 5-5z' fill='%2394a3b8'/></svg>");
+            background-repeat:no-repeat;
+            background-position:right 18px center;
+        }
+
+        .dropdown-cartas:focus{
+            border-color:#3b82f6;
+            box-shadow: 0 0 15px rgba(59, 130, 246, 0.3);
+        }
+
+        .area-jogo{
+            display:none;
+        }
+
+        .area-jogo.active{
+            display:block;
+            animation: aparecer .35s ease;
+        }
+
+        .topo-card{
+            display:flex;
+            justify-content:between;
+            align-items:center;
+            margin-bottom:22px;
+        }
+
+        .badge{
+            background: linear-gradient(135deg, #3b82f6, #1d4ed8);
+            color:white;
+            padding:8px 14px;
+            border-radius:999px;
+            font-size:.78rem;
+            font-weight:700;
+            text-transform:uppercase;
+            box-shadow: 0 0 15px rgba(59, 130, 246, 0.3);
+        }
+
+        .num-carta{
+            color:#94a3b8;
+            font-size:.95rem;
+            font-weight:700;
+            margin-left: auto;
+        }
+
+        /* Caixa de Pergunta Principal do Quest */
+        .caixa-pergunta {
+            background: rgba(255, 255, 255, 0.02);
+            border: 1px solid rgba(255, 255, 255, 0.08);
+            padding: 20px;
+            border-radius: 18px;
+            margin-bottom: 20px;
+            font-size: 1.1rem;
+            line-height: 1.6;
+            color: #f8fafc;
+            font-weight: 500;
+            box-shadow: inset 0 2px 4px rgba(0,0,0,0.2);
+        }
+
+        /* Dica Opcional */
+        .item-dica{
+            background: rgba(255,255,255,.025);
+            border: 1px solid rgba(255,255,255,.06);
+            border-radius:18px;
+            padding:16px;
+            cursor:pointer;
+            transition:.25s ease;
+            margin-bottom: 20px;
+        }
+
+        .item-dica:hover{
+            transform: translateY(-2px);
+            border-color: rgba(59, 130, 246, 0.4);
+        }
+
+        .item-dica .texto-dica{
+            color:#93c5fd;
+            font-style:italic;
+            line-height:1.5;
+        }
+
+        .item-dica.pedida{
+            background: linear-gradient(135deg, rgba(29, 78, 216, 0.15), rgba(255,255,255,.03));
+            border-color: rgba(96, 165, 250, 0.5);
+            box-shadow: 0 0 15px rgba(29, 78, 216, 0.15);
+        }
+
+        .item-dica.pedida .texto-dica{
+            color:white;
+            font-style:normal;
+        }
+
+        .num-dica-tag{
+            display:block;
+            margin-bottom:6px;
+            color:#3b82f6;
+            font-weight:700;
+            text-transform: uppercase;
+            font-size: 0.8rem;
+        }
+
+        /* Resposta Revelada */
+        .secret-term{
+            background: rgba(255,255,255,.03);
+            padding:18px;
+            border-radius:18px;
+            text-align:center;
+            font-weight:700;
+            font-size:1.2rem;
+            margin-bottom:22px;
+            border: 1px dashed rgba(255,255,255,.12);
+            cursor:pointer;
+            transition:.3s ease;
+        }
+
+        .secret-term:hover{
+            transform: scale(1.01);
+            border-color:#3b82f6;
+        }
+
+        .secret-term span{
+            filter:blur(8px);
+            transition:.3s;
+        }
+
+        .secret-term.revelado{
+            background: rgba(37, 99, 235, 0.15);
+            border-color: #3b82f6;
+            box-shadow: 0 0 20px rgba(37, 99, 235, 0.2);
+        }
+
+        .secret-term.revelado span{
+            filter:blur(0);
+        }
+
+        .btn-acertou{
+            width:100%;
+            border:none;
+            padding:18px;
+            border-radius:18px;
+            cursor:pointer;
+            font-size:1.15rem;
+            font-weight:800;
+            text-transform:uppercase;
+            color:#1e1b4b;
+            background: linear-gradient(135deg, #FFD54F, #FFB300);
+            box-shadow:
+            0 0 25px rgba(255,193,7,.28),
+            0 10px 20px rgba(0,0,0,.35);
+            transition:.25s ease;
+            margin-bottom:18px;
+        }
+
+        .btn-acertou:hover{
+            transform: translateY(-2px) scale(1.01);
+            box-shadow: 0 0 30px rgba(255,193,7, 0.4);
+        }
+
+        .painel-resultado{
+            background: rgba(255,255,255,.03);
+            padding:20px;
+            border-radius:20px;
+            text-align:center;
+            border: 1px solid rgba(255,193,7,.4);
+            display:none;
+            margin-top:15px;
+            box-shadow: 0 0 20px rgba(255,193,7,.12);
+        }
+
+        .painel-resultado.active{
+            display:block;
+            animation: aparecer .35s ease;
+        }
+
+        .resultado-destaque{
+            font-size:1.8rem;
+            color:#F4B41A;
+            font-weight:800;
+            margin-top:10px;
+        }
+
+        @keyframes aparecer{
+            from{
+                opacity:0;
+                transform:translateY(10px);
+            }
+            to{
+                opacity:1;
+                transform:translateY(0);
+            }
+        }
+    </style>
+</head>
+
+<body>
+
+<header>
+    <img src="quest.png" alt="Quest" class="logo-jogo" onerror="this.style.display='none'">
+    <h1>Quest</h1>
+</header>
+
+<div class="card">
+
+    <button class="btn-aleatorio" onclick="escolherCartaAleatoria()">
+        🎲 Pergunta Aleatória Surpresa
+    </button>
+
+    <div class="abas-categorias">
+        <button class="tab-btn" onclick="mudarCategoria('mundo')">Mundo</button>
+        <button class="tab-btn" onclick="mudarCategoria('ciencia')">Ciência</button>
+        <button class="tab-btn" onclick="mudarCategoria('cultura')">Cultura</button>
+        <button class="tab-btn" onclick="mudarCategoria('esportes')">Esportes</button>
+        <button class="tab-btn" onclick="mudarCategoria('sociedade')">Sociedade</button>
+        <button class="tab-btn" onclick="mudarCategoria('variedades')">Variedades</button>
+    </div>
+
+    <div class="seletor-cartas" id="painel-seletor">
+        <div class="seletor-titulo" id="titulo-seletor">Selecione uma pergunta:</div>
+        <select class="dropdown-cartas" id="select-cartas" onchange="selecionarCartaMenu(this.value)"></select>
+    </div>
+
+    <div class="area-jogo" id="painel-jogo">
+
+        <div class="topo-card">
+            <span class="badge" id="label-categoria">CATEGORIA</span>
+            <span class="num-carta" id="label-num-carta">Pergunta #1</span>
+        </div>
+
+        <div class="caixa-pergunta" id="texto-pergunta">
+            Carregando pergunta...
+        </div>
+
+        <div class="item-dica" id="box-dica" onclick="revelarDica()">
+            <span class="num-dica-tag">💡 Precisa de Ajuda? (Vale menos pontos)</span>
+            <span class="texto-dica" id="texto-dica">[ Toque para revelar dica ou alternativas ]</span>
+        </div>
+
+        <div class="secret-term" id="caixa-resposta" onclick="revelarResposta()">
+            Resposta: <span id="termo-secreto">---</span>
+        </div>
+
+        <button class="btn-acertou" onclick="calcularPontuacao()">
+            ★ Acertou! ★
+        </button>
+
+        <div class="painel-resultado" id="painel-resultado">
+            <p>Calculando pontuação...</p>
+            <div class="resultado-destaque" id="texto-casas">Avance 0 casas!</div>
+        </div>
+
+    </div>
+
+</div>
+
+<script>
+    let cartasDaCategoriaAtual = [];
+    let categoriaAtiva = '';
+    let indiceCartaAtiva = null;
+    let dicaRevelada = false;
+
+    async function mudarCategoria(novaCategoria){
+        categoriaAtiva = novaCategoria;
+
+        const botoesAbas = document.querySelectorAll('.tab-btn');
+        botoesAbas.forEach(btn=>{
+            if(btn.innerText.toLowerCase() === novaCategoria || (novaCategoria === 'ciencia' && btn.innerText.toLowerCase() === 'ciência')){
+                btn.classList.add('active');
+            }else{
+                btn.classList.remove('active');
+            }
+        });
+
+        document.getElementById('painel-jogo').classList.remove('active');
+        document.getElementById('painel-resultado').classList.remove('active');
+
+        try{
+            const resposta = await fetch(`${categoriaAtiva}.json`);
+            cartasDaCategoriaAtual = await resposta.json();
+
+            const selectCartas = document.getElementById('select-cartas');
+            selectCartas.innerHTML = '';
+
+            const placeholder = document.createElement('option');
+            placeholder.value = '';
+            placeholder.text = '-- Escolha uma Pergunta --';
+            placeholder.disabled = true;
+            placeholder.selected = true;
+            selectCartas.appendChild(placeholder);
+
+            cartasDaCategoriaAtual.forEach((carta, index)=>{
+                const opt = document.createElement('option');
+                opt.value = index;
+                opt.text = `Pergunta #${index+1}`;
+                selectCartas.appendChild(opt);
+            });
+
+            document.getElementById('titulo-seletor').innerText = `Perguntas de ${novaCategoria.toUpperCase()}:`;
+            document.getElementById('painel-seletor').classList.add('active');
+
+        }catch(erro){
+            alert(`Erro ao carregar ${categoriaAtiva}.json. Certifique-se de que o arquivo existe.`);
+            console.error(erro);
+        }
+    }
+
+    async function escolherCartaAleatoria() {
+        const categorias = ['mundo', 'ciencia', 'cultura', 'esportes', 'sociedade', 'variedades'];
+        const categoriaSorteada = categorias[Math.floor(Math.random() * categorias.length)];
+        
+        await mudarCategoria(categoriaSorteada);
+        
+        if (cartasDaCategoriaAtual && cartasDaCategoriaAtual.length > 0) {
+            const indiceSorteado = Math.floor(Math.random() * cartasDaCategoriaAtual.length);
+            const selectCartas = document.getElementById('select-cartas');
+            selectCartas.value = indiceSorteado;
+            carregarCarta(indiceSorteado);
+        }
+    }
+
+    function selecionarCartaMenu(valor){
+        if(valor !== ''){
+            carregarCarta(Number(valor));
+        }
+    }
+
+    function carregarCarta(index){
+        indiceCartaAtiva = index;
+        const carta = cartasDaCategoriaAtual[indiceCartaAtiva];
+
+        dicaRevelada = false;
+
+        document.getElementById('label-categoria').innerText = categoriaAtiva;
+        document.getElementById('label-num-carta').innerText = `Pergunta #${indiceCartaAtiva+1}`;
+        document.getElementById('texto-pergunta').innerText = carta.pergunta;
+        
+        // Reset do painel de dicas
+        const boxDica = document.getElementById('box-dica');
+        boxDica.classList.remove('pedida');
+        document.getElementById('texto-dica').innerText = "[ Toque para revelar dica ou alternativas ]";
+
+        // Reset da resposta
+        document.getElementById('caixa-resposta').classList.remove('revelado');
+        document.getElementById('termo-secreto').innerText = carta.resposta;
+
+        document.getElementById('painel-resultado').classList.remove('active');
+        document.getElementById('painel-jogo').classList.add('active');
+    }
+
+    function revelarDica(){
+        if(!dicaRevelada){
+            dicaRevelada = true;
+            const carta = cartasDaCategoriaAtual[indiceCartaAtiva];
+            const boxDica = document.getElementById('box-dica');
+            boxDica.classList.add('pedida');
+            document.getElementById('texto-dica').innerText = carta.dica;
+        }
+    }
+
+    function calcularPontuacao(){
+        const painel = document.getElementById('painel-resultado');
+        
+        // No Quest adaptado: Sem dica = 3 casas. Com dica = 1 casa.
+        const pontos = dicaRevelada ? 1 : 3;
+
+        painel.querySelector('p').innerHTML = dicaRevelada 
+            ? `Acertou! Você utilizou a dica de ajuda.` 
+            : `Excelente! Você respondeu diretamente sem ajuda.`;
+
+        document.getElementById('texto-casas').innerText = `Avance ${pontos} ${pontos === 1 ? 'casa' : 'casas'}!`;
+        painel.classList.add('active');
+        document.getElementById('caixa-resposta').classList.add('revelado');
+    }
+
+    function revelarResposta(){
+        document.getElementById('caixa-resposta').classList.toggle('revelado');
+    }
+
+    // Inicia o jogo automaticamente na primeira categoria
+    mudarCategoria('mundo');
+</script>
+
+</body>
+</html>
