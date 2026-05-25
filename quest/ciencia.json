@@ -35,7 +35,7 @@
     "resposta": "Azimutal"
   },
   {
-    "pergunta": "Qual bacteriologista e imunologista alemão revolucionou a medicina na virada do século XX ao criar o concept de 'bala mágica' (quimioterapia direcionada) e desenvolver o Salvarsan, o primeiro tratamento eficaz contra a sífilis?",
+    "pergunta": "Qual bacteriologista e imunologista alemão revolucionou a medicina na virada do século XX ao criar o conceito de 'bala mágica' (quimioterapia direcionada) e desenvolver o Salvarsan, o primeiro tratamento eficaz contra a sífilis?",
     "dica": "Ele propôs a teoria das cadeias laterais para explicar a imunidade por anticorpos e dividiu o Prêmio Nobel de Medicina em 1908 com Ilya Mechnikov. Seu sobrenome é... .",
     "resposta": "Paul Ehrlich"
   },
@@ -90,7 +90,7 @@
     "resposta": "Adição"
   },
   {
-    "pergunta": "Qual astrofísico e cosmólogo americano, junto com Saul Perlmutter e Brian Schmidt, ganhou o Prêmio Nobel de Física em 2011 ao descobrir que a expansion do Universo não está desacelerando, mas sim se acelerando devido à energia escura?",
+    "pergunta": "Qual astrofísico e cosmólogo americano, junto com Saul Perlmutter e Brian Schmidt, ganhou o Prêmio Nobel de Física em 2011 ao descobrir que a expansão do Universo não está desacelerando, mas sim se acelerando devido à energia escura?",
     "dica": "A descoberta foi feita no final da década de 1990 através da observação de supernovas do tipo Ia muito distantes. Seu sobrenome é Riess. É Adam... .",
     "resposta": "Adam Riess"
   },
@@ -121,7 +121,7 @@
   },
   {
     "pergunta": "Qual elemento químico pertencente ao grupo dos actinídeos, com número atômico 98, foi sintetizado pela primeira vez em 1950 no laboratório de Berkeley ao bombardear o elemento cúrio com partículas alfa?",
-    "dica": "Seu símbolo na tabela periódica é 'Cf' e seu nome homenageia o estado norte-americano e a universidade onde foi descoberto.",
+    "dica": "Seu símbolo na tabela periódica é 'Cf' e seu nome homenageia o estado norte-americano e a universidade onde foi descobriu.",
     "resposta": "Califórnio"
   },
   {
@@ -205,7 +205,7 @@
     "resposta": "Léptons"
   },
   {
-    "pergunta": "Na astronomia e astrofísica, qual é a acentuação dada ao sutil desvio nas linhas espectrais de um objeto celeste em direção a comprimentos de onda mais longos (frequências menores), indicando que o objeto está se afastando do observador?",
+    "pergunta": "Na astronomia e astrofísica, qual é a denominação dada ao sutil desvio nas linhas espectrais de um objeto celeste em direção a comprimentos de onda mais longos (frequências menores), indicando que o objeto está se afastando do observador?",
     "dica": "Esse fenômeno é a base da Lei de Hubble que prova a expansão do tecido do Universo. O termo em inglês é comumente traduzido como... .",
     "resposta": "Redshift"
   },
@@ -215,12 +215,12 @@
     "resposta": "Retículo Endoplasmático Rugoso"
   },
   {
-    "pergunta": "Na química orgânica, qual termo é utilizado para observar compostos cíclicos e planos que possuem uma estabilidade excepcionalmente alta devido à deslocalização de elétrons pi em um sistema conjugado, seguindo a Regra de Hückel?",
-    "dica": "O benzeno é o exemplo mais clássico e fundamental desse grupo de compostos. São os Hidrocarbonetos... .",
+    "pergunta": "Na química orgânica, qual termo é utilizado para descrever compostos cíclicos e planos que possuem uma estabilidade excepcionalmente alta devido à deslocalização de elétrons pi em um sistema conjugado, seguindo a Regra de Hückel?",
+    "dica": "O benzeno ($C_6H_6$) é o exemplo mais clássico e fundamental desse grupo de compostos. São os Hidrocarbonetos... .",
     "resposta": "Aromáticos"
   },
   {
-    "pergunta": "Qual astrofísico e astrônomo britânico descobriu os primeiros pulsares (estrelas de nêutrons em rápida rotação que emitem feixes periódicos de radiação) in 1967, embora tenha sido injustamente deixada de fora do Prêmio Nobel que premiou seu orientador?",
+    "pergunta": "Qual astrofísico e astrônomo britânico descobriu os primeiros pulsares (estrelas de nêutrons em rápida rotação que emitem feixes periódicos de radiação) em 1967, embora tenha sido injustamente deixada de fora do Prêmio Nobel que premiou seu orientador?",
     "dica": "Seu primeiro nome era Jocelyn e seu sobrenome começa com a letra 'B'.",
     "resposta": "Jocelyn Bell Burnell"
   },
@@ -241,7 +241,7 @@
   },
   {
     "pergunta": "Qual fisiologista e psicólogo russo ganhou o Prêmio Nobel de Medicina em 1904 por suas pesquisas sobre o sistema digestório, descobrindo acidentalmente o conceito de 'reflexo condicionado' ao estudar a salivação de cães?",
-    "dica": "Seus experimentos demonstraram que um estímulo neutro (como o som de uma sineta), quando associado repetidamente à comida, passa a gerar uma resposta biológica automática. Seu sobrenome é... .",
+    "dica": "Seus experimentos demonstraram que um anunciou neutro (como o som de uma sineta), quando associado repetidamente à comida, passa a gerar uma resposta biológica automática. Seu sobrenome é... .",
     "resposta": "Ivan Pavlov"
   },
   {
@@ -270,189 +270,129 @@
     "resposta": "Zênite"
   },
   {
-    "pergunta": "Qual astrofísico germano-americano calculou em 1916 a primeira solução exata para as equações de campo da Relatividade Geral de Einstein, definindo matematicamente a geometria do espaço-tempo ao redor de uma massa esférica?",
-    "dica": "O raio teórico que determina o tamanho do horizonte de eventos de um buraco negro estático leva o seu sobrenome. É Karl... .",
-    "resposta": "Karl Schwarzschild"
+    "pergunta": "Qual astrônomo americano liderou a equipe que descobriu Plutão em 1930 no Observatório Lowell, marcando a história da exploração do Sistema Solar?",
+    "dica": "Seu primeiro nome era Clyde e seu sobrenome começa com a letra 'T'.",
+    "resposta": "Clyde Tombaugh"
   },
   {
-    "pergunta": "Na genética molecular, qual termo designa as sequências de nucleotídeos presentes em um gene que não codificam aminoácidos e são removidas do transcrito de RNA durante o processo de splicing?",
-    "dica": "Elas intercalam as regiões expressas e codificantes chamadas éxons. Começa com a letra 'Í'.",
-    "resposta": "Íntrons"
+    "pergunta": "Qual cientista e matemático inglês formulou a lei da elasticidade em 1676, estabelecendo que a deformação sofrida por um corpo elástico é diretamente proporcional à força nela exercida?",
+    "dica": "Ele foi um grande rival de Isaac Newton e também batizou a estrutura biológica da 'célula' ao observar cortes de cortiça no microscópio. Seu sobrenome é... .",
+    "resposta": "Robert Hooke"
   },
   {
-    "pergunta": "Qual lei do eletromagnetismo, que constitui uma das quatro Equações de Maxwell, estabelece que a força eletromotriz induzida em um circuito fechado é igual à taxa de variação negativa do fluxo magnético através da superfície delimitada pelo circuito?",
-    "dica": "Esse princípio físico é a base de funcionamento de transformadores, dínamos e geradores elétricos. É a Lei da Indução de... .",
-    "resposta": "Faraday"
+    "pergunta": "Na química analítica, como são chamadas as substâncias que mudam de cor de forma perceptível dependendo da concentração de íons hidrogênio (H+) na solução, sendo usadas para determinar visualmente se um meio é ácido ou básico?",
+    "dica": "O papel de tornassol e a fenolftaleína são dois dos exemplos mais famosos de laboratório. São os... .",
+    "resposta": "Indicadores de pH"
   },
   {
-    "pergunta": "Na química mineral e analítica, como é chamado o fenômeno pelo qual certos sólidos cristalinos absorvem a umidade do ar atmosférico a ponto de se dissolverem na própria água extraída, formando uma solução aquosa?",
-    "dica": "O cloreto de cálcio e o hidróxido de sódio são exemplos clássicos de substâncias que exibem essa propriedade. Começa com 'D'.",
-    "resposta": "Deliquescência"
+    "pergunta": "Qual médico e cientista alemão revolucionou a neurologia no século XIX ao descobrir a área do córtex cerebral responsável pela compreensão da linguagem falada e escrita?",
+    "dica": "A perda da capacidade de compreender a fala devido a lesões nessa região específica do cérebro é chamada de Afasia de... (sobrenome do médico).",
+    "resposta": "Carl Wernicke"
   },
   {
-    "pergunta": "Qual patologista e anatomista italiano descobriu em 1906 o protozoário causador da malária no sangue humano, revolucionando o estudo de doenças tropicais transmitidas por vetores?",
-    "dica": "Ele dividiu o Prêmio Nobel de Medicina de 1906 com Santiago Ramón y Cajal, embora sua técnica de coloração por nitrato de prata tenha sido usada para mapear neurônios. Seu sobrenome é... .",
-    "resposta": "Camillo Golgi"
+    "pergunta": "Na astrofísica, qual é o nome dado ao ponto teórico de densidade e gravidade infinitas localizado no coração de um buraco negro, onde as decisões conhecidas da física física deixam de funcionar?",
+    "dica": "Toda a matéria que cruza o horizonte de eventos é comprimida de forma matemática e geométrica nesse único ponto. Começa com a letra 'S'.",
+    "resposta": "Singularidade"
   },
   {
-    "pergunta": "Na astrofísica estelar, qual termo técnico designa a imensa pressão para fora exercida pelos fótons gerados nas reações de fusão nuclear do núcleo de uma estrela, atuando como o contrapeso essencial contra o colapso gravitacional?",
-    "dica": "Quando a evolução de uma estrela é tão alta que essa força supera a atração da gravidade, a estrela começa a perder suas camadas externas. É a Pressão de... .",
-    "resposta": "Radiação"
+    "pergunta": "Qual elemento químico metálico, pertencente ao grupo dos metais alcalino-terrosos e com número atômico 20, é o mineral mais abundante no corpo humano, sendo o componente estrutural essencial de ossos dentes?",
+    "dica": "Sua falta crônica na dieta pode levar ao desenvolvimento de osteoporose e seu símbolo na tabela periódica é 'Ca'.",
+    "resposta": "Cálcio"
   },
   {
-    "pergunta": "Qual elemento químico pertencente ao grupo dos lantanídeos, com número atômico 63, possui um isótopo altamente eficiente na captura de nêutrons e é amplamente utilizado como ativador de fósforos vermelhos em telas de tubos de raios catódicos e displays antigos?",
-    "dica": "Seu símbolo na tabela periódica é 'Eu' e seu nome faz alusão direta ao continente onde foi isolado.",
-    "resposta": "Európio"
+    "pergunta": "Como é chamada a molécula transportadora de energia que atua como a principal 'moeda energética' das células vivas, liberando energia utilizável quando perde um de seus grupos fosfato?",
+    "dica": "A sigla significa Trifosfato de Adenosina.",
+    "resposta": "ATP"
   },
   {
-    "pergunta": "Como é chamada a via metabólica celular na qual soluções de ácidos graxos são sucessivamente degradadas na matriz mitocondrial para gerar unidades de acetil-CoA, alimentando o Ciclo de Krebs para a produção de energia?",
-    "dica": "O processo envolve quatro etapas cíclicas e remove dois carbonos por vez da cadeia do ácido graxo. É a... de ácidos graxos.",
-    "resposta": "Beta-oxidação"
+    "pergunta": "Qual físico alemão revolucionou a medicina em 1895 ao descobrir acidentalmente um tipo de radiação eletromagnética de alta energia capaz de atravessar tecidos humanos e impressionar chapas fotográficas?",
+    "dica": "Como ele não conhecia a natureza exata dessa radiação, ele a batizou com a incógnita matemática 'X'. Seu sobrenome é... .",
+    "resposta": "Wilhelm Röntgen"
   },
   {
-    "pergunta": "Qual físico austríaco formulou em 1926 a equação diferencial parcial que descreve a evolução temporal do estado quântico de um sistema mecânico não relativístico, tornando-se o pilar fundamental da mecânica ondulatória?",
-    "dica": "Sua famosa equação introduziu a função de onda e ele é amplamente lembrado pelo paradoxo teórico do gato vivo e morto em uma caixa. Seu sobrenome é... .",
-    "resposta": "Erwin Schrödinger"
+    "pergunta": "Na termodinâmica, como são chamados os processos ou transformações nas quais o sistema não troca nenhuma quantidade de calor com o meio externo ao seu redor?",
+    "dica": "A compressão rápida de um gás dentro de um pistão isolado é um exemplo clássico desse tipo de processo. Começa com a letra 'A'.",
+    "resposta": "Adiabático"
   },
   {
-    "pergunta": "Qual botânico escocês revolucionou a biologia celular em 1831 ao identificar e descrever o núcleo como uma estrutura constante e fundamental no interior das células vegetais, além de dar nome ao movimento aleatório de micropartículas em fluidos?",
-    "dica": "Seu sobrenome começa com a letra 'B' e ele utilizou microscópios ópticos avançados para a sua época.",
-    "resposta": "Robert Brown"
+    "pergunta": "Qual biólogo e ecólogo alemão cunhou o termo 'Ecologia' em 1866 para definir a ciência que estuda as relações complexas entre os seres vivos e o ambiente em que habitam?",
+    "dica": "Ele foi um grande defensor do darwinismo na Europa continental e seu sobrenome começa com a letra 'H'.",
+    "resposta": "Ernst Haeckel"
   },
   {
-    "pergunta": "Na astronomia dinâmica, qual é a denominação oficial dada aos cinco pontos de equilíbrio em um sistema orbital onde a força gravitacional combinada de dois corpos massivos compete com a força centrípeta necessária para um objeto menor acompanhá-los?",
-    "dica": "O telescópio espacial James Webb está posicionado exatamente no segundo desses pontos (L2) do sistema Terra-Sol. São os Pontos de... .",
-    "resposta": "Lagrange"
+    "pergunta": "Na astronomia, qual constelação do hemisfério norte abriga a estrela Polaris (a Estrela do Norte), que serve historicamente como guia de navegação por apontar quase exatamente para o polo norte celeste?",
+    "dica": "O formato dessa constelação lembra uma colher ou uma panela pequena e seu nome faz alusão a um grande mamífero plantígrado. É a... .",
+    "resposta": "Ursa Menor"
   },
   {
-    "pergunta": "Formulada pelo físico alemão Max Planck no ano 1900, qual lei da física quântica e da termodinâmica descreve a quantidade de radiação eletromagnética emitida por um corpo negro em equilíbrio térmico em um determinado comprimento de onda?",
-    "dica": "Essa lei resolveu o paradoxo teórico conhecido como a 'Catástrofe do Ultravioleta' e introduziu o conceito de que a energia é emitida em pacotes discretos (quanta). É a Lei da Radiação de... .",
-    "resposta": "Planck"
+    "pergunta": "Formulado de forma independente por dois cientistas em 1908, qual princípio da genética de populações afirma que as frequências alélicas e genotípicas de uma população tendem a permanecer constantes ao longo das gerações se não houver influência de forças evolutivas (como mutação, seleção ou deriva)?",
+    "dica": "Esse conceito estabelece o modelo de evolução nula para populações ideais. É o Teorema ou Equilíbrio de... .",
+    "resposta": "Equilíbrio de Hardy-Weinberg"
   },
   {
-    "pergunta": "Qual componente especializado do citoesqueleto celular, composto por polímeros da proteína actina, é o principal responsável pela contração muscular, ciclose em células vegetais e pela formação do anel contrátil na divisão celular animal?",
-    "dica": "Eles são as estruturas filamentosas mais finas do citoesqueleto, medindo cerca de 7 nanômetros de diâmetro. São os... .",
-    "resposta": "Microfilamentos"
+    "pergunta": "Na física ondulatória, qual fenômeno ocorre quando duas ou mais ondas da mesma natureza se encontram no mesmo ponto do espaço, resultando em uma nova onda cuja amplitude pode ser maior (induzindo reforço) ou menor (induzindo cancelamento)?",
+    "dica": "Esse efeito pode ser classificado como construtivo ou destrutivo e é a base de funcionamento dos fones de ouvido com cancelamento de ruído ativo.",
+    "resposta": "Interferência"
   },
   {
-    "pergunta": "Na química inorgânica e ambiental, qual é o nome dado ao processo químico pelo qual íons metálicos dissolvidos reagem com a água, quebrando as moléculas de H2O e alterando o pH da solução resultante?",
-    "dica": "É o fenômeno que explica por que a dissolução de certos sais neutros em água pode gerar uma solução final ácida ou básica. É a... salina.",
-    "resposta": "Hidrólise"
+    "pergunta": "Qual astrofísico britânico revolucionou a astrofísica na primeira metade do século XX ao liderar a expedição científica que observou o eclipse solar de 1919 na Ilha de Príncipe, trazendo as primeiras comprovações experimentais da Teoria da Relatividade Geral de Einstein?",
+    "dica": "O limite máximo de luminosidade que uma estrela pode emitir antes que sua pressão de radiação supere sua gravidade leva o seu sobrenome. É Arthur... .",
+    "resposta": "Arthur Eddington"
   },
   {
-    "pergunta": "Qual astrônomo holandês propôs matematicamente em 1950 a existência de uma imensa nuvem esférica de objetos cometares localizada nos confins do Sistema Solar, a quase um ano-luz de distância do Sol?",
-    "dica": "Essa região teórica é considerada o berço dos cometas de longo período e leva o seu sobrenome. É a Nuvem de... .",
-    "resposta": "Oort"
+    "pergunta": "Na química orgânica, qual é o nome da clássica reação de substituição eletrofílica aromática utilizada para introduzir grupos alquila ou acila no anel benzênico, utilizando um ácido de Lewis como catalisador?",
+    "dica": "A reação leva o sobrenome dos dois químicos (um francês e um americano) que a desenvolveram em 1877. É a alquilação de... .",
+    "resposta": "Friedel-Crafts"
   },
   {
-    "pergunta": "Na genética molecular, qual termo designa a enzima especializada capaz de sintetizar fitas de DNA utilizando uma fita de RNA como molde, agindo de forma inversa ao dogma tradicional da transcrição?",
-    "dica": "Essa enzima é um componente essencial para o ciclo de replicação de retrovírus, como o HIV. É a... .",
-    "resposta": "Transcriptase Reversa"
+    "pergunta": "Qual constante física do eletromagnetismo, representada pela letra grega mu0, mede a capacidade de o vácuo permitir a formação de linhas de campo magnético em seu interior?",
+    "dica": "No Sistema Internacional, seu valor exato é expresso por 4pi * 10^-7 T*m/A. É a... .",
+    "resposta": "Permeabilidade Magnética do Vácuo"
   },
   {
-    "pergunta": "Qual lei da física de partículas subatômicas, constituída no modelo padrão, descreve os bósons elementares de spin 1 responsáveis diretos por mediar e transmitir a força nuclear fraca, apresentando massas excepcionalmente altas se comparados ao fóton?",
-    "dica": "Eles dividem-se em três variantes de carga: uma positiva, uma negativa e uma neutra. São os Bósons... .",
-    "resposta": "W e Z"
+    "pergunta": "Na biologia evolutiva, qual termo é utilizado para descrever o fenômeno no qual duas espécies evolutivamente distantes e sem ancestral comum recente desenvolvem estruturas anatômicas ou soluções biológicas semelhantes devido a pressões ambientais análogas (como o corpo hidrodinâmico do tubarão e do golfinho)?",
+    "dica": "Esse processo resulta na formação de órgãos análogos. É a chamada... .",
+    "resposta": "Convergência Evolutiva"
   },
   {
-    "pergunta": "Qual biólogo e citologista alemão estendeu a Teoria Celular em 1855 ao formular o célebre aforismo em latim 'Omnis cellula e cellula', determinando que todas as células vivas originam-se obrigatoriamente de células preexistentes?",
-    "dica": "Ele também é considerado o pai da patologia moderna por aplicar o conceito celular ao estudo das doenças corporais. Seu sobrenome é... .",
-    "resposta": "Rudolf Virchow"
+    "pergunta": "Qual cientista e bacteriologista francês revolucionou a saúde pública no século XIX ao criar a técnica de esterilização de alimentos por aquecimento controlado, além de desenvolver a primeira vacina eficaz contra a raiva?",
+    "dica": "Ele derrubou definitivamente a teoria da geração espontânea (abiogênese) com seu famoso experimento do frasco com pescoço de cisne. Seu sobrenome batiza o processo de tratamento do leite.",
+    "resposta": "Louis Pasteur"
   },
   {
-    "pergunta": "Na astronomia observacional, qual é a denominação dada à linha imaginária que projeta o equador da Terra na esfera celeste, dividindo o céu exatamente nos hemisférios norte e sul celestes?",
-    "dica": "O Sol cruza essa linha exata duas vezes por ano, marcando as datas dos equinócios de primavera e outono. É o... .",
-    "resposta": "Equador Celeste"
+    "pergunta": "Na astronomia estelar, como é conhecido o diagrama ou gráfico que distribui as estrelas cruzando sua luminosidade (ou magnitude absoluta) contra sua temperatura superficial (ou tipo espectral), revelando o padrão de evolução estelar?",
+    "dica": "A maioria das estrelas ativas, incluindo o nosso Sol, fica agrupada em uma faixa diagonal nesse gráfico conhecida como Sequência Principal. Leva o nome de dois astrônomos.",
+    "resposta": "Diagrama de Hertzsprung-Russell"
   },
   {
-    "pergunta": "Na genética molecular, qual é a denominação oficial dada às sequências de três nucleotídeos presentes no RNA transportador que se emparelham de forma complementar com o códon correspondente do RNA mensageiro durante a síntese proteica?",
-    "dica": "Se o códon no RNAm for AUG, essa trinca correspondente no RNAt será UAC. Começa com 'A'.",
-    "resposta": "Anticódon"
+    "pergunta": "Qual elemento químico pertencente ao grupo dos halogênios, com número atômico 53, é um não-metal sólido de cor violeta-escura que sublima facilmente e é biologicamente essencial para a síntese dos hormônios da glândula tireoide humana?",
+    "dica": "Sua falta severa na dieta pode causar o bócio e seu símbolo na tabela periódica é a letra 'I'.",
+    "resposta": "Iodo"
   },
   {
-    "pergunta": "Qual lei da física ondulatória e da acústica estabelece que a intensidade de uma onda esférica diminui de forma inversamente proporcional ao quadrado da distância em relação à fonte emissora?",
-    "dica": "Essa regra geométrica explica por que o som de um grito ou o brilho de uma lanterna enfraquecem rapidamente à medida que nos afastamos. É a Lei do... .",
-    "resposta": "Quadrado do Inverso da Distância"
+    "pergunta": "Como é chamada a via metabólica mitocondrial na qual os elétrons removidos de compostos orgânicos são transferidos por proteínas transportadoras até o oxigênio, gerando o gradiente de prótons necessário para a síntese em massa de ATP pela enzima ATP sintase?",
+    "dica": "É a etapa final e mais rentável da respiração celular aeróbica. Também é conhecida como Fosforilação Oxidativa ou Cadeia... .",
+    "resposta": "Cadeia Respiratória"
   },
   {
-    "pergunta": "Na química industrial e inorgânica, qual é o nome dado ao processo químico clássico utilizado para fabricar ácido sulfúrico em larga escala, baseado na oxidação catalítica do dióxido de enxofre sobre pentóxido de vanádio?",
-    "dica": "O nome do processo faz alusão ao fato de que os gases reagentes entram em proximidade física direta com o catalisador sólido. É o Processo de... .",
-    "resposta": "Processo de Contato"
+    "pergunta": "Qual físico holandês ganhou o Prêmio Nobel de Física em 1913 após conseguir liquefazer o gás hélio em laboratório e descobrir o fenômeno da supercondutividade, observando que a resistência elétrica do mercúrio caía a zero em temperaturas criogênicas?",
+    "dica": "Ele realizou suas descobertas no renomado laboratório de criogenia de Leiden. Seu sobrenome é Onnes.",
+    "resposta": "Heike Kamerlingh Onnes"
   },
   {
-    "pergunta": "Qual bacteriologista britânico revolucionou a história da medicina em 1865 ao introduzir o uso do ácido carbólico (fenol) como o primeiro antisséptico cirúrgico eficaz, aumentando drasticamente as chances de sobrevivência?",
-    "dica": "Seu trabalho baseou-se diretamente nas descobertas microbiológicas de Louis Pasteur e seu sobrenome batiza uma famosa marca de enxaguante bucal. É Joseph... .",
-    "resposta": "Joseph Lister"
+    "pergunta": "Na física óptica, qual lei matemática permite calcular o ângulo exato de refração de um raio de luz ao cruzar a fronteira entre dois meios transparentes distintos, baseando-se nos índices de refração de cada meio?",
+    "dica": "A equação estabelece que n1 * sin(theta1) = n2 * sin(theta2). Leva o nome de um matemático holandês e de um filósofo francês.",
+    "resposta": "Lei de Snell-Descartes"
   },
   {
-    "pergunta": "Qual organela celular clástica e esférica, abundante em células vegetais germinantes (sementes), é uma variante especializada do peroxissomo que contém enzimas responsáveis por converter lipídios de reserva em carboidratos?",
-    "dica": "Esse processo permite que a planta em crescimento obtenha energia antes de conseguir realizar a fotossíntese. O nome começa com a letra 'G'.",
-    "resposta": "Glioxissomo"
+    "pergunta": "Qual importante zoólogo e anatomista alemão formulou os dois primeiros princípios da Teoria Celular em 1839, estendendo as descobertas botânicas para os tecidos animais e determinando que todos os seres vivos são compostos por células?",
+    "dica": "Ele trabalhou em parceria teórica direta com o botânico Matthias Schleiden. Seu sobrenome começa com 'S' e ele também dá nome às células que produzem a bainha de mielina no sistema nervoso periférico.",
+    "resposta": "Theodor Schwann"
   },
   {
-    "pergunta": "Na química quântica, qual número quântico, representado pela letra 'm', determina a orientação espacial tridimensional de um orbital atômico quando o átomo é submetido a um campo magnético externo?",
-    "dica": "Seus valores numéricos são inteiros e variam de -l a +l. É o Número Quântico... .",
-    "resposta": "Magnético"
-  },
-  {
-    "pergunta": "Qual astrônomo e astrofísico americano coordenou em 1960 o Projeto Ozma, realizando a primeira busca sistemática por sinais de rádio de civilizações extraterrestres inteligentes no espaço?",
-    "dica": "Ele criou a célebre equação probabilística utilizada para estimar o número de civilizações ativas na Via Láctea que leva o seu sobrenome. É Frank... .",
-    "resposta": "Frank Drake"
-  },
-  {
-    "pergunta": "Na genética clássica, como é chamado o tipo de herança genética na qual o fenótipo de um indivíduo heterozigoto apresenta uma mistura ou uma característica intermediária perfeita entre os dois homozigotos?",
-    "dica": "Um exemplo clássico ocorre no cruzamento de flores 'boca-de-leão' vermelhas e brancas, que geram descendentes exclusivamente cor-de-rosa. É a Dominância... .",
-    "resposta": "Incompleta"
-  },
-  {
-    "pergunta": "Na química analítica e qualitativa, qual teste de laboratório consiste em introduzir uma amostra mineral diretamente em uma chama de bico de Bunsen para observar a cor emitida pelos elétrons excitados ao retornarem ao estado fundamental?",
-    "dica": "O sódio gera uma chama amarela intensa, enquanto o cobre gera uma chama verde-azulada. É o famoso Teste de... .",
-    "resposta": "Chama"
-  },
-  {
-    "pergunta": "Qual imunologista francês dividiu o Prêmio Nobel de Medicina em 1980 ao lado de Baruj Benacerraf e George Snell por suas descobertas pioneiras sobre as estruturas genéticas da membrana celular que regulam o sistema imunológico?",
-    "dica": "Seu trabalho focou no mapeamento do complexo de histocompatibilidade em humanos (HLA). Seu sobrenome começa com 'D'.",
-    "resposta": "Jean Dausset"
-  },
-  {
-    "pergunta": "Qual elemento químico pertencente ao grupo dos lantanídeos, com número atômico 66, possui propriedades magnéticas excepcionais e é crucial na fabricação de ligas usadas em magnetostrição e em lasers de alta potência?",
-    "dica": "Seu símbolo na tabela periódica é 'Dy' e seu nome deriva do grego para 'difícil de obter'.",
-    "resposta": "Disprósio"
-  },
-  {
-    "pergunta": "Qual médico e neurocientista espanhol é considerado o fundador da neurobiologia moderna ao demonstrar, na virada do século vinte, que o tecido cerebral é composto por células individuais (neurônios) e não por uma rede contínua?",
-    "dica": "Ele utilizou refinements da técnica de coloração por prata e dividiu o Prêmio Nobel de Medicina em 1906. Seu sobrenome é Ramón y... .",
-    "resposta": "Santiago Ramón y Cajal"
-  },
-  {
-    "pergunta": "Na química orgânica, qual é o termo utilizado para designar o processo de quebra de moléculas complexas de hidrocarbonetos de cadeia longa em moléculas menores e mais leves, utilizando calor e catalisadores?",
-    "dica": "Essa técnica refinada é o principal processo industrial utilizado em refinarias para transformar o petróleo bruto em gasolina e querosene. É o... .",
-    "resposta": "Craqueamento"
-  },
-  {
-    "pergunta": "Qual astrônomo e matemático francês publicou no início do século dezenove a monumental obra 'Mecânica Celeste', onde aplicou o cálculo de Newton para provar a estabilidade dinâmica do Sistema Solar?",
-    "dica": "Ele também propôs de forma pioneira a existência de buracos negros e formulou uma famosa transformada matemática usada na engenharia. Seu sobrenome é... .",
-    "resposta": "Pierre-Simon Laplace"
-  },
-  {
-    "pergunta": "Na genética molecular, qual termo designa o conjunto de modificações químicas no DNA ou nas proteínas histonas que alteram a expressão dos genes sem modificar a sequência de nucleotídeos original?",
-    "dica": "Essas alterações podem ser influenciadas pelo ambiente, dieta e estresse, e são transmitidas na divisão celular. O termo começa com 'E'.",
-    "resposta": "Epigenética"
-  },
-  {
-    "pergunta": "Qual naturalista e geógrafo alemão revolucionou a ciência no século dezenove ao realizar uma expedição científica de cinco anos pelas Américas, lançando as bases da biogeografia e da climatologia modernas?",
-    "dica": "Sua obra máxima intitula-se 'Cosmos' e uma famosa corrente marítima fria localizada no Oceano Pacífico leva o seu sobrenome. Ele é Alexander von... .",
-    "resposta": "Alexander von Humboldt"
-  },
-  {
-    "pergunta": "Qual elemento químico gasoso pertencente ao grupo dos halogênios, com número atômico 9, é o elemento mais eletronegativo e reativo de toda a tabela periódica, formando compostos com quase todos os outros elementos?",
-    "dica": "Seu símbolo é a letra 'F' e ele é largamente utilizado na prevenção de cáries dentárias e na fabricação de teflon.",
-    "resposta": "Flúor"
-  },
-  {
-    "pergunta": "Qual biólogo e oncologista americano liderou a equipe que descobriu em 1970 a enzima transcriptase reversa em vírus tumorais, quebrando o chamado dogma central da biologia molecular ao provar que o RNA pode produzir DNA?",
-    "dica": "Ele dividiu o Prêmio Nobel de Medicina in 1975 com Howard Temin e Renato Dulbecco. Seu sobrenome é Baltimore. É David...",
-    "resposta": "David Baltimore"
+    "pergunta": "Na astrofísica, qual é la denominação oficial dada ao sutil eco térmico de radiação eletromagnética que preenche uniformemente todo o espaço do Universo, sendo considerada a principal evidência fóssil do Big Bang?",
+    "dica": "Essa radiação foi emitida quando o Universo tinha apenas cerca de 380 mil anos de idade e resfriou até atingir a temperatura atual de aproximadamente 2,7 Kelvin. É a Radiação Cósmica de... .",
+    "resposta": "Radiação Cósmica de Fundo"
   },
   {
     "pergunta": "Qual microbiologista e botânico russo é considerado um dos descobridores dos vírus em 1892, ao demonstrar que a doença do mosaico do tabaco era causada por um agente infecioso capaz de passar por filtros de porcelana que retinham bactérias?",
