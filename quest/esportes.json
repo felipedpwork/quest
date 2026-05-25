@@ -40,7 +40,7 @@
     "resposta": "Ronaldo Fenômeno, com 8 gols."
   },
   {
-    "pergunta": "Qual jogador marcou o gol do título da Copa do Mundo de 2010 na prorrogação da final?",
+    "pergunta": "Qual jogador marcou the gol do título da Copa do Mundo de 2010 na prorrogação da final?",
     "dica": "Ele é meia espanhol e fez carreira no Barcelona.",
     "resposta": "Andrés Iniesta."
   },
@@ -110,7 +110,7 @@
     "resposta": "Karl Malone."
   },
   {
-    "pergunta": "Qual foi a maior goleada da história das Copas do Mundo e em que ano ocorreu?",
+    "pergunta": "Qual foi o maior goleada da história das Copas do Mundo e em que ano ocorreu?",
     "dica": "O jogo foi na fase de grupos da Copa da Espanha.",
     "resposta": "Hungria 10 x 1 El Salvador, em 1982."
   },
@@ -150,7 +150,7 @@
     "resposta": "2,45 metros, por Javier Sotomayor, em 1993."
   },
   {
-    "pergunta": "Qual jogador marcou cinco gols em uma única partida de Copa do Mundo, feito ocorrido em 1994?",
+    "pergunta": "Qual jogador marcou primeiro cinco gols em uma única partida de Copa do Mundo, feito ocorrido em 1994?",
     "dica": "O jogo foi entre Rússia e Camarões.",
     "resposta": "Oleg Salenko."
   },
@@ -195,44 +195,9 @@
     "resposta": "Geoffrey Mutai."
   },
   {
-    "pergunta": "Qual foi o recorde olímpico dos 100m rasos masculinos estabelecido por Usain Bolt, e em que Jogos?",
-    "dica": "É diferente do recorde mundial, estabelecido em Berlim 2009.",
-    "resposta": "9,63 segundos, em Londres 2012."
-  },
-  {
-    "pergunta": "Qual ciclista venceu o Tour de France sete vezes consecutivas e depois teve todos os títulos anulados por doping?",
-    "dica": "Ele é americano e fundou uma organização de combate ao câncer.",
-    "resposta": "Lance Armstrong."
-  },
-  {
-    "pergunta": "Quantas vezes Serena Williams venceu o Grand Slam australiano ao longo da carreira?",
-    "dica": "É o Grand Slam que ela mais venceu.",
-    "resposta": "Sete vezes."
-  },
-  {
-    "pergunta": "Qual jogador foi artilheiro das Copas do Mundo de 1970 e 1974, vencendo os dois torneios com a seleção alemã?",
-    "dica": "Ele é considerado um dos maiores centroavantes da história do futebol.",
-    "resposta": "Gerd Müller, artilheiro em 1970 (10 gols) e em 1974 (4 gols)."
-  },
-  {
-    "pergunta": "Qual foi o placar da final da Copa do Mundo de 1970 entre Brasil e Itália?",
-    "dica": "Foi a conquista do tricampeonato brasileiro.",
-    "resposta": "Brasil 4 x 1 Itália."
-  },
-  {
-    "pergunta": "Qual foi o resultado da 'Batalha de Berna', semifinal da Copa de 1954 entre Hungria e Brasil, marcada por violência dentro e fora de campo?",
-    "dica": "A briga continuou nos vestiários após o apito final.",
-    "resposta": "Hungria 4 x 2 Brasil."
-  },
-  {
     "pergunta": "Qual foi o recorde de velocidade máxima em um saque de tênis na história, e quem o atingiu?",
     "dica": "O feito foi registrado na Coreia do Sul, em 2012.",
     "resposta": "263,4 km/h, pelo australiano Sam Groth."
-  },
-  {
-    "pergunta": "Qual foi o placar da final olímpica de futebol masculino em que o Brasil conquistou o ouro em Tóquio 2020?",
-    "dica": "O adversário foi a seleção anfitriã do torneio.",
-    "resposta": "Brasil 2 x 1 Espanha, na prorrogação."
   },
   {
     "pergunta": "Qual foi o tempo de Florence Griffith-Joyner nos 200m rasos, recorde mundial feminino estabelecido em 1988?",
@@ -240,21 +205,10 @@
     "resposta": "21,34 segundos."
   },
   {
-    "pergunta": "Qual foi o placar do jogo entre Brasil e Itália na semifinal da Copa de 1938, que eliminou os brasileiros com Leônidas poupado?",
-    "dica": "O Brasil considerou a semifinal uma formalidade — e pagou caro pelo erro.",
-    "resposta": "Itália 2 x 1 Brasil."
-  },
-  {
     "pergunta": "Qual jogador marcou o gol que deu à Alemanha o tetracampeonato na Copa de 2014, na prorrogação da final contra a Argentina?",
     "dica": "Ele entrou como substituto durante a partida.",
     "resposta": "Mario Götze."
   },
-
-
-
-
-
-
   {
     "pergunta": "Qual foi o placar da final da Copa do Mundo de 1958, quando Pelé marcou dois gols com apenas 17 anos?",
     "dica": "A final foi disputada no país sede do torneio.",
@@ -296,7 +250,7 @@
     "resposta": "12,80 segundos."
   },
   {
-    "pergunta": "Qual seleção derrotou a Alemanha por 2x1 na final da Copa do Mundo de 1986 no México?",
+    "pergunta": "Qual seleção derrotou a Alemanha por 3x2 na final da Copa do Mundo de 1986 no México?",
     "dica": "O astro daquela seleção marcou o famoso gol de mão e o 'gol do século' naquele torneio.",
     "resposta": "Argentina."
   },
@@ -311,9 +265,9 @@
     "resposta": "Los Angeles 1984, com 9,99 segundos."
   },
   {
-    "pergunta": "Qual jogador marcou o gol de pênalti que deu à França o título da Copa do Mundo de 1998 contra o Brasil?",
-    "dica": "Na verdade, a França venceu por 3x0 — sem pênaltis. Quem marcou o terceiro gol?",
-    "resposta": "Emmanuel Petit marcou o terceiro gol. Os outros dois foram de Zinedine Zidane (dois de cabeça)."
+    "pergunta": "Qual jogador marcou o terceiro gol da França que sacramentou o título da Copa do Mundo de 1998 contra o Brasil?",
+    "dica": "A França venceu por 3x0 e os outros dois gols foram de Zinedine Zidane (dois de cabeça).",
+    "resposta": "Emmanuel Petit."
   },
   {
     "pergunta": "Qual clube inglês foi o primeiro a vencer a Liga dos Campeões da UEFA em sua história, em 1968?",
@@ -331,7 +285,7 @@
     "resposta": "Itália 3 x 1 Alemanha Ocidental."
   },
   {
-    "pergunta": "Qual time venceu a Copa Libertadores de 2019 após uma virada dramática sobre o Flamengo na final?",
+    "pergunta": "Qual time venceu a Copa Libertadores de 2019 após uma virada dramática sobre o River Plate na final?",
     "dica": "A virada aconteceu nos minutos finais, em Lima, no Peru.",
     "resposta": "Flamengo venceu o River Plate por 2x1, com gols nos acréscimos de Gabigol."
   },
@@ -342,7 +296,7 @@
   },
   {
     "pergunta": "Qual seleção africana chegou às quartas de final da Copa do Mundo de 1990, a melhor campanha africana até então?",
-    "dica": "A seleção foi eliminada pela Inglaterra nos pênaltis.",
+    "dica": "A seleção foi eliminada pela Inglaterra na prorrogação.",
     "resposta": "Camarões."
   },
   {
@@ -367,18 +321,13 @@
   },
   {
     "pergunta": "Qual foi a seleção que a Espanha derrotou na final da Eurocopa de 2008, conquistando o primeiro de três títulos consecutivos?",
-    "dica": "O adversário era o país sede do torneio.",
+    "dica": "O adversário era uma potência tradicional do futebol mundial.",
     "resposta": "Alemanha, por 1x0."
   },
   {
     "pergunta": "Qual foi o placar da decisão entre Brasil e Argentina na final da Copa América de 2021?",
     "dica": "A final foi disputada no Maracanã e encerrou um longo jejum argentino.",
     "resposta": "Argentina 1 x 0 Brasil, com gol de Ángel Di María."
-  },
-  {
-    "pergunta": "Qual foi o recorde de velocidade máxima registrado por um jogador durante a Copa do Mundo de 2022?",
-    "dica": "O jogador é da seleção de Gales e atingiu mais de 35 km/h.",
-    "resposta": "Kieran Trippier (Inglaterra) atingiu 35,1 km/h — entre os mais rápidos do torneio."
   },
   {
     "pergunta": "Qual foi o tempo de Usain Bolt nos 100m rasos da final olímpica de Pequim 2008?",
@@ -411,11 +360,6 @@
     "resposta": "Brasil 2 x 0 Alemanha."
   },
   {
-    "pergunta": "Qual tenista venceu o US Open de 2001, encerrando o domínio de Pete Sampras no torneio?",
-    "dica": "O suíço tinha 20 anos e era relativamente desconhecido antes daquela campanha.",
-    "resposta": "Roger Federer."
-  },
-  {
     "pergunta": "Qual foi o resultado da final da Copa América de 2019, disputada no Maracanã entre Brasil e Peru?",
     "dica": "O Brasil foi anfitrião e venceu com folga.",
     "resposta": "Brasil 3 x 1 Peru."
@@ -438,16 +382,16 @@
   {
     "pergunta": "Qual foi o placar final do jogo Brasil x França nas quartas de final da Copa de 2006, que eliminou o Brasil?",
     "dica": "Zidane foi o grande destaque do jogo pelo lado francês.",
-    "resposta": "França 1 x 0 Brasil, com gol de Zidane."
+    "resposta": "França 1 x 0 Brasil."
   },
   {
-    "pergunta": "Qual piloto de F1 venceu o campeonato mundial de 2008 por apenas um ponto, na última curva da última corrida da temporada?",
+    "pergunta": "Qual piloto de F1 venceu o campeonato mundial de 2008 por apenas um ponto, na última curva da última corrida da temporada em Interlagos?",
     "dica": "Ele precisava terminar em quinto lugar na corrida final para ser campeão.",
     "resposta": "Lewis Hamilton."
   },
   {
     "pergunta": "Qual time venceu a Copa Libertadores de 2012, derrotando o Boca Juniors na final?",
-    "dica": "O clube é brasileiro e é conhecido como 'O Mais Querido do Brasil'.",
+    "dica": "O clube é brasileiro e conquistou o título de forma invicta.",
     "resposta": "Corinthians."
   },
   {
@@ -472,18 +416,13 @@
   },
   {
     "pergunta": "Qual clube venceu a Copa Libertadores de 2018, derrotando o Boca Juniors em uma final transferida para Madrid?",
-    "dica": "O jogo em Buenos Aires foi suspenso após o ônibus do time adversário ser atacado por torcedores.",
+    "dica": "O jogo em Buenos Aires foi suspenso após o ônibus do time visitante ser atacado por torcedores.",
     "resposta": "River Plate, por 3x1 na prorrogação."
   },
   {
-    "pergunta": "Qual clube venceu a Copa Libertadores de 2018, derrotando o River Plate em uma final disputada em Madrid após confusão no jogo de volta em Buenos Aires?",
-    "dica": "Os dois finalistas eram rivais do mesmo país.",
-    "resposta": "Boca Juniors — na verdade o River Plate venceu o Boca Juniors por 3x1 na prorrogação, em Madrid."
-  },
-  {
-    "pergunta": "Qual foi o placar da final olímpica de vôlei masculino entre Brasil e Rússia nos Jogos de Atenas 2004?",
-    "dica": "O Brasil venceu de virada após perder o primeiro set.",
-    "resposta": "Brasil venceu por 3x2 (19-25, 25-22, 25-22, 26-24, 15-9)."
+    "pergunta": "Qual foi o placar da final olímpica de vôlei masculino entre Brasil e Itália nos Jogos de Atenas 2004?",
+    "dica": "O Brasil conquistou a medalha de ouro sob o comando de Bernardinho.",
+    "resposta": "Brasil 3 x 1 Itália."
   },
   {
     "pergunta": "Qual foi o recorde mundial dos 110m com barreiras estabelecido por Colin Jackson em 1993?",
@@ -496,20 +435,10 @@
     "resposta": "Inglaterra 4 x 2 Alemanha Ocidental."
   },
   {
-    "pergunta": "Qual seleção eliminou a Argentina nas quartas de final da Copa do Mundo de 2022?",
-    "dica": "A decisão foi nos pênaltis, e a Argentina havia sido favorita ao título.",
-    "resposta": "Holanda, nos pênaltis."
+    "pergunta": "Qual seleção eliminou a Holanda nas quartas de final da Copa do Mundo de 2022?",
+    "dica": "A decisão foi nos pênaltis, e a equipe vencedora acabou se sagrando campeã mundial.",
+    "resposta": "Argentina."
   },
-  {
-    "pergunta": "Qual foi a seleção que eliminou a Argentina nas quartas de final da Copa de 2022, surpreendendo o favorito?",
-    "dica": "A seleção é da Árábia Saudita — não, a Argentina foi eliminada... pela Holanda nas quartas, nos pênaltis.",
-    "resposta": "Holanda eliminou a Argentina nas quartas de final da Copa de 2022, nos pênaltis."
-  },
-
-
-
-
-
   {
     "pergunta": "Qual skatista brasileira, apelidada de 'Fadinha', conquistou o Brasil e o mundo ao faturar a medalha de prata na modalidade Street nos Jogos Olímpicos de Tóquio 2020 com apenas 13 anos de idade?",
     "dica": "Seu nome de batismo é Jhulia Rayssa Mendes Leal, mas ela compete globalmente usando apenas seus dois primeiros nomes.",
@@ -541,14 +470,9 @@
     "resposta": "Roger Federer"
   },
   {
-    "pergunta": "Em qual modalidade esportiva olímpica os atletas competem utilizando armas brancas chamadas florete, espada ou sabre, tentando tocar o tronco ou o corpo do adversário para somar pontos?",
+    "pergunta": "Em qual modalidade esportiva olímpica de linha os atletas competem utilizando armas brancas chamadas florete, espada ou sabre, tentando tocar o tronco ou o corpo do adversário para somar pontos?",
     "dica": "Os competidores vestem uma roupa branca protetora e uma máscara metálica conectada a sensores eletrônicos de toque.",
     "resposta": "Esgrima"
-  },
-  {
-    "pergunta": "Qual seleção masculina de futebol conquistou a Copa do Mundo de 2010, realizada na África do Sul, ao derrotar a Holanda na prorrogação da final com um gol histórico do meia Andrés Iniesta?",
-    "dica": "Essa equipe era famosa por seu estilo de jogo baseado na intensa troca de passes rápidos e posse de bola, conhecido como 'Tiki-taka'.",
-    "resposta": "Espanha"
   },
   {
     "pergunta": "No surfe profissional da WSL, quem foi o primeiro surfista brasileiro a conquistar um título mundial na categoria de elite, abrindo as portas para a era conhecida como 'Tempestade Brasileira'?",
@@ -586,29 +510,14 @@
     "resposta": "3 segundos"
   },
   {
-    "pergunta": "Qual país é o maior vencedor da história da Copa do Mundo de Futebol da FIFA, ostentando cinco títulos mundiais conquistados em 1958, 1962, 1970, 1994 e 2002?",
-    "dica": "É a única seleção do planeta a ter participado de absolutamente todas as edições do torneio mundial desde 1930.",
-    "resposta": "Brasil"
-  },
-  {
     "pergunta": "No tênis de mesa, quantos pontos um jogador precisa marcar para vencer um 'set' regular, desde que haja uma vantagem mínima de dois pontos sobre o adversário?",
     "dica": "Até o ano de 2001, a regra antiga exigia que os sets fossem jogados até 21 pontos, mas a ITTF reduziu o valor para tornar o esporte mais rápido.",
     "resposta": "11 pontos"
   },
   {
-    "pergunta": "Qual atleta norte-americana dominou o atletismo de velocidade na década de 1980 e ainda detém os recordes mundiais imbatíveis dos 100 metros rasos (10s49) e dos 200 metros rasos (21s34)?",
-    "dica": "Ela era famosa por suas unhas longas e estilizadas nas pistas de corrida. Seu sobrenome composto é Griffith-Joyner.",
-    "resposta": "Florence Griffith-Joyner"
-  },
-  {
     "pergunta": "No hóquei sobre o gelo, de qual material rígido e vulcanizado é feito o disco (puck) utilizado pelos jogadores para marcar os gols?",
     "dica": "O material é resfriado antes dos jogos para evitar que ele quique excessivamente na superfície lisa do gelo. É a... .",
     "resposta": "Borracha"
-  },
-  {
-    "pergunta": "Qual ciclista norte-americano venceu sete edições consecutivas do Tour de France após superar um câncer de testículo, mas teve todos os seus títulos cassados em 2012 devido a um gigantesco escândalo de doping?",
-    "dica": "Ele confessou o esquema de dopagem sistemática em uma famosa entrevista televisiva para a apresentadora Oprah Winfrey. Seu sobrenome é Armstrong.",
-    "resposta": "Lance Armstrong"
   },
   {
     "pergunta": "No futebol americano da NFL, quantas jardas a equipe de ataque precisa avançar em no máximo quatro tentativas (downs) para conseguir uma nova primeira descida (first down)?",
@@ -619,26 +528,6 @@
     "pergunta": "Qual lutador canadense de artes marciais mistas (MMA) é amplamente considerado um dos maiores da história do UFC, tendo dominado a categoria dos pesos-meio-médios por anos e se aposentado como campeão dos pesos-médios?",
     "dica": "Ele era conhecido pela sigla de suas iniciais 'GSP' e possuía uma técnica impecável de wrestling e trocação.",
     "resposta": "Georges St-Pierre"
-  },
-  {
-    "pergunta": "Nas provas olímpicas de saltos ornamentais, qual é a altura padrão, medida em metros a partir do nível da água, da plataforma rígida mais alta utilizada nas competições individuais e sincronizadas?",
-    "dica": "Dessa altura, os atletas executam acrobacias complexas antes de entrarem na água de forma vertical e sem espirrar.",
-    "resposta": "10 metros"
-  },
-  {
-    "pergunta": "Qual clube de futebol italiano, conhecido pelo apelido de 'Velha Senhora' (La Vecchia Signora), é o maior vencedor da história da primeira divisão italiana (Série A), mandando seus jogos em Turim?",
-    "dica": "Suas cores tradicionais são listras verticais em preto e branco.",
-    "resposta": "Juventus"
-  },
-  {
-    "pergunta": "No boxe profissional, como é chamada a interrupção da luta decidida pelo árbitro quando um dos pugilistas está visivelmente sem condições de se defender, mesmo sem ter caído no chão para a contagem de dez segundos?",
-    "dica": "A abreviação oficial em inglês para esse tipo de encerramento de combate é TKO. É o Nocaute... .",
-    "resposta": "Nocaute Técnico"
-  },
-  {
-    "pergunta": "Qual nadadora brasileira fez história ao conquistar a medalha de ouro na prova de 10 km da Maratona Aquática nos Jogos Olímpicos de Tóquio 2020, tornando-se um dos maiores nomes dos esportes de águas abertas?",
-    "dica": "Ela é soteropolitana, atleta do Time Brasil e seu sobrenome é Cunha. Seu primeiro nome composto é Ana Marcela.",
-    "resposta": "Ana Marcela Cunha"
   },
   {
     "pergunta": "Nas regras oficiais do beisebol, quantos jogadores de linha compõem a equipe de defesa em campo durante uma partida regular?",
@@ -661,13 +550,8 @@
     "resposta": "Garry Kasparov"
   },
   {
-    "pergunta": "No basquetebol masculino e feminino, qual é a altura oficial padrão da tabela e do aro da cesta em relação ao solo da quadra de jogo?",
-    "dica": "Essa medida corresponde a exatamente 10 pés no sistema de unidades norte-americano, mantida desde a criação do esporte por James Naismith.",
-    "resposta": "3,05 metros"
-  },
-  {
-    "pergunta": "Qual maratonista brasileira é considerada a maior corredora de longa distância da história do atletismo nacional, tendo vencido duas vezes a prestigiada Maratona de Nova York (1994 e 1995)?",
-    "dica": "Ela também conquistou a tradicional Corrida de São Silvestre e seu sobrenome começa com a letra 'R'. É Tegla... .",
+    "pergunta": "Qual maratonista de elite é considerada a maior corredora de longa distância da história do atletismo queniano, tendo vencido duas vezes a prestigiada Maratona de Nova York e quebrado barreiras mundiais?",
+    "dica": "Ela também conquistou grandes maratonas europeias e seu sobrenome começa com a letra 'L'. É Tegla... .",
     "resposta": "Tegla Loroupe"
   },
   {
@@ -676,19 +560,9 @@
     "resposta": "Scrum"
   },
   {
-    "pergunta": "Qual tenista espanhol ficou mundialmente conhecido como o 'Rei do Saibro' devido ao seu domínio absoluto na quadra de terra batida do torneio de Roland Garros, onde venceu o Grand Slam francês por impressionantes 14 vezes?",
-    "dica": "Ele possui uma das esquerdas mais potentes e físicas do circuito e seu primeiro nome é Rafael.",
-    "resposta": "Rafael Nadal"
-  },
-  {
     "pergunta": "Em qual esporte de combate os atletas competem vestindo calções acolchoados e luvas, utilizando técnicas de socos e chutes, onde a modalidade permite o uso dos joelhos e canelas, originária da Tailândia?",
     "dica": "A modalidade é conhecida internacionalmente como a 'Arte dos Oito Membros'.",
     "resposta": "Muay Thai"
-  },
-  {
-    "pergunta": "Qual clube de futebol inglês, sediado em Manchester e apelidado de 'Os Diabos Vermelhos' (The Red Devils), é o maior vencedor da era moderna da Premier League inglesa, tendo sido comandado por décadas por Sir Alex Ferguson?",
-    "dica": "Suas cores principais são vermelho e branco e seu estádio histórico chama-se Old Trafford.",
-    "resposta": "Manchester United"
   },
   {
     "pergunta": "No polo sobre cavalos, quantos períodos de tempo regulamentares, chamados de 'Chukkas', compõem uma partida padrão do esporte?",
@@ -701,26 +575,6 @@
     "resposta": "Rosa Mota"
   },
   {
-    "pergunta": "Nas regras oficiais do polo aquático, por quantos minutos dura cada um dos quatro períodos de tempo de jogo corrido em uma partida internacional?",
-    "dica": "O tempo total de jogo ativo soma 32 minutos de natação e disputas intensas dentro da piscina.",
-    "resposta": "8 minutos"
-  },
-  {
-    "pergunta": "Qual piloto de Fórmula 1 detém o recorde histórico de maior número de 'pole positions' e vitórias na história da categoria?",
-    "dica": "Ele conquistou a maioria de seus títulos mundiais correndo pela equipe Mercedes e seu primeiro nome é Lewis.",
-    "resposta": "Lewis Hamilton"
-  },
-
-
-
-
-
-  {
-    "pergunta": "Qual país conquistou a medalha de ouro no basquetebol masculino nos Jogos Olímpicos de Munique, em 1972, quebrando uma sequência de 63 vitórias consecutivas e sete títulos olímpicos seguidos dos Estados Unidos?",
-    "dica": "A final terminou em 51 a 50 após um final polêmico onde os três segundos finais do cronômetro foram reajustados três vezes pelos oficiais de mesa.",
-    "resposta": "União Soviética"
-  },
-  {
     "pergunta": "No automobilismo de Fórmula 1, qual piloto detém o recorde de ser o mais jovem a conquistar um campeonato mundial pilotando por uma equipe sem o uso de motores de fábrica (equipe Garagista independente), vencendo em 1970?",
     "dica": "Ele faleceu em um treino livre em Monza na mesma temporada e tornou-se o único campeão póstumo da história da categoria. Seu sobrenome é Rindt.",
     "resposta": "Jochen Rindt"
@@ -729,11 +583,6 @@
     "pergunta": "Nas regras oficiais do futebol da IFAB, qual é o procedimento correto caso uma bola estoure ou apresente defeito de pressão exatamente no momento em que é chutada em uma cobrança de pênalti, antes de tocar em qualquer outro jogador ou trave?",
     "dica": "O jogo deve ser interrompido para a troca da bola, mas a penalidade não é considerada batida. O procedimento exige a... .",
     "resposta": "Repetição da cobrança"
-  },
-  {
-    "pergunta": "Qual atleta britânico, especialista em meia-distância, marcou a história do atletismo mundial em 6 de maio de 1954 ao se tornar o primeiro ser humano a correr a distância de uma milha em menos de quatro minutos?",
-    "dica": "O feito foi alcançado na pista de Iffley Road, em Oxford, com o tempo cravado de 3 minutos, 59 segundos e 4 décimos. Seu sobrenome é Bannister.",
-    "resposta": "Roger Bannister"
   },
   {
     "pergunta": "No tênis de campo, qual tenista australiano é o único atleta masculino na história a conquistar o Grand Slam civil (vencer os quatro principais torneios no mesmo ano) por duas vezes distintas (1962 e 1969)?",
@@ -746,11 +595,6 @@
     "resposta": "Retorno da bola para a zona de defesa"
   },
   {
-    "pergunta": "Qual clube de futebol europeu foi o primeiro a conquistar a UEFA Champions League utilizando uma equipe composta exclusivamente por jogadores nascidos em um raio de até 50 quilômetros ao redor do estádio do clube?",
-    "dica": "O feito histórico ocorreu em 1967, quando o time escocês derrotou a Internazionale de Milão na final em Lisboa, ganhando o apelido de 'Leões de Lisboa'.",
-    "resposta": "Celtic"
-  },
-  {
     "pergunta": "Em qual modalidade olímpica de tiro os atletas competem em uma fase final eliminatória onde os alvos são disparados de duas cabines (uma alta e uma baixa) posicionadas nas extremidades de um semicírculo de tiro?",
     "dica": "A modalidade difere da Fossa Olímpica tradicional por apresentar trajetórias angulares fixas e cruzadas de pratos. É o... .",
     "resposta": "Skeet"
@@ -759,11 +603,6 @@
     "pergunta": "Qual ciclista francês, apelidado de 'O Texugo' (Le Blaireau), dominou o ciclismo de estrada no final da década de 1970 e primeira metade dos anos 1980, igualando o recorde de cinco vitórias gerais no Tour de France?",
     "dica": "Ele era conhecido por sua personalidade agressiva e por ser o último francês a vencer a classificação geral do Tour, em 1985. Seu sobrenome é Hinault.",
     "resposta": "Bernard Hinault"
-  },
-  {
-    "pergunta": "No beisebol profissional da MLB, qual jogador detém o recorde histórico e absoluto de maior número de rebatidas válidas (hits) na carreira, acumulando 4.256 rebatidas ao longo de 24 temporadas?",
-    "dica": "Apesar do recorde lendário obtido entre as décadas de 1960 e 1980, ele foi banido permanentemente do esporte por apostar em jogos enquanto atuava como técnico.",
-    "resposta": "Pete Rose"
   },
   {
     "pergunta": "Nas regras oficiais do voleibol de quadra, qual termo técnico designa a linha tracejada posicionada paralelamente à rede, a três metros de distância desta, que delimita a zona de ataque da zona de defesa?",
@@ -782,146 +621,13 @@
   },
   {
     "pergunta": "Qual piloto italiano é amplamente considerado o maior ícone das primeiras eras do motociclismo mundial, detendo o recorde absoluto de 15 títulos mundiais de motovelocidade conquistados entre as décadas de 1960 e 1970?",
-    "dica": "Ele competiu predominantemente nas categorias de 350cc e 500cc pela lendária equipe MV Agusta. Seu sobrenome é Agostini.",
+    "dica": "Ele competia predominantemente nas categorias de 350cc e 500cc pela lendária equipe MV Agusta. Seu sobrenome é Agostini.",
     "resposta": "Giacomo Agostini"
   },
   {
-    "pergunta": "Nas regras oficiais do handebol da IHF, quantos segundos um jogador pode permanecer com a posse da bola parada nas mãos sem driblar, passar ou arremessar antes que seja marcada uma infração de manejo?",
-    "dica": "Esse limite de tempo curto serve para manter a alta dinamicidade do jogo coletivo em quadra.",
-    "resposta": "3 segundos"
-  },
-  {
-    "pergunta": "Qual nadadora da Alemanha Oriental chocou o mundo nos Jogos Olímpicos de Seul, em 1988, ao conquistar seis medalhas de ouro em seis provas disputadas, tornando-se a primeira mulher a alcançar esse feito em uma única Olimpíada?",
-    "dica": "Ela dominou as provas de borboleta, costas e livre, embora sua carreira tenha ficado sob a sombra do programa de doping estatal da Alemanha Oriental. Seu sobrenome é Otto.",
-    "resposta": "Kristin Otto"
-  },
-  {
-    "pergunta": "No esporte olímpico do levantamento de peso (halterofilismo), quais são as duas técnicas de movimento de elevação da barra permitidas e avaliadas oficialmente nas competições modernas?",
-    "dica": "Uma delas exige que a barra seja levantada do chão até acima da cabeça em um único movimento contínuo; a outra divide-se em duas etapas (peito e depois arremesso).",
-    "resposta": "Arranco e Arremesso"
-  },
-  {
-    "pergunta": "Qual fundista finlandês, apelidado de 'O Finlandês Voador', dominou o atletismo de longa distância na década de 1920, acumulando um recorde de nove medalhas de ouro olímpicas ao longo de três edições dos Jogos?",
-    "dica": "Ele era conhecido por correr mantendo os olhos fixos em um cronômetro que carregava na mão para ditar seu ritmo de passada. Seu sobrenome é Nurmi.",
-    "resposta": "Paavo Nurmi"
-  },
-  {
-    "pergunta": "No beisebol, qual é o termo em inglês que designa a raríssima partida perfeita na qual um arremessador elimina todos os 27 batedores adversários consecutivamente, sem permitir que nenhum chegue à primeira base por qualquer motivo?",
-    "dica": "Ao longo de mais de 150 anos de história da MLB, menos de trinta desses confrontos impecáveis foram registrados. É o chamado... Game.",
-    "resposta": "Perfect Game"
-  },
-  {
-    "pergunta": "Qual enxadrista cubano foi campeão mundial de xadrez de 1921 a 1927 e ficou imortalizado na história do esporte da mente devido à sua precisão cirúrgica no final do jogo e por passar anos sem perder uma única partida oficial?",
-    "dica": "Ele derrotou Emanuel Lasker para assumir o trono mundial e possuía o sobrenome composto Capablanca. Seu primeiro nome é... .",
-    "resposta": "José Raúl Capablanca"
-  },
-  {
-    "pergunta": "Nas regras de arbitragem do futebol de campo da IFAB, qual é o procedimento correto caso um jogador reserva, que está se aquecendo atrás do gol, entre em campo sem autorização e chute a bola para impedir um gol iminente do adversário?",
-    "dica": "A infração resulta em cartão vermelho direto para o reserva invasor e o jogo deve ser reiniciado com a marcação de um... .",
-    "resposta": "Tiro livre direto"
-  },
-  {
-    "pergunta": "Qual seleção masculina de vôlei detém o recorde de maior sequência de títulos consecutivos no Campeonato Mundial da FIVB na era moderna, conquistando o tetracampeonato consecutivo entre 2002 e 2014?",
-    "dica": "Essa geração dominante foi comandada pelo técnico Bernardinho e contava com jogadores como Giba, Ricardinho e Serginho.",
-    "resposta": "Brasil"
-  },
-  {
-    "pergunta": "No esporte de inverno do curling, qual é a denominação oficial dada ao capitão ou líder da equipe, que dita a estratégia das jogadas, indica onde as pedras devem ser posicionadas e geralmente executa os dois últimos lançamentos do 'end'?",
-    "dica": "O termo em inglês traduz-se literalmente como 'pular' ou 'capitão'. Começa com a letra 'S'.",
-    "resposta": "Skip"
-  },
-  {
-    "pergunta": "Qual atleta norte-americano de salto em altura revolucionou completamente a história da modalidade nos Jogos Olímpicos do México, em 1968, ao introduzir a técnica de saltar de costas para o sarrafo, que hoje é o padrão mundial?",
-    "dica": "Seu estilo inovador que quebrou os antigos padrões de salto frontal ficou mundialmente batizado com o seu sobrenome: o estilo... Flop.",
-    "resposta": "Fosbury"
-  },
-  {
-    "pergunta": "Nas regras oficiais da esgrima olímpica, qual das três armas utilizadas (florete, espada ou sabre) permite que os pontos sejam marcados tanto com a ponta da arma quanto com o corte ou contrafio da lâmina?",
-    "dica": "Essa arma possui regras de combate que simulam os duelos de cavalaria rápidos, onde a área de toque válida engloba todo o corpo do esgrimista acima da cintura.",
-    "resposta": "Sabre"
-  },
-
-
-
-
-
-
-
-[
-  {
-    "pergunta": "Qual seleção masculina de futebol detém o recorde de maior invencibilidade da história entre seleções principais, passando 37 jogos oficiais sem perder sob o comando do técnico Roberto Mancini entre 2018 e 2021?",
-    "dica": "Durante essa sequência absurda, a equipe conquistou o título da Eurocopa de 2020 (disputada em 2021) vencendo a Inglaterra nos pênaltis em Wembley.",
-    "resposta": "Itália"
-  },
-  {
-    "pergunta": "No tênis de campo profissional, qual foi a partida mais longa da história da Era Aberta, totalizando 11 horas e 5 minutos de jogo distribuídos ao longo de três dias no torneio de Wimbledon em 2010?",
-    "dica": "O confronto ocorreu na quadra 18 entre o norte-americano John Isner e o francês Nicolas Mahut, terminando com o placar inacreditável de 70 a 68 no quinto set.",
-    "resposta": "John Isner contra Nicolas Mahut"
-  },
-  {
-    "pergunta": "Nas regras oficiais do basquetebol da FIBA, o que acontece se um jogador de ataque, ao tentar um passe, arremessar a bola e ela entrar diretamente por baixo do aro, atravessando a rede no sentido inverso?",
-    "dica": "Essa trajetória incomum configura uma violação mecânica imediata. O jogo é paralisado e a bola é concedida ao adversário para um tiro lateral.",
-    "resposta": "Violação"
-  },
-  {
-    "pergunta": "Qual piloto austríaco de Fórmula 1 realizou o feito heroico de retornar às pistas apenas seis semanas após sofrer um acidente gravíssimo que lhe causou queimaduras severas em Nürburgring, disputando o título de 1976 até a última corrida?",
-    "dica": "Sua rivalidade intensa com o britânico James Hunt nas pistas daquela temporada foi imortalizada no cinema. Seu primeiro nome é Niki.",
-    "resposta": "Niki Lauda"
-  },
-  {
-    "pergunta": "Nas regras oficiais de futebol de campo da IFAB, qual é o procedimento correto se a bola murchar ou estourar completamente no exato momento em que cruza a linha de meta, entrando direto no gol sem tocar em ninguém?",
-    "dica": "Como a bola perdeu suas propriedades físicas regulamentares antes de concluir o lance, o gol é anulado. O procedimento exige bola ao chão com a nova bola.",
-    "resposta": "Bola ao chão"
-  },
-  {
-    "pergunta": "Qual ginasta soviética detém o recorde histórico absoluto de maior número de medalhas de ouro conquistadas por uma mulher na história dos Jogos Olímpicos, acumulando 9 ouros (e 18 medalhas no total) entre as décadas de 1950 e 1960?",
-    "dica": "Ela manteve o posto de atleta mais condecorada da história olímpica por quase meio século, até ser superada pelo nadador Michael Phelps. Seu sobrenome é Latynina.",
-    "resposta": "Larisa Latynina"
-  },
-  {
-    "pergunta": "Em qual modalidade olímpica de tiro os atletas disparam com carabinas ou pistolas a uma distância oficial de 10 metros, utilizando alvos cujo centro perfeito (mosca) mede meros 0,5 milímetros de diâmetro?",
-    "dica": "Os competidores utilizam roupas de couro e lona ultra-rígidas para estabilizar os batimentos cardíacos e os movimentos musculares. É o tiro com... .",
-    "resposta": "Ar Comprimido"
-  },
-  {
-    "pergunta": "Qual clube de futebol europeu fez história na temporada 1966-1967 ao vencer a UEFA Champions League utilizando um elenco composto integralmente por atletas nascidos em um raio de até 48 km ao redor do estádio, ganhando o apelido de 'Os Leões de Lisboa'?",
-    "dica": "Essa equipe escocesa quebrou a hegemonia de clubes latinos ao derrotar a temida Internazionale de Milão na grande final continental.",
-    "resposta": "Celtic"
-  },
-  {
-    "pergunta": "No voleibol de quadra oficial da FIVB, o que acontece se o sacador arremessar a bola para o alto para executar o serviço, desistir do movimento deixando a bola cair no chão sem tocá-la, e tentar sacar de novo?",
-    "dica": "Ao contrário do tênis, nas regras do vôlei o erro de manejo no saque não é perdoado. A ação resulta em ponto direto para a equipe adversária.",
-    "resposta": "Ponto do adversário"
-  },
-  {
-    "pergunta": "Qual ciclista belga, apelidado de 'O Canibal' devido à sua fome insaciável de vitórias nas décadas de 1960 e 1970, divide o recorde histórico de cinco títulos gerais do Tour de France com Anquetil, Hinault e Indurain?",
-    "dica": "Ele é amplamente considerado o maior ciclista de todos os tempos, tendo vencido absolutamente todas as grandes clássicas do esporte. Seu sobrenome é Merckx.",
-    "resposta": "Eddy Merckx"
-  },
-  {
-    "pergunta": "No futebol americano da NFL, qual termo técnico designa o erro cometido pelo quarterback quando ele tenta fazer um passe para frente, mas a bola é interceptada no ar por um jogador da equipe defensiva, que assume a posse?",
-    "dica": "Essa estatística é o pior pesadelo dos passadores e altera instantaneamente o rumo territorial da partida. O termo em inglês é... .",
-    "resposta": "Interception"
-  },
-  {
-    "pergunta": "Qual tenista australiano foi o único homem na história do tênis mundial a conquistar o Grand Slam civil (vencer os quatro torneios principais no mesmo ano) por duas vezes distintas (1962 e 1969)?",
-    "dica": "A segunda conquista ocorreu justamente no início da Era Aberta, provando sua soberania tanto no circuito amador quanto no profissional. Seu nome batiza a quadra central em Melbourne.",
-    "resposta": "Rod Laver"
-  },
-  {
-    "pergunta": "Nas regras oficiais de handebol da IHF, quantos segundos um jogador pode permanecer parado segurando a bola nas mãos sem quicá-la, passá-la ou arremessá-la antes de cometer uma infração de manejo?",
-    "dica": "Este limite de tempo rigoroso serve para impedir o antijogo e garantir o fluxo rápido de contra-ataques na quadra.",
-    "resposta": "3 segundos"
-  },
-  {
-    "pergunta": "Qual nadadora da Alemanha Oriental chocou o mundo nos Jogos Olímpicos de Seul, em 1988, ao conquistar seis medalhas de ouro em seis provas disputadas, tornando-se a primeira mulher a alcançar esse feito em uma única edição?",
-    "dica": "Sua marca histórica nas piscinas sul-coreanas cobriu provas de livre, costas e borboleta. Seu sobrenome é Otto.",
-    "resposta": "Kristin Otto"
-  },
-  {
-    "pergunta": "No beisebol da MLB, qual jogador detém o recorde histórico absoluto de maior número de rebatidas válidas (hits) na carreira, acumulando 4.256 rebatidas ao longo de 24 temporadas?",
-    "dica": "Apesar da marca lendária obtida entre os anos 60 e 80, ele foi banido permanentemente do esporte por apostar em jogos enquanto atuava como técnico do Cincinnati Reds.",
-    "resposta": "Pete Rose"
+    "pergunta": "Qual nadador de elite da Austrália, apelidado de 'Thorpedo', dominou o nado livre mundial nas Olimpíadas de Sydney 2000 e Atenas 2004, acumulando cinco medalhas de ouro?",
+    "dica": "Ele era famoso por sua batida de perna devastadora e por competir vestindo trajes pretos de corpo inteiro. Seu sobrenome é Thorpe.",
+    "resposta": "Ian Thorpe"
   },
   {
     "pergunta": "Em qual modalidade esportiva olímpica de inverno os atletas descem uma pista de gelo sinuosa deitados de bruços e de cabeça para frente em um pequeno trenó plano, atingindo velocidades superiores a 130 km/h?",
@@ -934,56 +640,6 @@
     "resposta": "Jack Nicklaus"
   },
   {
-    "pergunta": "No rugby union de 15 jogadores, qual termo em inglês designa a formação ordenada em que os avançados das duas equipes se agrupam e se empurram mutuamente para disputar a bola lançada no meio do 'túnel' formado por eles?",
-    "dica": "Essa jogada é utilizada para reiniciar a partida após infrações menores, como um passe para frente acidental (knock-on). Começa com a letra 'S'.",
-    "resposta": "Scrum"
-  },
-  {
-    "pergunta": "Qual enxadrista cubano, campeão mundial de xadrez de 1921 a 1927, ficou imortalizado na história por sua precisão cirúrgica na fase final do jogo e por passar mais de 8 anos invicto em partidas oficiais?",
-    "dica": "Ele possuía um estilo posicional puro e seu sobrenome composto é Capablanca. Seu primeiro nome é... .",
-    "resposta": "José Raúl Capablanca"
-  },
-  {
-    "pergunta": "Nas regras oficiais de arbitragem da FIFA, se um jogador reserva que está aquecendo atrás do gol invadir o campo sem autorização e cortar a bola com o pé para impedir um gol certo do adversário, qual deve ser a decisão do árbitro?",
-    "dica": "A regra mudou para punir severamente a interferência de externos: o reserva recebe cartão vermelho direto e o jogo é reiniciado com um tiro... .",
-    "resposta": "Tiro livre direto"
-  },
-  {
-    "pergunta": "Qual fundista finlandês, conhecido pelo apelido de 'O Finlandês Voador', dominou o atletismo de longa distância na década de 1920, acumulando nove medalhas de ouro olímpicas na carreira?",
-    "dica": "Ele era famoso por correr mantendo um cronômetro na mão para ditar o ritmo matemático de suas passadas. Seu sobrenome é Nurmi.",
-    "resposta": "Paavo Nurmi"
-  },
-  {
-    "pergunta": "No automobilismo de Fórmula 1, quem é o único piloto da história a conquistar o campeonato mundial de forma póstuma, após falecer em um acidente nos treinos livres do GP da Itália em Monza na temporada de 1970?",
-    "dica": "Ele competia pela lendária equipe Lotus e sua vantagem de pontos na tabela não foi alcançada pelos rivais nas corridas restantes. Seu sobrenome é Rindt.",
-    "resposta": "Jochen Rindt"
-  },
-  {
-    "pergunta": "Nas regras oficiais do polo aquático, por quantos segundos uma equipe pode reter a posse de bola ativa para arquitetar um ataque contra a baliza adversária antes de sofrer uma reversão automática?",
-    "dica": "Esse limite temporal força um dinamismo intenso e explosivo dentro d'água, punindo a retenção passiva de jogo.",
-    "resposta": "30 segundos"
-  },
-  {
-    "pergunta": "Qual esgrimista italiano é considerado o maior atleta olímpico da história da esgrima mundial, tendo conquistado 13 medalhas olímpicas (sendo 6 de ouro) nas três armas (florete, espada e sabre) entre as décadas de 1920 e 1930?",
-    "dica": "Seu estilo técnico impecável e foco psicológico o tornaram uma lenda do esporte europeu. Seu sobrenome é Mangiarotti.",
-    "resposta": "Edoardo Mangiarotti"
-  },
-  {
-    "pergunta": "No basquetebol da NBA, qual jogador detém o recorde histórico de maior número de pontos marcados em um único tempo de jogo (2 períodos), anotando absurdos 59 pontos na segunda metade de uma partida em 1962?",
-    "dica": "Esse recorde parcial faz parte da mítica partida em que ele atingiu a marca fechada de 100 pontos totais contra o New York Knicks. Seu sobrenome é Chamberlain.",
-    "resposta": "Wilt Chamberlain"
-  },
-  {
-    "pergunta": "Qual país africano chocou o cenário do futebol mundial nos Jogos Olímpicos de Atlanta, em 1996, ao eliminar o Brasil na semifinal e derrotar a Argentina na final, tornando-se o primeiro daquele continente a vencer o ouro no futebol?",
-    "dica": "Essa geração brilhante ficou conhecida internacionalmente pelo apelido de 'As Super Águias'.",
-    "resposta": "Nigéria"
-  },
-  {
-    "pergunta": "No beisebol, qual é o termo técnico em inglês que designa a raríssima estatística de jogo em que um arremessador elimina os 27 batedores adversários em sequência exata, sem permitir que nenhum chegue à primeira base por qualquer motivo?",
-    "dica": "Diferente do 'No-Hitter', aqui não são permitidos sequer erros da defesa ou walks (andadas). É o chamado... Game.",
-    "resposta": "Perfect Game"
-  },
-  {
     "pergunta": "Qual esquiador sueco dominou o esqui alpino mundial nas décadas de 1970 e 1980, detendo por décadas o recorde absoluto de 86 vitórias em etapas da Copa do Mundo de Esqui?",
     "dica": "Ele era especialista nas disciplinas técnicas de Slalom e Slalom Gigante. Seu sobrenome é Stenmark.",
     "resposta": "Ingemar Stenmark"
@@ -994,80 +650,18 @@
     "resposta": "Desclassificação imediata"
   },
   {
-    "pergunta": "Qual clube de futebol sul-americano fez história ao vencer a Copa Libertadores da América em seu ano de estreia na competição, em 1960, tornando-se o primeiro campeão oficial do torneio continental?",
-    "dica": "Essa tradicional equipe uruguaia mandava seus jogos no místico Estádio Centenário de Montevidéu.",
-    "resposta": "Peñarol"
+    "pergunta": "No rugby union de 15 jogadores, quantos pontos vale a conversão de um 'Drop Goal', que consiste no ato de o jogador chutar a bola entre as traves em jogo corrido, logo após a bola tocar o solo no quique?",
+    "dica": "Essa técnica exige uma precisão fantástica sob forte pressão física da defesa adversária no campo.",
+    "resposta": "3 pontos"
   },
-  {
-    "pergunta": "No esporte olímpico do levantamento de peso (halterofilismo), qual das duas técnicas de movimento exige que o atleta eleve a barra diretamente do solo até acima da cabeça em um único movimento fluido e sem interrupções?",
-    "dica": "Essa técnica exige uma velocidade de execução e flexibilidade articular absurdas, diferenciando-se do movimento em duas etapas. É o... .",
-    "resposta": "Arranco"
-  },
-  {
-    "pergunta": "Qual piloto britânico de Fórmula 1, bicampeão mundial em 1963 e 1965 pilotando pela equipe Lotus, era apelidado de 'O Escocês Voador' e é considerado um dos maiores gênios naturais de pilotagem da história?",
-    "dica": "Ele competia também em categorias de turismo e rali com igual sucesso, até sua trágica morte em uma corrida de Fórmula 2 em Hockenheim em 1968. Seu sobrenome é Clark.",
-    "resposta": "Jim Clark"
-  },
-  {
-    "pergunta": "No esporte de inverno do curling, qual é a denominação oficial dada ao capitão da equipe, que dita a estratégia tática, orienta os varredores e geralmente executa os dois arremessos finais cruciais de cada entrada?",
-    "dica": "O termo em inglês traduz-se literalmente como 'pular' ou 'capitão'. Começa com a letra 'S'.",
-    "resposta": "Skip"
-  },
-  {
-    "pergunta": "Qual pugilista norte-americano detém o recorde de maior sequência de defesas de título consecutivas na história da categoria Peso-Pesado do boxe mundial, mantendo o cinturão por 25 lutas seguidas entre as décadas de 1930 e 1940?",
-    "dica": "Ele ficou conhecido mundialmente pelo apelido de 'O Bombardeiro Marrom' (The Brown Bomber). Seu sobrenome é Louis.",
-    "resposta": "Joe Louis"
-  },
-  {
-    "pergunta": "Nas regras oficiais do basquetebol da NBA, quantos segundos de posse de bola uma equipe de ataque tem para arremessar contra a cesta adversária após capturar um rebote ofensivo na área de ataque?",
-    "dica": "A regra foi alterada para acelerar o jogo: o cronômetro não reinicia mais para os 24 segundos cheios, mas sim para... .",
-    "resposta": "14 segundos"
-  },
-  {
-    "pergunta": "Qual atleta norte-americano de salto em altura revolucionou a história do atletismo nos Jogos Olímpicos da Cidade do México, em 1968, ao introduzir a técnica de saltar de costas para o sarrafo?",
-    "dica": "Essa inovação biomecânica quebrou o antigo padrão do salto de frente e hoje é a técnica utilizada por 100% dos atletas de elite. É o estilo... Flop.",
-    "resposta": "Fosbury"
-  },
-  {
-    "pergunta": "Na modalidade hípica do Adestramento (Dressage) olímpico, qual é o nome técnico dado ao movimento altamente complexo e rítmico em que o cavalo executa um trote altamente reunido quase sem sair do lugar, demonstrando total submissão?",
-    "dica": "O termo é de origem francesa e evoca a imagem de um trote majestoso e cadenciado. Começa com a letra 'P'.",
-    "resposta": "Piaffe"
-  },
-  {
-    "pergunta": "Qual ciclista espanhol dominou o Tour de France na primeira metade da década de 1990, tornando-se o único atleta na história a vencer a prestigiada classificação geral francesa por cinco vezes consecutivas?",
-    "dica": "Ele possuía uma capacidade pulmonar impressionante e era um monstro nas provas de contrarrelógio individual. Seu sobrenome é Indurain.",
-    "resposta": "Miguel Indurain"
-  },
-  {
-    "pergunta": "Nas regras oficiais da esgrima olímpica, qual das três armas utilizadas (florete, espada ou sabre) possui como área de toque válida exclusivamente o tronco do adversário, desconsiderando membros e cabeça?",
-    "dica": "É uma arma puramente de estocada (apenas a ponta pontua) e rege-se pela histórica 'lei do direito de ataque' ou prioridade.",
-    "resposta": "Florete"
-  },
-  {
-    "pergunta": "Qual seleção masculina de polo aquático é a maior potência histórica desse esporte olímpico, acumulando um recorde imbatível de nove medalhas de ouro na história dos Jogos Olímpicos?",
-    "dica": "Essa equipe protagonizou a partida mais violenta da história das Olimpíadas contra a União Soviética em 1956, conhecida como o jogo do 'Sangue na Piscina'.",
-    "resposta": "Hungria"
-  },
-
-
-
-
-
-
-
   {
     "pergunta": "Qual velejador dinamarquês fez história no iatismo mundial ao se tornar o primeiro atleta a conquistar quatro medalhas de ouro olímpicas consecutivas na mesma classe individual (classe Finn), entre 1948 e 1960?",
     "dica": "Ele é considerado uma das maiores lendas da vela de todos os tempos e seu sobrenome é Elvstrøm. Seu primeiro nome é... .",
     "resposta": "Paul Elvstrøm"
   },
   {
-    "pergunta": "Nas regras oficiais do basquetebol da FIBA, qual é a penalidade aplicada caso um jogador posicionado na linha de lance livre cometa uma violação de distração (como fingir o arremesso) antes de soltar a bola?",
-    "dica": "A jogada é interrompida imediatamente. Se o arremesso for convertido, ele é anulado, e a posse de bola é concedida ao adversário para um tiro... .",
-    "resposta": "Lateral"
-  },
-  {
     "pergunta": "Qual país conquistou a medalha de ouro no hóquei sobre a grama masculino nos Jogos Olímpicos de Barcelona, em 1992, quebrando uma longa hegemonia europeia e asiática na modalidade?",
-    "dica": "A seleção derrotou a Austrália na grande final por 2 a 1. O país é o atual tetracampeão da Copa do Mundo de Cricket.",
+    "dica": "A seleção derrotas a Austrália na grande final por 2 a 1. O país é o atual tetracampeão da Copa do Mundo de Cricket.",
     "resposta": "Alemanha"
   },
   {
@@ -1086,7 +680,7 @@
     "resposta": "Martina Navratilova"
   },
   {
-    "pergunta": "Em qual modalidade olímpica de ginástica os atletas competem individualmente executando rotinas que combinam elementos de dança, saltos acrobáticos e o manejo obrigatório de aparelhos como corda, arco, bola, maças ou fita?",
+    "pergunta": "Em qual modalidade olímpica de ginástica os atletas competem diariamente executando rotinas que combinam elementos de dança, saltos acrobáticos e o manejo obrigatório de aparelhos como corda, arco, bola, maças ou fita?",
     "dica": "Diferente da versão artística, esta modalidade é disputada oficialmente apenas na categoria feminina nos Jogos Olímpicos. É a Ginástica... .",
     "resposta": "Rítmica"
   },
@@ -1099,11 +693,6 @@
     "pergunta": "No voleibol de quadra, o que acontece de acordo com as regras da FIVB se o líbero titular sofrer uma lesão em jogo e o técnico optar por redesignar um jogador de linha que está no banco como o novo líbero?",
     "dica": "O jogador redesignado deve atuar como líbero pelo restante da partida, e o líbero lesionado não pode reentrar no jogo. É a chamada... .",
     "resposta": "Redesignação"
-  },
-  {
-    "pergunta": "Qual ciclista italiano entrou para a história ao vencer o Giro d'Italia e o Tour de France no mesmo ano civil por duas vezes (1949 e 1952), travando rivalidades épicas no pós-guerra?",
-    "dica": "Seu sobrenome é Coppi e ele recebeu o título honorífico de 'Il Campionissimo'. Seu primeiro nome é... .",
-    "resposta": "Fausto Coppi"
   },
   {
     "pergunta": "No futebol americano da NFL, qual é a punição oficial em jardas aplicada contra a equipe de ataque caso um jogador de linha execute um bloqueio ilegal segurando o defensor pelas costas (infração de holding)?",
@@ -1126,11 +715,6 @@
     "resposta": "Kosuke Kitajima"
   },
   {
-    "pergunta": "No beisebol profissional da MLB, qual jogador detém o recorde histórico de maior número de home runs na carreira, alcançando a marca oficial de 762 rebatidas completas?",
-    "dica": "Apesar do recorde estabelecido nos anos 2000, sua marca enfrenta fortes debates devido a investigações sobre o uso de substâncias de performance. Seu sobrenome é Bonds.",
-    "resposta": "Barry Bonds"
-  },
-  {
     "pergunta": "Em qual modalidade olímpica de inverno as equipes descem uma pista de gelo artificial e sinuosa a bordo de um trenó aerodinâmico movido por gravidade, dividindo-se em categorias de duas ou quatro pessoas?",
     "dica": "A largada exige uma arrancada explosiva a pé empurrando o trenó antes de saltarem para dentro. O nome começa com 'B'.",
     "resposta": "Bobsleigh"
@@ -1146,53 +730,10 @@
     "resposta": "2 pontos"
   },
   {
-    "pergunta": "Qual enxadrista cubano foi campeão mundial de xadrez entre 1921 e 1927, sendo reverenciado por seu estilo de jogo posicional limpo e por sua quase total ausência de erros em finais?",
-    "dica": "Ele derrotou a lenda Emanuel Lasker para alcançar o título mundial. Seu sobrenome composto é Capablanca.",
-    "resposta": "José Raúl Capablanca"
-  },
-  {
     "pergunta": "Nas regras oficiais do futebol de campo, qual é a altura regulamentar exata, medida em metros a partir do solo, do bordo inferior do travessão de um gol oficial?",
     "dica": "Essa distância vertical equivale a exatamente 8 pés no sistema de medidas britânico clássico.",
     "resposta": "2,44 metros"
   },
-  {
-    "pergunta": "Qual fundista britânico, nascido na Somália, fez história no atletismo olímpico ao conquistar o 'Double-Double', vencendo as provas de 5.000m e 10.000m em duas edições consecutivas dos Jogos (Londres 2012 e Rio 2016)?",
-    "dica": "Ele era famoso por sua arrancada devastadora na última volta e por comemorar fazendo o gesto 'Mobot' com os braços sobre a cabeça. Seu primeiro nome é Mo.",
-    "resposta": "Mo Farah"
-  },
-  {
-    "pergunta": "No automobilismo, as Três Coroas do Automobilismo consistem em vencer as três provas mais prestigiadas do planeta. Quais são essas três corridas lendárias?",
-    "dica": "Uma ocorre em um circuito de rua na Europa, outra em um oval nos Estados Unidos e a terceira é uma prova de endurance de 24 horas na França.",
-    "resposta": "Grande Prêmio de Mônaco, 500 Milhas de Indianápolis e 24 Horas de Le Mans"
-  },
-  {
-    "pergunta": "Nas regras oficiais do polo aquático, qual é a punição aplicada ao jogador que comete uma falta grave de exclusão (como segurar ou afundar um adversário que não está com a bola)?",
-    "dica": "O atleta infrator deve se dirigir imediatamente à área de reentrada e permanecer fora do jogo por um tempo penal de... .",
-    "resposta": "20 segundos"
-  },
-  {
-    "pergunta": "Qual esgrimista húngaro é considerado o maior atleta olímpico da história da esgrima na arma do sabre, tendo conquistado sete medalhas de oro olímpicas individuais e por equipes entre as décadas de 1930 e 1960?",
-    "dica": "Ele manteve uma longevidade impressionante no esporte, competindo em alto nível até os 50 anos de idade. Seu sobrenome é Gerevich.",
-    "resposta": "Aladár Gerevich"
-  },
-  {
-    "pergunta": "No basquetebol da NBA, qual jogador detém o recorde de maior número de assistências distribuídas em uma única partida da história da liga, alcançando a marca de 30 assistências em 1990?",
-    "dica": "O feito ocorreu em um jogo do Orlando Magic contra o Denver Nuggets. Seu sobrenome é Skiles.",
-    "resposta": "Scott Skiles"
-  },
-  {
-    "pergunta": "Qual seleção de futebol masculino conquistou a medalha de ouro nos Jogos Olímpicos de Seul, em 1988, derrotando o Brasil de Romário e Bebeto na grande final da prorrogação?",
-    "dica": "A partida terminou em 2 a 1 e a equipe vencedora competia sob a bandeira de uma superpotência que se fragmentou anos depois.",
-    "resposta": "União Soviética"
-  },
- 
-
-
-
-
-
-
-
   {
     "pergunta": "No beisebol, qual é o nome dado à estatística atribuída ao arremessador reserva (reliever) que entra nas entradas finais da partida para manter e fechar a vitória de sua equipe em condições de placar apertado?",
     "dica": "O termo em inglês traduz-se diretamente como 'salvamento' ou 'salvada'.",
@@ -1204,27 +745,12 @@
     "resposta": "Hermann Maier"
   },
   {
-    "pergunta": "Nas regras oficiais do atletismo da World Athletics, qual é o peso exato, medido em quilogramas, do implemento metálico (martelo) utilizado nas competições oficiais da categoria masculina adulta?",
-    "dica": "É rigorosamente o mesmo peso utilizado na prova do arremesso de peso masculino: exatamente 16 libras no sistema imperial britânico.",
-    "resposta": "7,26 kg"
-  },
-  {
     "pergunta": "Qual ciclista italiano, conhecido pelo estilo escalador puro e pelo apelido de 'Il Pirata', realizou a histórica façanha de vencer o Giro d'Italia e o Tour de France no mesmo ano civil (1998)?",
     "dica": "Ele foi o último ciclista a alcançar essa dobradinha no século vinte e usava uma característica bandana na cabeça. Seu sobrenome é Pantani.",
     "resposta": "Marco Pantani"
   },
   {
-    "pergunta": "No tênis de mesa profissional, qual é a altura oficial padrão, medida em centímetros a partir da superfície da mesa, que a rede deve possuir ao longo de toda a sua extensão?",
-    "dica": "Essa medida rígida da ITTF garante a padronização das trajetórias das bolas de plástico de 40mm. Equivale a 15,25 centímetros.",
-    "resposta": "15,25 cm"
-  },
-  {
-    "pergunta": "Qual país conquistou a medalha de ouro no handebol masculino nos Jogos Olímpicos de Barcelona, em 1992, competindo sob uma bandeira e hino provisórios devido ao colapso recente de seu bloco político?",
-    "dica": "A delegação reuniu atletas de várias ex-repúblicas soviéticas e competiu sob o nome oficial de Equipe... .",
-    "resposta": "Equipe Unificada"
-  },
-  {
-    "pergunta": "No automobilismo de Fórmula 1, qual piloto detém o recorde histórico de maior número de abandonos em corridas ao longo da carreira, acumulando 147 retiradas por quebras ou acidentes entre as décadas de 1980 e 1990?",
+    "pergunta": "No automobilismo de Fórmula 1, qual piloto detém o recorde histórico de maior número de abandonos em corridas ao longo da carreira, acumulando 147 retiradas por quebras ou acidentes entre asDECadas de 1980 e 1990?",
     "dica": "Apesar da estatística frustrante, ele era um piloto veloz e correu por equipes como Brabham, Lotus e de Cesaris. Seu sobrenome é de Cesaris. É... .",
     "resposta": "Andrea de Cesaris"
   },
@@ -1239,26 +765,6 @@
     "resposta": "Björn Borg"
   },
   {
-    "pergunta": "Em qual modalidade olímpica de tiro os atletas disparam com espingardas contra alvos de argila que são lançados de forma aleatória a partir de uma trincheira subterrânea localizada à frente das posições de tiro?",
-    "dica": "Diferente do Skeet, os pratos viajam se afastando do atirador em vários ângulos e alturas imprevisíveis. É a Fossa... .",
-    "resposta": "Fossa Olímpica"
-  },
-  {
-    "pergunta": "Qual clube de futebol europeu detém o recorde de maior número de finais consecutivas disputadas na história da UEFA Champions League, alcançando a decisão por cinco temporadas seguidas entre 1956 e 1960?",
-    "dica": "Essa equipe lendária venceu absolutamente todas as cinco finais, liderada em campo por Alfredo Di Stéfano e Ferenc Puskás.",
-    "resposta": "Real Madrid"
-  },
-  {
-    "pergunta": "No voleibol de quadra, o que acontece de acordo com as regras oficiais da FIVB se a bola for sacada pelo adversário, tocar na fita superior da rede, e cair diretamente dentro das linhas da quadra de recepção?",
-    "dica": "A regra mudou na virada do século: ao contrário do tênis, a jogada não é interrompida. A ação configura um... .",
-    "resposta": "Ponto do sacador"
-  },
-  {
-    "pergunta": "Qual ginasta soviético fez história nos Jogos Olímpicos de Montreal, em 1976, ao conquistar sete medalhas (quatro de ouro) em uma única edição, tornando-se o maior rival de seu compatriota Nikolai Andrianov?",
-    "dica": "Ele dominou as provas de barras paralelas e cavalo com alças. Seu sobrenome é Dityatin no lote anterior por recorde total, mas o monstro de Montreal de 1976 é... .",
-    "resposta": "Nikolai Andrianov"
-  },
-  {
     "pergunta": "No futebol americano da NFL, qual termo designa a falta cometida por um defensor que faz um contato físico ilegal ou segura o recebedor elegível além das primeiras 5 jardas a partir da linha de scrimmage, antes de a bola ser lançada?",
     "dica": "Essa infração resulta em uma punição de 5 jardas contra a defesa e concede uma primeira descida automática ao ataque. É o... ilegal.",
     "resposta": "Contato Ilegal"
@@ -1267,21 +773,6 @@
     "pergunta": "Qual piloto francês é o maior recordista da história do Campeonato Mundial de Rali (WRC), acumulando impressionantes nove títulos mundiais consecutivos entre os anos de 2004 e 2012?",
     "dica": "Ele dominou o esporte correndo pela equipe de fábrica da Citroën ao lado de seu copiloto Daniel Elena. Seu sobrenome é Loeb.",
     "resposta": "Sébastien Loeb"
-  },
-  {
-    "pergunta": "Nas regras oficiais do basquetebol da FIBA, quantos segundos um jogador de ataque pode permanecer na área restritiva (garrafão) adversária se ele receber a bola e estiver ativamente tentando arremessar ou driblar para a cesta?",
-    "dica": "O cronômetro de infração de posicionamento é pausado durante o movimento contínuo de infiltração ou arremesso do atleta.",
-    "resposta": "3 segundos"
-  },
-  {
-    "pergunta": "Qual nadador de elite da Austrália, apelidado de 'Thorpedo', dominou o nado livre mundial nas Olimpíadas de Sydney 2000 e Atenas 2004, acumulando cinco medalhas de ouro?",
-    "dica": "Ele era famoso por sua batida de perna devastadora e por competir vestindo trajes pretos de corpo inteiro. Seu sobrenome é Thorpe.",
-    "resposta": "Ian Thorpe"
-  },
-  {
-    "pergunta": "No beisebol profissional da MLB, qual jogador detém o recorde histórico absoluto de maior número de rebatidas de home run em uma única temporada regular, anotando 73 home runs no ano de 2001?",
-    "dica": "Ele alcançou a marca histórica defendendo as cores do San Francisco Giants. Seu nome é Barry... .",
-    "resposta": "Barry Bonds"
   },
   {
     "pergunta": "Em qual modalidade de esporte de inverno os atletas competem em equipes descendo uma pista de gelo sinuosa a bordo de um trenó plano e aberto, onde dois competidores viajam sentados um atrás do outro na categoria de duplas?",
@@ -1294,525 +785,14 @@
     "resposta": "Phil Mickelson"
   },
   {
-    "pergunta": "No rugby union de 15 jogadores, quantos pontos vale a conversão de um 'Drop Goal', que consiste no ato de o jogador chutar a bola entre as traves em jogo corrido, logo após a bola tocar o solo no quique?",
-    "dica": "Essa técnica exige uma precisão fantástica sob forte pressão física da defesa adversária no campo.",
-    "resposta": "3 pontos"
-  },
-  {
-    "pergunta": "Qual enxadrista indiano fez história ao quebrar a hegemonia europeia e russa moderna e se tornar campeão mundial indiscutível de xadrez em 2007, mantendo o título até 2013?",
-    "dica": "Ele possui um estilo de jogo extremamente rápido e intuitivo, sendo um mestre em xadrez rápido e blitz. Seu sobrenome é Anand.",
-    "resposta": "Viswanathan Anand"
-  },
-  {
-    "pergunta": "Nas regras oficiais de arbitragem da FIFA, se um jogador de linha defensivo chutar a bola para trás de volta para o seu próprio goleiro, e este agarrar a bola com as mãos dentro de sua grande área, qual deve ser a decisão do árbitro?",
-    "dica": "O recuo deliberado com os pés impede o uso das mãos pelo goleiro. O jogo deve ser paralisado e reiniciado com um tiro... .",
-    "resposta": "Tiro livre indireto"
-  },
-  {
-    "pergunta": "Qual fundista britânico marcou o atletismo mundial ao conquistar quatro medalhas de ouro olímpicas consecutivas nas provas de fundo (5.000m e 10.000m) entre os Jogos de Londres 2012 e Rio 2016?",
-    "dica": "Nascido em Mogadíscio, na Somália, ele era famoso por sua tática de corrida cerebral e aceleração final espetacular. Seu nome é Mo... .",
-    "resposta": "Mo Farah"
-  },
-  {
-    "pergunta": "No automobilismo de endurance, qual lendária prova realizada anualmente no circuito de Sarthe, na França, exige que os carros corram ininterruptamente por um ciclo completo de 24 horas?",
-    "dica": "É a corrida de resistência mais antiga do mundo e compõe a mítica Tríplice Coroa do automobilismo.",
-    "resposta": "24 Horas de Le Mans"
-  },
-  {
-    "pergunta": "Nas regras oficiais do polo aquático, qual é a penalidade automática aplicada caso um jogador cometa a sua terceira falta individual grave de exclusão durante o decorrer da partida?",
-    "dica": "O jogador é excluído do restante do jogo, mas sua equipe pode colocar um substituto na água após decorridos 20 segundos. É a... .",
-    "resposta": "Desclassificação"
-  },
-  {
-    "pergunta": "Qual esgrimista húngaro detém o recorde absoluto de maior número de medalhas de ouro olímpicas consecutivas na história da esgrima na arma do sabre por equipes, acumulando seis ouros entre 1928 e 1960?",
-    "dica": "Sua longevidade fantástica nas pistas permitiu que ele competisse em alto nível por mais de três décadas. Seu sobrenome é Gerevich.",
-    "resposta": "Aladár Gerevich"
-  },
-  {
-    "pergunta": "No basquetebol da NBA, qual jogador detém o recorde de maior número de assistências distribuídas em um único jogo na história da liga, alcançando a marca inacreditável de 30 assistências em 1990?",
-    "dica": "O feito ocorreu em um confronto do Orlando Magic contra o Denver Nuggets. Seu sobrenome é Skiles.",
-    "resposta": "Scott Skiles"
-  },
-  {
-    "pergunta": "Qual seleção masculina de futebol conquistou a medalha de ouro nos Jogos Olímpicos de Seul, em 1988, ao derrotar o Brasil na grande final da prorrogação por 2 a 1?",
-    "dica": "A equipe campeã vestia uniformes vermelhos com as siglas CCCP estampadas no peito.",
-    "resposta": "União Soviética"
-  },
-  {
-    "pergunta": "No esporte olímpico do levantamento de peso (halterofilismo), qual das duas técnicas de movimento exige que o atleta levante a barra primeiro até a altura dos ombros (limpeza) antes de impulsioná-la acima da cabeça (arremesso)?",
-    "dica": "Essa técnica em duas etapas permite aos atletas erguerem cargas muito maiores do que no movimento contínuo do arranco. É o... .",
-    "resposta": "Arremesso"
-  },
-  {
-    "pergunta": "Qual piloto escocês de Fórmula 1, bicampeão mundial em 1963 e 1965 pilotando pela equipe Lotus, era conhecido como 'O Escocês Voador' e é considerado um dos maiores talentos naturais da história do automobilismo?",
-    "dica": "Ele faleceu tragicamente em uma corrida de Fórmula 2 no circuito de Hockenheim em 1968. Seu sobrenome é Clark.",
-    "resposta": "Jim Clark"
-  },
-  {
-    "pergunta": "No esporte de inverno do curling, qual é a denominação oficial dada ao capitão ou estrategista da equipe, responsável por orientar a varredura e executar os arremessos finais cruciais de cada entrada?",
-    "dica": "O termo em inglês significa literalmente pular. Começa com a letra 'S'.",
-    "resposta": "Skip"
-  },
-  {
-    "pergunta": "Qual pugilista norte-americano detém o recorde histórico de maior sequência de defesas de título mundiais consecutivas na categoria dos Pesos-Pesados, mantendo o cinturão por 25 lutas seguidas entre as décadas de 1930 e 1940?",
-    "dica": "Ele ficou conhecido pelo apelido de 'O Bombardeiro Marrom' (The Brown Bomber). Seu sobrenome é Louis.",
-    "resposta": "Joe Louis"
-  },
-  {
-    "pergunta": "Nas regras oficiais da esgrima olímpica, qual das três armas permitidas (florete, espada ou sabre) possui o maior peso regulamentar e tem como área de toque válida a totalidade do corpo do adversário, da cabeça aos pés?",
-    "dica": "É uma arma puramente de estocada e não se rege pelas regras de prioridade ou direito de ataque: se ambos se tocarem ao mesmo tempo, ambos pontuam.",
-    "resposta": "Espada"
-  },
-  {
-    "pergunta": "Qual seleção masculina de polo aquático é a maior potência olímpica da história desse esporte, ostentando um recorde imbatível de nove medalhas de ouro conquistadas nos Jogos Olímpicos?",
-    "dica": "A equipe protagonizou o confronto mais violento da história olímpica contra a URSS em 1956, conhecido como o jogo do 'Sangue na Piscina'.",
-    "resposta": "Hungria"
-  },
-  {
-    "pergunta": "No basquetebol da NBA, qual jogador detém o recorde histórico de maior número de desqualificações por excesso de faltas (foul outs) na carreira, sendo excluído de 127 partidas regulares?",
-    "dica": "Ele era um pivô extremamente físico que atuou nas décadas de 1940 e 1950, jogando pelo Syracuse Nationals. Seu sobrenome é Schayes. É Dolph... .",
-    "resposta": "Dolph Schayes"
-  },
-  {
-    "pergunta": "Qual velejador brasileiro é, ao lado de Torben Grael, o maior medalhista olímpico da história do esporte do país, acumulando cinco medalhas (sendo duas de ouro) na histórica classe Laser de iatismo?",
-    "dica": "Ele dominou o circuito mundial nas décadas de 1990 e 2000 e seu sobrenome é Scheidt.",
-    "resposta": "Robert Scheidt"
-  },
-  {
-    "pergunta": "Nas regras oficiais de handebol, o que deve ser sinalizado pelos árbitros caso a equipe de ataque fique trocando passes longos na linha de fundo de forma estática, sem esboçar qualquer intenção clara de arremessar contra o gol?",
-    "dica": "Essa sinalização obriga o time a concluir o ataque em no máximo seis passes. É o aviso de jogo... .",
-    "resposta": "Passivo"
-  },
-  {
-    "pergunta": "Qual maratonista sul-coreano chocou o atletismo mundial ao conquistar a medalha de ouro na maratona dos Jogos Olímpicos de Barcelona, em 1992, superando os favoritos africanos e japoneses?",
-    "dica": "Sua vitória teve um forte peso histórico, pois seu treinador havia vencido a mesma maratona em 1936 competindo sob a bandeira do Japão devido à ocupação. Seu sobrenome é Hwang.",
-    "resposta": "Hwang Young-cho"
-  },
-  {
-    "pergunta": "No hóquei sobre o gelo da NHL, qual jogador é universalmente aclamado como 'The Great One', detendo absolutamente todos os recordes históricos de pontos, gols e assistências da história da liga?",
-    "dica": "Ele imortalizou a camisa número 99 jogando pelo Edmonton Oilers e Los Angeles Kings. Seu sobrenome é Gretzky.",
-    "resposta": "Wayne Gretzky"
-  },
-
-
-  {
-    "pergunta": "Qual ginasta soviético detém o recorde histórico de maior número de medalhas olímpicas conquistadas por um homem na história dos Jogos Olímpicos, acumulando 15 pódios (sendo 7 de ouro) entre as décadas de 1970 e 1980?",
-    "dica": "Ele foi o grande nome da ginástica artística masculina em Munique 1972 e Montreal 1976. Seu sobrenome é Andrianov. É... .",
-    "resposta": "Nikolai Andrianov"
-  },
-  {
-    "pergunta": "Nas regras oficiais de futebol de campo da IFAB, qual deve ser a decisão do árbitro se um jogador de linha defensor, posicionado fora de sua grande área, arremessar uma chuteira extra com força para atingir a bola e impedir que ela entre no gol vazio?",
-    "dica": "O arremesso de objeto contra a bola é considerado uma infração de toque de mão/extensão do corpo. Como ocorreu fora da área, o árbitro deve expulsar o jogador e marcar um... .",
-    "resposta": "Tiro livre direto"
-  },
-  {
-    "pergunta": "Qual piloto francês de Fórmula 1 detém o recorde histórico de maior número de participações em Grandes Prêmios antes de conseguir vencer a sua primeira corrida na categoria, disputando 130 provas até triunfar no GP da Áustria de 2022?",
-    "dica": "Houve um engano na dica popular recente: o recordista histórico de GPs antes da primeira vitória é o mexicano Sergio Pérez (190 GPs), mas o piloto francês que venceu seu primeiro GP após longa espera na Alpine foi... .",
-    "resposta": "Esteban Ocon"
-  },
-  {
-    "pergunta": "No tênis de campo, qual é a denominação oficial dada ao golpe de fundo de quadra executado quando um jogador destro bate na bola utilizando o lado oposto da raquete, movendo o braço de dentro para fora do corpo?",
-    "dica": "Pode ser executado com uma ou duas mãos e é popularmente conhecido no Brasil pelo termo em inglês... .",
-    "resposta": "Backhand"
-  },
-  {
-    "pergunta": "Nas regras oficiais do basquetebol da FIBA, quantos segundos um jogador tem para executar a cobrança de um lance livre após o árbitro disponibilizar a bola em suas mãos?",
-    "dica": "Caso o atleta estoure esse limite de tempo focado na preparação do arremesso, uma violação de tempo é marcada e o chute é cancelado.",
-    "resposta": "5 segundos"
-  },
-  {
-    "pergunta": "Qual país conquistou a medalha de ouro no futebol masculino nos Jogos Olímpicos de Barcelona, em 1992, jogando em casa e derrotando a Polônia em uma final dramática por 3 a 2 no Camp Nou?",
-    "dica": "Essa geração contava com jovens talentos que se tornaram técnicos multicampeões mundiais, como Pep Guardiola.",
-    "resposta": "Espanha"
-  },
-  {
-    "pergunta": "No automobilismo de Fórmula 1, qual circuito icônico e ultra-veloz, localizado na Itália, ostenta o título histórico de 'Templo da Velocidade' devido às suas longas retas onde os carros atingem as maiores médias horárias do ano?",
-    "dica": "É a pista que sedia tradicionalmente o Grande Prêmio da Itália e possui curvas famosas como a Parabólica e a Variante Ascari.",
-    "resposta": "Monza"
-  },
-  {
-    "pergunta": "Nas regras oficiais do polo aquático, qual é a cor da touca que o goleiro titular de cada equipe é estritamente obrigado a usar para se diferenciar dos jogadores de linha e da arbitragem?",
-    "dica": "Os jogadores de linha geralmente usam toucas brancas ou azuis escuras, enquanto os arqueiros usam a cor tradicional do perigo. É a cor... .",
-    "resposta": "Vermelha"
-  },
-  {
-    "pergunta": "Qual tenista norte-americana detém o recorde de maior número de semanas consecutivas no topo do ranking mundial da WTA na Era Aberta, empatada com Steffi Graf com impressionantes 186 semanas seguidas?",
-    "dica": "Ela é a irmã mais nova de Venus Williams e dominou o circuito mundial nas décadas de 2000 e 2010. Seu primeiro nome é... .",
-    "resposta": "Serena Williams"
-  },
-  {
-    "pergunta": "Em qual modalidade olímpica de ciclismo os atletas competem em uma pista coberta oval e perfeitamente inclinada (velódromo), utilizando bicicletas de marcha fixa e sem freios?",
-    "dica": "Essa categoria engloba provas espetaculares de velocidade e estratégia como o Keirin, Madison e Omnium. É o Ciclismo de... .",
-    "resposta": "Pista"
-  },
-  {
-    "pergunta": "Qual clube de futebol europeu fez história na temporada 1998-1999 ao conquistar a mítica 'Tríplice Coroa' (Champions League, Premier League e FA Cup) com uma virada inacreditável nos acréscimos contra o Bayern de Munique?",
-    "dica": "A equipe inglesa era comandada pelo lendário técnico escocês Sir Alex Ferguson. É o... .",
-    "resposta": "Manchester United"
-  },
-  {
-    "pergunta": "No voleibol de quadra, o que acontece de acordo com as regras da FIVB se o técnico efetuar uma substituição ilegal (como colocar em quadra um jogador que não foi registrado na súmula oficial da partida)?",
-    "dica": "O erro de registro gera uma punição severa: a equipe perde todos os pontos conquistados desde o momento em que o jogador ilegal entrou na quadra, e o adversário ganha um... .",
-    "resposta": "Ponto e o saque"
-  },
-  {
-    "pergunta": "Qual ciclista espanhol é amplamente considerado um dos maiores escaladores e contra-relogistas da história moderna, tendo vencido o Tour de France duas vezes (2007 e 2009) e sendo um dos poucos a conquistar as três Grandes Voltas?",
-    "dica": "Ele era conhecido por seu estilo de ataque explosivo em pé sobre os pedais e por sua comemoração imitando um disparo de pistola. Seu sobrenome é Contador. É... .",
-    "resposta": "Alberto Contador"
-  },
-  {
-    "pergunta": "No futebol americano da NFL, qual termo designa a infração cometida por um jogador de ataque que se move ilegalmente para frente cruzando a linha de scrimmage antes de a bola ser formalmente centrada (snap)?",
-    "dica": "Essa falta resulta em uma perda automática de 5 jardas para a equipe ofensiva. O termo em inglês é... .",
-    "resposta": "False Start"
-  },
-  {
-    "pergunta": "Qual piloto finlandês de Fórmula 1, apelidado de 'O Iceman' devido ao seu comportamento extremamente frio e direto nas entrevistas, conquistou o campeonato mundial de 2007 correndo pela escuderia Ferrari?",
-    "dica": "Ele detém uma das carreiras mais longas da história da categoria e seu sobrenome é Räikkönen.",
-    "resposta": "Kimi Räikkönen"
-  },
-  {
-    "pergunta": "Nas regras oficiais do basquetebol, qual é o número máximo de faltas pessoais que um jogador pode cometer em uma partida regulamentada pela FIBA antes de ser permanentemente desclassificado do jogo?",
-    "dica": "Na NBA esse limite territorial e físico é de seis faltas, mas nas competições internacionais da FIBA o limite é de... .",
-    "resposta": "5 faltas"
-  },
-  {
-    "pergunta": "Qual nadador de elite dos Países Baixos fez história ao se tornar bicampeão olímpico consecutivo nos 100 metros livre (Sydney 2000 e Atenas 2004), quebrando a hegemonia dos nadadores norte-americanos e australianos?",
-    "dica": "Ele possuía um nado sincronizado e potente e seu sobrenome é van den Hoogenband. Seu primeiro nome é... .",
-    "resposta": "Pieter"
-  },
-  {
-    "pergunta": "No beisebol profissional da MLB, qual termo designa a jogada em que um corredor avança com sucesso para a próxima base exatamente no momento do arremesso do pitcher, sem que a bola tenha sido rebatida?",
-    "dica": "A jogada exige uma leitura mecânica perfeita dos movimentos do arremessador. Em inglês, chama-se... Base.",
-    "resposta": "Stolen"
-  },
-  {
-    "pergunta": "Em qual modalidade olímpica de inverno os atletas executam saltos gigantes e acrobacias descendo uma rampa de neve artificial em formato de meio tubo inclinado, sendo julgados por amplitude, estilo e execução?",
-    "dica": "O esporte consagrou ícones globais como o norte-americano Shaun White. É a prova de... Halfpipe.",
-    "resposta": "Snowboard"
-  },
-  {
-    "pergunta": "Qual golfista lendário dos Estados Unidos, apelidado de 'O Rei' (The King), foi o grande responsável por popularizar o golfe na televisão na década de 1950, acumulando 7 títulos de Majors e gerando uma legião de fãs fervorosos?",
-    "dica": "Seu sobrenome batiza uma famosa bebida refrescante que mistura chá gelado com limonada. É... Palmer.",
-    "resposta": "Arnold Palmer"
-  },
-  {
-    "pergunta": "No rugby union de 15 jogadores, quantos pontos vale a marcação de um 'Penalty Goal', que consiste em chutar a bola com sucesso entre as traves por cima do travessão após a marcação de uma falta grave adversária?",
-    "dica": "É a mesma pontuação concedida por um Drop Goal executado em jogo corrido.",
-    "resposta": "3 pontos"
-  },
-  {
-    "pergunta": "Qual enxadrista soviético-russo manteve o título de campeão mundial de xadrez por uma década (1975 a 1985) e ficou conhecido por seu estilo posicional defensivo cirúrgico e asfixiante, antes de perder o trono para Garry Kasparov?",
-    "dica": "Ele travou batalhas políticas e intelectuais históricas contra Viktor Korchnoi e Garry Kasparov. Seu sobrenome é... .",
-    "resposta": "Anatoly Karpov"
-  },
-  {
-    "pergunta": "Nas regras oficiais de arbitragem da FIFA, qual deve ser a decisão do árbitro se um jogador cobrar um arremesso lateral diretamente para dentro do gol adversário, sem que a bola toque em nenhum outro atleta no caminho?",
-    "dica": "Por lei internacional do futebol, não existe gol direto de lateral. O gol é anulado e o jogo é reiniciado com um tiro de... .",
-    "resposta": "Tiro de meta"
-  },
-  {
-    "pergunta": "Qual velocista norte-americano dominou o atletismo mundial na virada dos anos 1990 para os anos 2000, conquistando o ouro olímpico nos 100 metros rasos em Sydney 2000 e estabelecendo o recorde mundial de 9s79 na época?",
-    "dica": "Ele era famoso por suas largadas explosivas e blocos de partida eficientes. Seu sobrenome é Greene. É... .",
-    "resposta": "Maurice Greene"
-  },
-  {
-    "pergunta": "No automobilismo de rali, qual tradicional evento disputado anualmente nas dunas e terrenos áridos do norte da África (e posteriormente transferido para a América do Sul e Oriente Médio) é considerado a prova de rally de resistência mais difícil do planeta?",
-    "dica": "O vencedor da prova recebe um troféu icônico no formato de um tuareg (habitante do deserto). É o Rally... .",
-    "resposta": "Dakar"
-  },
-  {
-    "pergunta": "Nas regras oficiais do polo aquático, quantos minutos totais de tempo regulamentar ativo dura uma partida internacional completa, dividida igualmente em quatro períodos?",
-    "dica": "Cada um dos quatro quartos dura exatamente 8 minutos de cronômetro parado sempre que o jogo é interrompido.",
-    "resposta": "32 minutos"
-  },
-  {
-    "pergunta": "Qual esgrimista italiana é considerada a maior medalhista da história da esgrima na arma do florete feminino, acumulando seis medalhas de ouro olímpicas e dezenas de títulos mundiais entre as décadas de 1990 e 2010?",
-    "dica": "Sua precisão e velocidade nas pistas a tornaram um mito do esporte na Itália. Seu sobrenome é Vezzali. É... .",
-    "resposta": "Valentina Vezzali"
-  },
-  {
-    "pergunta": "No basquetebol da NBA, qual jogador detém o recorde de maior número de roubos de bola (steals) na história da temporada regular da liga, acumulando a marca impressionante de 3.265 desarmes?",
-    "dica": "Ele foi um armador lendário do Utah Jazz que também detém o recorde histórico de assistências da liga. Seu sobrenome é Stockton.",
-    "resposta": "John Stockton"
-  },
-  {
-    "pergunta": "Qual seleção de futebol masculino conquistou a Copa do Mundo de 1954, na Suíça, ao derrotar a temida e favorita seleção da Hungria de Ferenc Puskás em uma final histórica conhecida como 'O Milagre de Berna'?",
-    "dica": "Foi o primeiro título mundial conquistado por essa nação europeia utilizando chuteiras inovadoras com travas intercambiáveis.",
-    "resposta": "Alemanha Ocidental"
-  },
-  {
-    "pergunta": "No esporte olímpico do levantamento de peso (halterofilismo), qual termo designa a plataforma de madeira rígida sobre a qual os atletas devem se posicionar e estabilizar o peso acima da cabeça para validar o movimento?",
-    "dica": "O objeto mede exatamente 4 metros de lado e os atletas não podem pisar fora de seus limites durante a execução do levantamento. É o... .",
-    "resposta": "Tablado"
-  },
-  {
-    "pergunta": "Qual piloto escocês de Fórmula 1 conquistou três campeonatos mundiais (1969, 1971 e 1973) e tornou-se uma das vozes mais ativas e importantes na história do automobilismo mundial na luta pela segurança de pistas e carros?",
-    "dica": "Ele era conhecido pelo estilo de pilotagem suave e cirúrgico e seu sobrenome é Stewart. É Jackie... .",
-    "resposta": "Jackie Stewart"
-  },
-  {
-    "pergunta": "No esporte de inverno do curling, qual é o nome dado às ferramentas semelhantes a escovas ou vassouras utilizadas pelos atletas para polir a superfície do gelo à frente da pedra em movimento?",
-    "dica": "A ação modifica o atrito do gelo e permite controlar a trajetória retilínea ou a curvatura da pedra em direção ao alvo. São as... .",
-    "resposta": "Vassouras"
-  },
-  {
-    "pergunta": "Qual pugilista norte-americano fez história nos anos 1980 ao se tornar o mais jovem campeão mundial dos pesos-pesados da história, aos 20 anos de idade, assombrando o mundo com seu estilo devastador de esquiva e nocaute rápido?",
-    "dica": "Ele ficou conhecido pelos apelidos de 'Iron Mike' e 'O Homem Mais Mau do Planeta'.",
-    "resposta": "Mike Tyson"
-  },
-  {
-    "pergunta": "Nas regras oficiais da esgrima olímpica, qual das três armas utilizadas (florete, espada ou sabre) restringe a área de toque válida exclusivamente à cabeça, tronco e braços do adversário (toda a região acima da linha da cintura)?",
-    "dica": "É a única das três armas onde os pontos podem ser marcados batendo com o corte ou contrafio da lâmina, simulando os antigos duelos de sabre de cavalaria.",
-    "resposta": "Sabre"
-  },
-  {
-    "pergunta": "Qual seleção masculina de handebol é a maior vencedora da história do Campeonato Mundial da IHF, acumulando seis títulos mundiais conquistados entre as décadas de 1990 e 2015 com uma geração apelidada de 'Os Especialistas'?",
-    "dica": "Essa equipe veste uniformes tradicionalmente azuis e travou disputas históricas com a Dinamarca e a Suécia. O país é a... .",
-    "resposta": "França"
-  },
-  {
-    "pergunta": "No basquetebol da NBA, qual jogador detém o recorde de maior número de rebotes capturados na história da temporada regular da liga, alcançando a marca colossal de 23.924 rebotes?",
-    "dica": "Ele foi o grande rival de equipe de Wilt Chamberlain e o pivô mais vitorioso da história dos Celtics, com 11 anéis. Seu sobrenome é Russell.",
-    "resposta": "Bill Russell"
-  },
-  {
-    "pergunta": "Qual velejador brasileiro, conhecido pelo apelido de 'Cachorrão', é considerado um dos maiores nomes do iatismo mundial de todos os tempos, acumulando cinco medalhas olímpicas (duas de ouro) na classe Star?",
-    "dica": "Ele fez história competindo ao lado de parceiros lendários como Marcelo Ferreira. Seu sobrenome é Grael. É Torben... .",
-    "resposta": "Torben Grael"
-  },
-  {
-    "pergunta": "Nas regras oficiais de handebol, o que acontece se o goleiro conseguir defender um arremesso do adversário e a bola sair pela linha de fundo (linha de meta), após tocar exclusivamente nas mãos do goleiro?",
-    "dica": "Ao contrário do futebol, essa trajetória não resulta em escanteio. O jogo é reiniciado com um tiro de... para a equipe de defesa.",
-    "resposta": "Tiro de goleiro"
-  },
-  {
-    "pergunta": "Qual maratonista de elite da Itália conquistou a medalha de ouro na maratona dos Jogos Olímpicos de Atenas, em 2004, assumindo a liderança da prova após o trágico incidente envolvendo o brasileiro Vanderlei Cordeiro de Lima?",
-    "dica": "Ele cruzou a linha de chegada no místico Estádio Panatenaico e seu sobrenome é Baldini. Seu primeiro nome é... .",
-    "resposta": "Stefano Baldini"
-  },
-  {
-    "pergunta": "No hóquei sobre o gelo da NHL, como é chamada a penalidade de tempo grave (geralmente de 5 minutos) aplicada contra um jogador que inicia ou participa de uma briga física violenta com socos contra o adversário na pista?",
-    "dica": "A infração força o time a ficar desfalcado e o termo em inglês deriva diretamente do verbo brigar. É a chamada... penalty.",
-    "resposta": "Fighting"
-  },
-
-
-
-
-  {
-    "pergunta": "Qual ginasta soviético detém o recorde histórico de maior número de medalhas de ouro individuais em uma única edição dos Jogos Olímpicos na ginástica artística masculina, conquistando 5 ouros em Montreal 1976?",
-    "dica": "Ele superou seus compatriotas em uma exibição de precisão nos aparelhos. Seu sobrenome é Andrianov. É... .",
-    "resposta": "Nikolai Andrianov"
-  },
-  {
-    "pergunta": "Nas regras oficiais de futebol de campo da IFAB, qual deve ser a decisão do árbitro se um jogador reserva, que está se aquecendo atrás da linha de fundo, atirar uma bola extra para dentro de campo com o objetivo de interromper um ataque promissor do adversário?",
-    "dica": "A interferência de um substituto fora de campo é punida severamente desde as revisões recentes das regras. O árbitro deve paralisar o jogo, aplicar cartão amarelo ao reserva e assinalar um... .",
-    "resposta": "Tiro livre direto"
-  },
-  {
-    "pergunta": "Qual piloto mexicano de Fórmula 1 detém o recorde histórico de maior número de Grandes Prêmios disputados antes de alcançar a sua primeira vitória na categoria, correndo 190 provas até vencer o GP de Sakhir em 2020?",
-    "dica": "Ele ficou conhecido por sua excelente gestão de pneus de compostos médios e duros ao longo de sua carreira. Seu sobrenome é Pérez.",
-    "resposta": "Sergio Pérez"
-  },
-  {
-    "pergunta": "No tênis de campo, qual termo técnico designa o efeito rotacional dado à bola quando o tenista a golpeia de baixo para cima, fazendo com que ela gire para a frente e caia rapidamente dentro da quadra adversária antes de quicar alto?",
-    "dica": "É o efeito mecânico oposto ao backspin ou slice, sendo amplamente dominado por especialistas em saibro como Rafael Nadal. O termo em inglês é... .",
-    "resposta": "Topspin"
-  },
-  {
-    "pergunta": "Nas regras oficiais do basquetebol da FIBA, quantos segundos uma equipe de ataque tem para efetuar a reposição de bola a partir de um tiro lateral ou de linha de fundo antes de cometer uma violação de tempo?",
-    "dica": "O cronômetro começa a rodar a partir do momento em que o atleta assume o controle físico e estático da bola fora das linhas de demarcação.",
-    "resposta": "5 segundos"
-  },
-  {
-    "pergunta": "Qual seleção masculina de futebol conquistou a medalha de ouro nos Jogos Olímpicos de Atlanta, em 1996, ao derrotar a Argentina na grande final por 3 a 2, consolidando a primeira conquista dourada do continente africano?",
-    "dica": "Essa histórica geração contava com craques renomados do futebol mundial como Nwankwo Kanu e Jay-Jay Okocha.",
-    "resposta": "Nigéria"
-  },
-  {
-    "pergunta": "No automobilismo de Fórmula 1, qual circuito clássico localizado na Bélgica é mundialmente famoso por abrigar a icônica e temida sequência de curvas de alta velocidade conhecida como 'Eau Rouge' e 'Raidillon'?",
-    "dica": "É a pista mais longa do calendário moderno e sedia tradicionalmente o Grande Prêmio da Bélgica. É o circuito de... .",
-    "resposta": "Spa-Francorchamps"
-  },
-  {
-    "pergunta": "Nas regras oficiais do polo aquático, qual é a punição técnica aplicada caso um jogador de linha utilize as duas mãos simultaneamente para bloquear ou rebater a bola em qualquer parte da piscina?",
-    "dica": "O uso de ambas as mãos na bola é uma prerrogativa exclusiva dada ao goleiro dentro de sua área de defesa. Para jogadores de linha, a infração resulta em um tiro... .",
-    "resposta": "Tiro livre"
-  },
-  {
-    "pergunta": "Qual tenista norte-americana detém o recorde histórico de maior número de semanas consecutivas no topo do ranking mundial da WTA na Era Aberta, empatada com a alemã Steffi Graf com a expressiva marca de 186 semanas?",
-    "dica": "Ela é considerada uma das atletas mais dominantes da história do esporte contemporâneo e seu primeiro nome é... .",
-    "resposta": "Serena Williams"
-  },
-  {
-    "pergunta": "Em qual modalidade olímpica de ciclismo os atletas disputam provas de longa distância em estradas pavimentadas, dividindo-se nas categorias de prova em linha (estrada) e contrarrelógio individual?",
-    "dica": "Essa vertente do ciclismo engloba as tradicionais grandes voltas da Europa, como o Tour de France. É o Ciclismo de... .",
-    "resposta": "Estrada"
-  },
-  {
-    "pergunta": "Qual clube de futebol europeu fez história na temporada 2008-2009 ao conquistar o inédito 'Sextete', vencendo todas as seis competições oficiais que disputou em um único ano civil sob o comando tático de Pep Guardiola?",
-    "dica": "Essa equipe espanhola encantou o mundo com a filosofia de passes curtos e posse de bola dinâmica executada por astros como Lionel Messi, Xavi e Iniesta.",
-    "resposta": "Barcelona"
-  },
-  {
-    "pergunta": "No voleibol de quadra, o que acontece de acordo com as regras oficiais da FIVB se o sacador executar o serviço e a bola tocar na fita superior da rede, mas continuar sua trajetória e cair fora das linhas de demarcação da quadra adversária?",
-    "dica": "O toque na rede não anula o erro de trajetória se a bola não for válida na quadra de recepção. A ação resulta em... .",
-    "resposta": "Ponto do adversário"
-  },
-  {
-    "pergunta": "Qual ciclista italiano entrou para a história do esporte ao conquistar o Giro d'Italia cinco vezes e o Tour de France duas vezes entre as décadas de 1940 e 1950, sendo carinhosamente apelidado de 'Il Campionissimo'?",
-    "dica": "Sua rivalidade esportiva e política com Gino Bartali paralisou a Itália no período pós-guerra. Seu sobrenome é Coppi.",
-    "resposta": "Fausto Coppi"
-  },
-  {
-    "pergunta": "No futebol americano da NFL, qual termo em inglês designa a penalidade aplicada contra a equipe de defesa caso um jogador salte cruzando a linha de scrimmage e faça contato físico com um atleta de ataque antes da bola ser centrada?",
-    "dica": "Essa infração resulta em uma perda automática de 5 jardas contra a defesa. O termo é... .",
-    "resposta": "Offside"
-  },
-  {
-    "pergunta": "Qual piloto austríaco de Fórmula 1 conquistou três campeonatos mundiais na categoria (1975, 1977 e 1984) e protagonizou um dos retornos mais impressionantes da história do esporte após sobreviver a um acidente gravíssimo em Nürburgring?",
-    "dica": "Ele fez história correndo pela Ferrari e pela McLaren e seu primeiro nome é Niki.",
-    "resposta": "Niki Lauda"
-  },
-  {
-    "pergunta": "Nas regras oficiais do basquetebol da FIBA, quantas faltas coletivas uma equipe pode cometer por período (quarto) antes de ativar a penalidade que concede lances livres automáticos ao adversário para qualquer falta subsequente?",
-    "dica": "A partir da próxima falta cometida dentro daquele mesmo quarto, o time punido entra em situação de bônus.",
-    "resposta": "4 faltas"
-  },
-  {
-    "pergunta": "Qual nadador dos Estados Unidos quebrou sete recordes mundiais em uma única edição dos Jogos Olímpicos, conquistando sete medalhas de ouro em Munique 1972, marca que durou 36 anos até ser superada por Michael Phelps?",
-    "dica": "Ele competia exibindo um icônico bigode e seu sobrenome é Spitz.",
-    "resposta": "Mark Spitz"
-  },
-  {
-    "pergunta": "No beisebol profissional da MLB, qual termo designa a jogada defensiva perfeita na qual a equipe consegue eliminar dois corredores adversários em uma mesma sequência contínua de movimentos rápidos?",
-    "dica": "O termo em inglês traduz-se literalmente como 'jogada dupla'. É o... .",
-    "resposta": "Double Play"
-  },
-  {
-    "pergunta": "Em qual modalidade olímpica de inverno os atletas competem deslizando sobre pranchas individuais na neve em alta velocidade, dividindo-se em disciplinas como o Slalom Gigante Paralelo, Snowboard Cross e as acrobacias aéreas?",
-    "dica": "O esporte compartilha várias características culturais com o skate e o surfe e foi incorporado aos Jogos de Inverno no fim da década de 1990.",
-    "resposta": "Snowboard"
-  },
-  {
-    "pergunta": "Qual golfista lendário dos Estados Unidos é o maior vencedor da história do torneio The Masters, acumulando seis jaquetas verdes conquistadas entre as décadas de 1960 e 1986, sendo considerado uma das maiores referências do esporte?",
-    "dica": "Ele é conhecido mundialmente pelo apelido de 'O Urso de Ouro'. Seu sobrenome é Nicklaus.",
-    "resposta": "Jack Nicklaus"
-  },
-  {
-    "pergunta": "No rugby union de 15 jogadores, quantos pontos recebe a equipe que converte com sucesso um 'Drop Goal', que consiste em chutar a bola entre as traves por cima do travessão em jogo corrido logo após ela tocar o solo?",
-    "dica": "É a mesma pontuação concedida por um Penalty Goal decorrente de uma infração adversária.",
-    "resposta": "3 pontos"
-  },
-  {
-    "pergunta": "Qual enxadrista soviético-russo dominou o xadrez mundial na década de 1970 e primeira metade dos anos 1980, mantendo o título de campeão mundial por dez anos através de um estilo de jogo posicional extremamente sólido e defensivo?",
-    "dica": "Sua rivalidade intensa contra Garry Kasparov marcou a história política e esportiva do xadrez moderno. Seu sobrenome é... .",
-    "resposta": "Anatoly Karpov"
-  },
-  {
-    "pergunta": "Nas regras oficiais de arbitragem da FIFA, qual deve ser a decisão correta do árbitro caso um jogador cobre um arremesso lateral diretamente para dentro de seu próprio gol, sem que a bola toque em nenhum outro atleta no caminho?",
-    "dica": "Por lei internacional do futebol de campo, não se pode marcar gol contra direto de arremesso lateral. O jogo deve ser reiniciado com a cobrança de um... .",
-    "resposta": "Escanteio"
-  },
-  {
-    "pergunta": "Qual velocista canadense chocou o mundo nos Jogos Olímpicos de Seul, em 1988, ao vencer os 100 metros rasos com a marca de 9s79, mas teve sua medalha de ouro e recorde cassados dias depois após testar positivo para esteroides anabolizantes?",
-    "dica": "Sua rivalidade intensa nas pistas contra o norte-americano Carl Lewis foi o grande centro das atenções daquela Olimpíada. Seu primeiro nome é Ben.",
-    "resposta": "Ben Johnson"
-  },
-  {
-    "pergunta": "No automobilismo de rali, qual montadora francesa marcou época no Campeonato Mundial de Rali (WRC) ao projetar o modelo Xsara e C4 que levaram Sébastien Loeb a conquistar nove títulos mundiais consecutivos nos anos 2000?",
-    "dica": "O emblema tradicional dessa marca automobilística é composto por dois chevrons (engrenagens bi-helicoidais) sobrepostos.",
-    "resposta": "Citroën"
-  },
-  {
-    "pergunta": "Nas regras oficiais do polo aquático, por quantos minutos dura cada um dos quatro períodos regulamentares de tempo de jogo ativo em uma partida internacional?",
-    "dica": "O cronômetro do jogo é paralisado sempre que o árbitro apita uma infração ou a bola sai de jogo, somando 32 minutos de tempo ativo total.",
-    "resposta": "8 minutos"
-  },
-  {
-    "pergunta": "Qual esgrimista italiana é a maior medalhista da história da esgrima na arma do florete feminino, acumulando seis medalhas de ouro olímpicas e dezenas de títulos mundiais entre as décadas de 1990 e 2012?",
-    "dica": "Ela é considerada uma das maiores atletas olímpicas de todos os tempos na Itália e seu sobrenome é Vezzali.",
-    "resposta": "Valentina Vezzali"
-  },
-  {
-    "pergunta": "No basquetebol da NBA, qual lendário armador do Utah Jazz detém o recorde histórico absoluto de maior número de roubos de bola na história da temporada regular, acumulando a impressionante marca de 3.265 desarmes?",
-    "dica": "Ele atuou por quase duas décadas ao lado do ala-pivô Karl Malone e também detém o recorde histórico de assistências da liga. Seu sobrenome é Stockton.",
-    "resposta": "John Stockton"
-  },
-  {
-    "pergunta": "Qual seleção masculina de futebol conquistou a Copa do Mundo de 1954, na Suíça, ao derrotar a amplamente favorita seleção da Hungria em uma final dramática que ficou eternizada na história do esporte como 'O Milagre de Berna'?",
-    "dica": "Essa conquista marcou o primeiro título mundial de futebol da história dessa nação europeia.",
-    "resposta": "Alemanha Ocidental"
-  },
-  {
-    "pergunta": "No esporte olímpico do levantamento de peso (halterofilismo), qual é a denominação oficial dada à estrutura plana e rígida de madeira sobre a qual os atletas executam seus movimentos mecânicos de elevação e estabilização da barra?",
-    "dica": "Essa superfície mede exatamente 4 metros de lado e os juízes validam o movimento se o atleta mantiver os pés dentro de seus limites territoriais.",
-    "resposta": "Tablado"
-  },
-  {
-    "pergunta": "Qual piloto britânico de Fórmula 1 conquistou três campeonatos mundiais (1969, 1971 e 1973) e tornou-se um dos maiores líderes mundiais na luta pela modernização da segurança de carros, capacetes e circuitos automotivos?",
-    "dica": "Seu estilo de pilotagem suave e técnico lhe rendeu o título de Sir e seu sobrenome é Stewart.",
-    "resposta": "Jackie Stewart"
-  },
-  {
-    "pergunta": "No esporte de inverno do curling, qual é o nome técnico dado às ferramentas de polimento utilizadas pelos atletas para escovar a superfície da pista de gelo à frente da pedra, alterando o atrito para guiar sua trajetória?",
-    "dica": "Elas são popularmente chamadas pelo nome do utensílio doméstico de limpeza com o qual se assemelham.",
-    "resposta": "Vassouras"
-  },
-  {
-    "pergunta": "Qual pugilista norte-americano assombrou o mundo nos anos 1980 ao se tornar o mais jovem campeão mundial dos pesos-pesados da história, aos 20 anos, utilizando uma combinação avassaladora de velocidade, esquiva e nocaute rápido?",
-    "dica": "Ele ficou mundialmente conhecido pelo apelido de 'Iron Mike'.",
-    "resposta": "Mike Tyson"
-  },
-  {
-    "pergunta": "Nas regras oficiais da esgrima olímpica, qual das três armas utilizadas (florete, espada ou sabre) permite que os pontos sejam computados utilizando tanto os toques de ponta quanto os golpes aplicados com o corte ou contrafio da lâmina?",
-    "dica": "Essa modalidade de combate possui regras de prioridade dinâmicas e restringe a área de toque válida à região corporal localizada acima da linha da cintura.",
-    "resposta": "Sabre"
-  },
-  {
-    "pergunta": "Qual seleção masculina de handebol fez história ao conquistar seis títulos mundiais da IHF entre as décadas de 1990 e 2017, consolidando uma das eras mais dominantes do esporte com uma geração de atletas conhecidos como 'Os Especialistas'?",
-    "dica": "A equipe joga tradicionalmente vestindo camisas na cor azul-escura e representa o país de origem de Pierre de Coubertin.",
-    "resposta": "França"
-  },
-  {
-    "pergunta": "No basquetebol da NBA, qual pivô lendário do Boston Celtics detém o recorde de maior número de rebotes capturados na história da temporada regular, alcançando a marca colossal de 23.924 rebotes?",
-    "dica": "Ele foi o grande líder defensivo da dinastia dos Celtics que faturou 11 anéis de campeão nas décadas de 1950 e 1960. Seu sobrenome é Russell.",
-    "resposta": "Bill Russell"
-  },
-  {
-    "pergunta": "Qual velejador brasileiro, apelidado de 'Torben' e pertencente a uma das dinastias mais tradicionais do iatismo mundial, é um dos maiores medalhistas olímpicos da história do Brasil, acumulando cinco medalhas na classe Star?",
-    "dica": "Ele conquistou duas medalhas de ouro olímpicas competindo ao lado de parceiros históricos como Marcelo Ferreira. Seu sobrenome é... .",
-    "resposta": "Torben Grael"
-  },
-  {
-    "pergunta": "Nas regras oficiais de handebol da IHF, o que acontece caso o goleiro defenda um arremesso do adversário e a bola saia diretamente pela linha de fundo (linha de meta), após tocar exclusivamente nas mãos do arqueiro?",
-    "dica": "Ao contrário da dinâmica do futebol, essa trajetória não resulta na marcação de um escanteio. O jogo é reiniciado com um tiro de... .",
-    "resposta": "Tiro de goleiro"
-  },
-  {
-    "pergunta": "Qual maratonista de elite da Itália conquistou a medalha de ouro na maratona dos Jogos Olímpicos de Atenas, em 2004, assumindo a liderança da prova após o trágico incidente de segurança envolvendo o maratonista brasileiro Vanderlei Cordeiro de Lima?",
-    "dica": "Ele cruzou a linha de chegada no histórico Estádio Panatenaico e seu sobrenome é Baldini. Seu primeiro nome é... .",
-    "resposta": "Stefano Baldini"
-  },
-  {
-    "pergunta": "No hóquei sobre o gelo da NHL, qual termo em inglês designa a penalidade severa de tempo (geralmente de cinco minutos) aplicada contra um jogador que inicia ou se envolve voluntariamente em uma briga física de socos com o adversário na pista?",
-    "dica": "Essa penalidade força a equipe infratora a atuar desguarnecida temporariamente. O termo deriva diretamente do verbo brigar em inglês. É a chamada... penalty.",
-    "resposta": "Fighting"
-  },
-
-
-
-  
-
-  {
     "pergunta": "Qual clube do interior paulista detém o feito de ser o único time fora das capitais estaduais a se sagrar campeão do Campeonato Brasileiro da Série A na era pré-pontos corridos, conquistando o título em 1978?",
     "dica": "A equipe revelou craques como Careca e Zenon, derrotando o Palmeiras na grande finalíssima.",
     "resposta": "Guarani"
   },
   {
-    "pergunta": "Quem é o maior artilheiro da história da era dos pontos corridos do Campeonato Brasileiro (desde 2003) considerando o formato atual com 20 clubes?",
-    "dica": "Ele fez história vestindo as camisas de Fluminense, Cruzeiro e Atlético Mineiro, sendo famoso pelo faro de gol na grande área. Seu sobrenome é Guedes. É... .",
-    "resposta": "Diego Tardelli"
+    "pergunta": "Quem é o maior artilheiro da história da era dos pontos corridos do Campeonato Brasileiro (desde 2003) considerando o formato de 20 clubes?",
+    "dica": "Ele fez história marcando gols fundamentais por diversos times e se destacou pela longevidade de sua carreira.",
+    "resposta": "Diego Souza"
   },
   {
     "pergunta": "Na polêmica final do Campeonato Brasileiro de 1987, a Copa União, qual clube o Sport Recife derrotou na final do quadrangular instituído pela CBF para ficar com a taça oficial reconhecida pela entidade?",
@@ -1880,8 +860,8 @@
     "resposta": "Oséas"
   },
   {
-    "pergunta": "Qual clube do interior gaúcho chocou o país ao conquistar a Copa do Brasil de 1991, derrotando o Grêmio na finalíssima em pleno Olímpico?",
-    "dica": "A equipe de Caxias do Sul era comandada pelo técnico Valmir Louruz e carimbou a vaga para a Libertadores do ano seguinte.",
+    "pergunta": "Qual clube do futebol brasileiro chocou o país ao conquistar a Copa do Brasil de 1991, derrotando o Grêmio na finalíssima em pleno Olímpico?",
+    "dica": "A equipe catarinense era comandada pelo técnico Valmir Louruz e carimbou a vaga para a Libertadores do ano seguinte.",
     "resposta": "Criciúma"
   },
   {
@@ -1890,7 +870,7 @@
     "resposta": "Pelé"
   },
   {
-    "pergunta": "No turbulento Campeonato Brasileiro de 2000, conhecido como Copa João Havelange, qual clube da Série de Alento (Módulo Amarelo) chegou à grande finalíssima contra o Vasco da Gama após eliminar o Cruzeiro e o Grêmio?",
+    "pergunta": "No conhecido Campeonato Brasileiro de 2000, conhecido como Copa João Havelange, qual clube do Módulo Amarelo chegou à grande finalíssima contra o Vasco da Gama após eliminar o Cruzeiro e o Grêmio?",
     "dica": "A equipe paulista vestia azul e branco e tinha o técnico Jair Picerni no comando tático.",
     "resposta": "São Caetano"
   },
@@ -1920,7 +900,7 @@
     "resposta": "2005"
   },
   {
-    "pergunta": "Quem é o maior artilheiro estrangeiro da história de uma única edição do Campeonato Brasileiro da Série A na era dos pontos corridos, marcando 26 gols?",
+    "pergunta": "Quem é o maior artilheiro estrangeiro da história de uma única edição del Campeonato Brasileiro da Série A na era dos pontos corridos, marcando 26 gols?",
     "dica": "O atacante argentino alcançou essa marca vestindo a camisa do Fluminense na temporada de 2022.",
     "resposta": "Germán Cano"
   },
@@ -1929,11 +909,6 @@
     "dica": "A equipe manda seus jogos no Estádio Nilton Santos e possui uma estrela solitária no escudo.",
     "resposta": "Botafogo"
   },
-
-
-
-
-
   {
     "pergunta": "Qual foi o único clube de futebol do Nordeste a conquistar o Campeonato Brasileiro da Série A na era dos pontos corridos, considerando a divisão principal do futebol nacional?",
     "dica": "Essa é uma pegadinha clássica: nenhum clube do Nordeste venceu a Série A nos pontos corridos ainda. Os títulos da região (Bahia e Sport) ocorreram no formato de... .",
@@ -1951,11 +926,11 @@
   },
   {
     "pergunta": "Qual jogador detém o recorde de maior número de gols marcados em uma única edição de Copa do Brasil na história recente, balançando as redes 14 vezes em 2014?",
-    "dica": "Houve uma imprecisão no lote anterior: o recordista em uma só edição é ele, que atingiu a marca jogando pelo Cruzeiro. Seu primeiro nome é Léo e o sobrenome é... .",
+    "dica": "O recordista em uma só edição é ele, que atingiu a marca jogando pelo Cruzeiro. Seu primeiro nome é Léo e o sobrenome é... .",
     "resposta": "Léo Bonatini"
   },
   {
-    "pergunta": "Qual tradicional clube do futebol paulista, sediado em Ribeirão Preto, chocou o estado ao chegar à final do Campeonato Paulista de 2001 contra o Corinthians?",
+    "pergunta": "Qual tradicional clube do futebol paulista, sediado em Ribeirão Preto, chocou o estado ao chegar à final del Campeonato Paulista de 2001 contra o Corinthians?",
     "dica": "A equipe veste as cores vermelho, preto e branco e revelou jogadores como Sócrates e Raí. É o... .",
     "resposta": "Botafogo"
   },
@@ -1995,7 +970,7 @@
     "resposta": "Atlético Goianiense"
   },
   {
-    "pergunta": "Na decisão do Campeonato Brasileiro de 1996, qual jogador marcou o gol do título do Grêmio contra os Portuguesa nos minutos finais no Estádio Olímpico?",
+    "pergunta": "Na decisão do Campeonato Brasileiro de 1996, qual jogador marcou o gol do título do Grêmio contra a Portuguesa nos minutos finais no Estádio Olímpico?",
     "dica": "O gol de canhota selou a vitória por 2 a 0 que o clube precisava. Ele tinha o apelido de 'Rei do Gatilho'. Seu nome é... .",
     "resposta": "Aílton"
   },
@@ -2021,8 +996,8 @@
   },
   {
     "pergunta": "No Campeonato Brasileiro de 2009, qual clube aplicou a maior goleada da era dos pontos corridos com 20 clubes, vencendo o Náutico por 7 a 0?",
-    "dica": "A partida histórica ocorreu no Estádio Palestra Itália e o time vencedor acabou o campeonato entre os primeiros colocados.",
-    "resposta": "Cruzeiro"
+    "dica": "A partida histórica ocorreu no Estádio Palestra Itália.",
+    "resposta": "Palmeiras"
   },
   {
     "pergunta": "Quem é o maior artilheiro da história do clássico gaúcho 'Gre-Nal', acumulando a incrível marca de 40 gols marcados em exibições oficiais?",
@@ -2036,7 +1011,7 @@
   },
   {
     "pergunta": "Qual equipe detém o recorde de maior número de vitórias consecutivas em uma única edição do Campeonato Brasileiro da Série A na era dos pontos corridos, alcançando 8 triunfos seguidos?",
-    "dica": "O feito foi alcançado pelo Cruzeiro durante a campanha avassaladora do título de... .",
+    "dica": "O feito foi alcançado pelo Cruzeiro durante a campanha do título de... .",
     "resposta": "2003"
   },
   {
@@ -2051,7 +1026,7 @@
   },
   {
     "pergunta": "Quem é o maior artilheiro da história do Campeonato Brasileiro da Série B considerando o formato de pontos corridos estabelecido em 2006?",
-    "dica": "O centroavante marcou época vestindo camisas como as do Ceará, Ponte Preta e Goiás, sendo conhecido como 'Gauchinho' ou pelo nome... .",
+    "dica": "O centroavante marcou época vestindo camisas de grandes equipes, sendo conhecido pela veia artilheira.",
     "resposta": "Bruno Rangel"
   },
   {
@@ -2085,58 +1060,18 @@
     "resposta": "Duílio"
   },
   {
-    "pergunta": "Qual clube do interior paulista surpreendeu o país ao conquistar o Campeonato Paulista de 2002, torneio que não contou com os grandes devido ao torneio Rio-São Paulo?",
-    "dica": "A equipe é sediada na cidade de Itu e veste as cores vermelho e preto. É o... .",
-    "resposta": "Ituano"
-  },
-  {
-    "pergunta": "Na final do Campeonato Brasileiro de 1974, qual jogador marcou o gol que garantiu o primeiro título nacional da história do Vasco da Gama contra o Cruzeiro no Maracanã?",
-    "dica": "O atacante fez o gol decisivo na vitória por 2 a 1. Seu sobrenome era Jorginho... .",
-    "resposta": "Carvoeiro"
-  },
-  {
-    "pergunta": "Qual estádio brasileiro, localizado em Porto Alegre, ficou conhecido historicamente pelo apelido de 'Colosso da Lagoa' devido à sua imensa capacidade de público na época de sua inauguração?",
-    "dica": "Houve um equívoco geográfico na dica: o Colosso da Lagoa fica em Erechim (Ypiranga), mas o estádio histórico do Grêmio inaugurado em 1954 era o... .",
-    "resposta": "Olímpico"
-  },
-  {
-    "pergunta": "No Campeonato Brasileiro de 1993, qual clube do interior paulista surpreendeu ao chegar à final do torneio contra o Palmeiras, revelando jogadores como Rivaldo e Leto?",
-    "dica": "A equipe da cidade de Mogi Mirim ficou conhecida pelo apelido de 'Carrossel Caipira'.",
-    "resposta": "Mogi Mirim"
-  },
-  {
-    "pergunta": "Quem é o maior artilheiro da história do clássico baiano 'Ba-Vi' atuando com a camisa do Esporte Clube Vitória, somando 21 gols?",
-    "dica": "Ele foi um atacante velocista que marcou época no futebol nordestino na década de 1990. Seu nome é... .",
-    "resposta": "Indio"
-  },
-  {
-    "pergunta": "Qual clube do futebol carioca, campeão da Série B nacional em 1982, é sediado em Moça Bonita e veste tradicionalmente camisas listradas em verde e branco?",
-    "dica": "A equipe foi vice-campeã brasileira em 1985 perdendo a final para o Coritiba. É o... .",
-    "resposta": "Bangu"
-  },
-  {
-    "pergunta": "Qual equipe detém o recorde de menor número de gols sofridos em uma única edição do Campeonato Brasileiro da Série A na era dos pontos corridos com 20 clubes, sofrendo apenas 19 gols?",
-    "dica": "A marca defensiva impressionante foi estabelecida pelo São Paulo durante a campanha do título de... .",
-    "resposta": "2007"
-  },
-  {
-    "pergunta": "Qual clube do interior de Minas Gerais fez história ao chegar à final da Copa do Brasil de 2007, sendo derrotado pelo Fluminense na decisão?",
-    "dica": "A equipe é sediada na cidade de Nova Lima e veste as cores amarelo e preto. É o... .",
-    "resposta": "Villa Nova"
+    "pergunta": "Qual clube do futebol brasileiro chegou à final da Copa do Brasil de 2007, sendo derrotado pelo Fluminense na decisão?",
+    "dica": "A equipe catarinense mandava seus jogos em Florianópolis.",
+    "resposta": "Figueirense"
   },
   {
     "pergunta": "Em qual ano foi disputada a primeira edição da Taça Brasil, competição que marcou o início oficial da unificação dos títulos do Campeonato Brasileiro pela CBF?",
     "dica": "O torneio consagrou o Bahia como o primeiro campeão nacional ao derrotar o Santos.",
-    "resposta": "1559"
+    "resposta": "1959"
   },
   {
     "pergunta": "Quem é o maior artilheiro da história da Copa do Nordeste (Lampions League) considerando o formato moderno do torneio restabelecido na década de 1990?",
     "dica": "O atacante marcou época vestindo a camisa do Ceará e do Vitória, sendo conhecido pelo faro de gol. Seu nome é... .",
     "resposta": "Magno Alves"
-  },
-
-
-
-
-  
+  }
 ]
