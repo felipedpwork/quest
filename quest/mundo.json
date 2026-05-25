@@ -1,0 +1,1568 @@
+[
+  {
+    "pergunta": "Qual estreito marítimo, localizado entre o Omã e o Irã, é considerado a artéria geopolítica mais importante do mundo para o transporte de petróleo, conectando o Golfo Pérsico ao Golfo de Omã?",
+    "dica": "Cerca de um quinto do consumo mundial de petróleo passa por esse canal estreito. O nome começa com a letra 'O'.",
+    "resposta": "Estreito de Ormuz"
+  },
+  {
+    "pergunta": "Como é conhecido na geografia o 'Polo Oceânico de Inacessibilidade', o ponto nos oceanos que fica localizado no lugar mais distante de qualquer terra firme em todo o planeta Terra?",
+    "dica": "Fica no Pacífico Sul e leva o nome do famoso capitão fictício do livro 'Vinte Mil Léguas Submarinas', de Júlio Verne.",
+    "resposta": "Ponto Nemo"
+  },
+  {
+    "pergunta": "Qual capital europeia permanece dividida por uma zona desmilitarizada monitorada pela ONU (a Linha Verde) desde a década de 1974, separando as comunidades grega e turca?",
+    "dica": "Fica localizada na ilha de Chipre e é a única capital dividida do mundo atual.",
+    "resposta": "Nicósia"
+  },
+  {
+    "pergunta": "Em qual país da América do Sul fica o famoso monumento 'Mitad del Mundo', construído para marcar a localização da Linha do Equador calculada por uma missão geodésica francesa no século XVIII?",
+    "dica": "O próprio nome da nação faz alusão direta à linha imaginária que divide os hemisférios. Sua capital é Quito.",
+    "resposta": "Equador"
+  },
+  {
+    "pergunta": "Qual território colonial foi devolvido por Portugal à administração da China no final de 1999, tornando-se o último posto avançado e colônia europeia oficial em solo asiático?",
+    "dica": "Vizinho de Hong Kong, o local manteve o português como língua oficial e hoje é mundialmente famoso por seus gigantescos cassinos.",
+    "resposta": "Macau"
+  },
+  {
+    "pergunta": "Localizado na fronteira entre Israel, Palestina e Jordânia, qual corpo d'água hipersalino é considerado o ponto em terra firme de menor altitude (mais baixo) de todo o planeta?",
+    "dica": "Sua salinidade é tão extrema que é impossível para um ser humano afundar nele, e nenhuma forma de vida macroscópica sobrevive ali.",
+    "resposta": "Mar Morto"
+  },
+  {
+    "pergunta": "Qual país africano possui uma curiosa e estreita extensão de terra no norte de seu território chamada 'Faixa de Caprivi', criada na era colonial para dar ao Império Alemão acesso ao Rio Zambeze?",
+    "dica": "Fica no sudoeste do continente africano, faz fronteira com a África do Sul e Botswana, e sua capital é Windhoek.",
+    "resposta": "Namíbia"
+  },
+  {
+    "pergunta": "Redescoberta em 1812 pelo explorador suíço Johann Burckhardt, qual antiga cidade esculpida diretamente em paredões de rocha de arenito foi a próspera capital do Reino Nabateu?",
+    "dica": "Localizada na Jordânia, é uma das Sete Maravilhas do Mundo Moderno e serviu de cenário para o clímax do filme 'Indiana Jones e a Última Cruzada'.",
+    "resposta": "Petra"
+  },
+  {
+    "pergunta": "Localizado no meio do Oceano Atlântico Sul, qual arquipélago britânico ultramarino detém o título oficial de território habitado mais isolado do mundo, distando mais de 2.000 km de qualquer outra terra firme?",
+    "dica": "A ilha principal e o arquipélago receberam o nome do navegador português que a descobriu em 1506.",
+    "resposta": "Tristão da Cunha"
+  },
+  {
+    "pergunta": "Qual tratado de paz, assinado em março de 1918 entre o novo governo bolchevique e as Potências Centrais, oficializou a saída da Rússia da Primeira Guerra Mundial custando-lhe vastos territórios?",
+    "dica": "O acordo leva o nome da cidade (hoje situada na Bielorrússia) onde as delegações se reuniram. Começa com 'Brest-'.",
+    "resposta": "Tratado de Brest-Litovski"
+  },
+  {
+    "pergunta": "Embora os rios Nilo e Amazonas disputem o título de maior extensão, qual rio africano detém com folga o recorde de rio mais profundo do mundo, atingindo pontos com mais de 220 metros de profundidade?",
+    "dica": "Ele cruza a Linha do Equador duas vezes e dá nome a dois países vizinhos na África Central.",
+    "resposta": "Rio Congo"
+  },
+  {
+    "pergunta": "Assinado em 1992, qual tratado internacional foi o grande responsável por transformar a antiga Comunidade Econômica Europeia na União Europeia moderna e criar as bases para a moeda única (o Euro)?",
+    "dica": "Leva o nome da cidade nos Países Baixos (Holanda) onde os líderes europeus assinaram o documento histórico.",
+    "resposta": "Tratado de Maastricht"
+  },
+  {
+    "pergunta": "Qual imponente vulcão adormecido e de topo coberto por neves eternas é amplamente conhecido por ser o ponto geográfico mais alto de todo o continente africano?",
+    "dica": "Fica localizado na Tanzânia, elevando-se majestosamente a 5.895 metros de altitude.",
+    "resposta": "Kilimanjaro"
+  },
+  {
+    "pergunta": "Localizada no território da atual Tunísia, qual antiga cidade-estado de origem fenícia foi a grande rival comercial e militar da República Romana nas históricas Guerras Púnicas?",
+    "dica": "Era a terra natal do famoso general Aníbal Barca, o homem que cruzou os Alpes com elefantes de guerra para atacar Roma.",
+    "resposta": "Cartago"
+  },
+  {
+    "pergunta": "No mundo inteiro, existem apenas dois países classificados como 'duplamente encravados' (países cercados apenas por nações que também não têm saída para o mar). Se um deles é o Liechtenstein na Europa, qual é o outro?",
+    "dica": "Fica localizado na Ásia Central, fez parte da União Soviética e sua capital é a histórica cidade de Tashkent.",
+    "resposta": "Uzbequistão"
+  },
+
+
+  {
+    "pergunta": "Qual é o nome do território que funciona como um exclave da Rússia na Europa Ocidental, estando totalmente separado do resto do país e situado entre a Polônia e a Lituânia, às margens do Mar Báltico?",
+    "dica": "Antes de ser anexada pela União Soviética após a Segunda Guerra Mundial, sua capital se chamava Königsberg e pertencia à Prússia.",
+    "resposta": "Kaliningrado"
+  },
+  {
+    "pergunta": "Assinado em 1842 após a derrota chinesa na Primeira Guerra do Ópio, qual tratado imperialista forçou a Dinastia Qing a abrir portos ao comércio britânico e a ceder a ilha de Hong Kong ao Reino Unido?",
+    "dica": "O nome do documento homenageia a importante cidade histórica chinesa onde ele foi assinado. Começa com a letra 'N'.",
+    "resposta": "Tratado de Nanquim"
+  },
+  {
+    "pergunta": "Qual é o nome do local considerado a fossa oceânica mais profunda do planeta, onde o fundo do oceano atinge uma profundidade máxima de quase 11.000 metros abaixo do nível do mar?",
+    "dica": "Fica localizada no Oceano Pacífico Ocidental, a leste das ilhas que lhe dão nome. Seu ponto mais profundo se chama Depressão Challenger.",
+    "resposta": "Fossa das Marianas"
+  },
+  {
+    "pergunta": "Situado na Sibéria (Rússia), qual pequeno vilarejo detém o título oficial de local permanente mais frio e habitado do mundo, tendo registrado a incrível temperatura histórica de -67,8°C em 1933?",
+    "dica": "O nome dessa localidade começa com a letra 'O' e o solo da região permanece congelado o ano inteiro (permafrost).",
+    "resposta": "Oymyakon"
+  },
+  {
+    "pergunta": "Qual imenso país da Ásia Central decidiu mudar sua capital da cidade de Almaty em 1997 para uma nova cidade planejada no norte, que já foi chamada de Akmola, Astana e Nur-Sultan?",
+    "dica": "É o maior país do mundo sem saída para o oceano aberto e faz fronteira direta com a Rússia e a China.",
+    "resposta": "Cazaquistão"
+  },
+  {
+    "pergunta": "Dividido entre o Peru e a Bolívia na cordilheira dos Andes, qual corpo d'água detém o recorde mundial de lago navegável mais alto do planeta, situado a 3.812 metros de altitude?",
+    "dica": "Diz a tradição inca que deste lago emergiram os fundadores de seu império. O nome começa com a letra 'T'.",
+    "resposta": "Lago Titicaca"
+  },
+  {
+    "pergunta": "Rompendo o padrão da maioria das nações, qual país africano possui três capitais oficiais diferentes para dividir os poderes Executivo, Legislativo e Judiciário de seu governo?",
+    "dica": "As cidades são Pretória, Cidade do Cabo e Bloemfontein. O país fica no extremo sul do continente.",
+    "resposta": "África do Sul"
+  },
+  {
+    "pergunta": "Considerando apenas ilhas e excluindo massas continentais inteiras (como a Austrália), qual é a maior ilha do mundo em extensão territorial?",
+    "dica": "Apesar de estar geograficamente na América do Norte, é um território autônomo que pertence politicamente ao Reino da Dinamarca.",
+    "resposta": "Groenlândia"
+  },
+  {
+    "pergunta": "Qual trágico acontecimento histórico ocorrido em 28 de junho de 1914, na Bósnia, é amplamente considerado pelos historiadores como o estopim imediato que desencadeou a Primeira Guerra Mundial?",
+    "dica": "Envolveu o assassinato do arquiduque Francisco Ferdinando, herdeiro do Império Austro-Húngaro, por um militante nacionalista sérvio.",
+    "resposta": "Atentado de Sarajevo"
+  },
+  {
+    "pergunta": "Qual estreito marítimo de enorme importância geopolítica conecta o Oceano Atlântico diretamente ao Mar Mediterrâneo, separando o sul da Europa do norte da África?",
+    "dica": "A Espanha fica de um lado e o Marrocos do outro. O local é famoso pelo imenso rochedo britânico que guarda a sua entrada.",
+    "resposta": "Estreito de Gibraltar"
+  },
+  {
+    "pergunta": "Como é chamada a linha imaginária localizada no Oceano Pacífico, que segue aproximadamente o meridiano de 180° e determina a transição obrigatória de um dia civil para o próximo?",
+    "dica": "Ao cruzá-la de leste para oeste, o viajante avança exatamente um dia no calendário. Sua sigla em inglês é IDL.",
+    "resposta": "Linha Internacional de Data"
+  },
+  {
+    "pergunta": "Em qual batalha histórica, travada em 1815 no atual território da Bélgica, o imperador francês Napoleão Bonaparte foi definitivamente derrotado por uma coalizão militar liderada pelo Duque de Wellington?",
+    "dica": "O nome dessa batalha virou sinônimo de uma derrota esmagadora e final na cultura popular.",
+    "resposta": "Batalha de Waterloo"
+  },
+  {
+    "pergunta": "Totalmente cercada pelo território da Itália, qual pequena nação europeia orgulha-se de ser a república soberana e o Estado constitucional mais antigo ainda em existência no mundo?",
+    "dica": "Foi fundada no ano 301 por um pedreiro cristão que fugia da perseguição romana. O nome começa com 'San'.",
+    "resposta": "San Marino"
+  },
+  {
+    "pergunta": "Nascendo no planalto do Tibre e cruzando seis países asiáticos (incluindo Tailândia, Laos e Vietnã), qual é o rio mais longo e vital de todo o Sudeste Asiático?",
+    "dica": "Ele abriga uma biodiversidade imensa e deságua em um gigantesco delta no sul do Vietnã. Começa com a letra 'M'.",
+    "resposta": "Rio Mekong"
+  },
+  {
+    "pergunta": "Qual é o nome da famosa fortificação de pedra construída pelo Império Romano no século II d.C., que cruzava a ilha da Grã-Bretanha de costa a costa para proteger as fronteiras imperiais contra as tribos bárbaras do norte?",
+    "dica": "A obra leva o nome do imperador romano que ordenou sua construção. Grande parte de suas ruínas ainda pode ser visitada no norte da Inglaterra.",
+    "resposta": "Muralha de Adriano"
+  },
+
+
+  {
+    "pergunta": "Qual imenso deserto, localizado no sudoeste da África, é considerado pelos geólogos como o mais antigo do mundo, apresentando algumas das maiores e mais avermelhadas dunas de areia do planeta?",
+    "dica": "Seu nome significa 'lugar vasto' ou 'onde não há nada' na língua local, e ele dá nome ao país onde fica a sua maior extensão.",
+    "resposta": "Deserto da Namíbia"
+  },
+  {
+    "pergunta": "Embora a maioria das pessoas associe as pirâmides antigas exclusivamente ao Egito, qual país africano vizinho possui na verdade o maior número de pirâmides do mundo, totalizando mais de 200 estruturas estruturadas pelo antigo Reino de Cuxe?",
+    "dica": "Sua capital é Cartum, local onde os rios Nilo Branco e Nilo Azul se encontram.",
+    "resposta": "Sudão"
+  },
+  {
+    "pergunta": "Qual foi o nome dado à monumental linha de fortificações defensivas construída pela França ao longo de suas fronteiras com a Alemanha e a Itália durante a década de 1930, que acabou sendo contornada pelo exército alemão na Segunda Guerra Mundial?",
+    "dica": "A estrutura leva o nome do Ministro da Guerra francês que ordenou e defendeu sua construção. Começa com a letra 'M'.",
+    "resposta": "Linha Maginot"
+  },
+  {
+    "pergunta": "Qual arquipélago vulcânico localizado no Oceano Pacífico, pertencente ao Equador, serviu como o principal laboratório natural para o naturalista Charles Darwin desenvolver sua revolucionária Teoria da Evolução das Espécies?",
+    "dica": "O local é famoso por suas tartarugas gigantes equatoriais e iguanas marinhas únicas no mundo.",
+    "resposta": "Ilhas Galápagos"
+  },
+  {
+    "pergunta": "Qual acordo assinado em 1993, mediado pelos Estados Unidos, marcou a primeira vez em que líderes de Israel e da Organização para a Libertação da Palestina (OLP) se reuniram cara a cara para assinar um pacto de paz?",
+    "dica": "Embora assinado em Washington, o acordo leva o nome da capital europeia onde as negociações secretas aconteceram.",
+    "resposta": "Acordos de Oslo"
+  },
+  {
+    "pergunta": "Localizado na cordilheira do Himalaia, qual pequeno e isolado reino asiático mede o sucesso e o desenvolvimento de sua nação usando o índice de 'Felicidade Interna Bruta' (FIB) em vez do tradicional Produto Interno Bruto (PIB)?",
+    "dica": "Fica espremido entre a China e a Índia, e sua capital se chama Timfu. Começa com a letra 'B'.",
+    "resposta": "Butão"
+  },
+  {
+    "pergunta": "Qual estreito marítimo de extrema importância comercial separa a península malaia da ilha indonésia de Sumatra, funcionando como o principal canal de navegação entre o Oceano Índico e o Oceano Pacífico?",
+    "dica": "O canal leva o nome de um antigo e próspero sultanato histórico da região. Começa com a letra 'M'.",
+    "resposta": "Estreito de Malaca"
+  },
+  {
+    "pergunta": "Fundada por fenícios e fustigada por terremotos, qual capital europeia detém o título de segunda capital mais antiga da Europa (atrás apenas de Atenas), superando inclusive a idade de Roma em centenas de anos?",
+    "dica": "Fica na Península Ibérica, às margens do Rio Tejo, e é famosa por seus bondinhos elétricos e pastéis de nata.",
+    "resposta": "Lisboa"
+  },
+  {
+    "pergunta": "Em qual país da Europa fica a maior densidade de vulcões ativos e fontes termais do continente, onde as placas tectônicas Norte-Americana e Eurasiana se separam visivelmente acima do nível do mar?",
+    "dica": "É conhecida como a 'Terra do Gelo e do Fogo'. Sua capital é Reykjavik.",
+    "resposta": "Islândia"
+  },
+  {
+    "pergunta": "Qual conferência internacional, realizada entre 1884 e 1885, reuniu as potências europeias para estabelecer as regras oficiais para a ocupação diplomática e militar do continente africano, acelerando o imperialismo?",
+    "dica": "O encontro foi organizado pelo chanceler alemão Otto von Bismarck na capital do recém-unificado Império Alemão.",
+    "resposta": "Conferência de Berlim"
+  },
+  {
+    "pergunta": "Qual é a maior bacia hidrográfica e o rio mais longo da Europa Ocidental e Central, que nasce na Floresta Negra (Alemanha) e cruza ou serve de fronteira para dez países até desaguar no Mar Negro?",
+    "dica": "Ele inspirou uma das valsas mais famosas da história da música clássica, composta por Johann Strauss II.",
+    "resposta": "Rio Danúbio"
+  },
+  {
+    "pergunta": "Qual microestado europeu, situado nos Pireneus entre a França e a Espanha, possui uma estrutura política única no mundo: um coprincipado governado simultaneamente pelo Presidente da França e pelo Bispo de Urgell?",
+    "dica": "Sua capital se chama Velha e a língua oficial falada por sua população é o catalão.",
+    "resposta": "Andorra"
+  },
+  {
+    "pergunta": "Iniciada no século III a.C. para conter as investidas dos povos nômades do norte, qual megaestrutura defensiva militar é considerada a mais longa obra construída pelo ser humano em toda a história?",
+    "dica": "Estende-se por milhares de quilômetros cruzando montanhas e desertos no leste da Ásia.",
+    "resposta": "Muralha da China"
+  },
+  {
+    "pergunta": "Qual país da América Central abriga um impressionante canal artificial inaugurado em 1914, que corta o istmo centro-americano para conectar diretamente o Oceano Atlântico ao Oceano Pacífico?",
+    "dica": "A administração do canal foi controlada pelos Estados Unidos por décadas até ser totalmente devolvida ao país de origem no ano 2000.",
+    "resposta": "Panamá"
+  },
+  {
+    "pergunta": "Como ficou conhecida a rota comercial que conectava o Extremo Oriente à Europa desde a antiguidade, sendo responsável pela troca de tecidos preciosos, especiarias, pólvora e culturas entre o Ocidente e o Oriente?",
+    "dica": "O nome faz referência ao cobiçado produto têxtil produzido secretamente pela China imperial a partir de casulos de lagartas.",
+    "resposta": "Rota da Seda"
+  },
+
+
+  {
+    "pergunta": "Qual cordilheira asiática abriga todos os 14 picos do planeta que superam a marca de 8.000 metros de altitude em relação ao nível do mar?",
+    "dica": "Seu nome significa 'morada da neve' em sânscrito e ela se estende por países como Índia, Nepal e China.",
+    "resposta": "Himalaia"
+  },
+  {
+    "pergunta": "Qual foi o nome dado ao colossal muro de concreto construído em 1961 pela Alemanha Oriental para cercar completamente a parte ocidental da antiga capital alemã durante a Guerra Fria?",
+    "dica": "Sua queda em novembro de 1989 tornou-se o maior símbolo visual do fim do bloco socialista na Europa.",
+    "resposta": "Muro de Berlim"
+  },
+  {
+    "pergunta": "Qual arquipélago localizado no Atlântico Sul foi o pivô de uma guerra rápida e intensa em 1982 entre o Reino Unido e a Argentina?",
+    "dica": "Os britânicos chamam o arquipélago de Ilhas Falkland, enquanto os argentinos o chamam por seu nome em espanhol.",
+    "resposta": "Ilhas Malvinas"
+  },
+  {
+    "pergunta": "Qual país europeu é mundialmente famoso por seus 'polders', que são porções de terras baixas protegidas por diques e drenadas para serem conquistadas do Mar do Norte?",
+    "dica": "Cerca de um terço de todo o seu território atual fica localizado abaixo do nível do mar. Amsterdã é sua capital.",
+    "resposta": "Países Baixos"
+  },
+  {
+    "pergunta": "Localizado na fronteira entre a França e a Itália, qual é o nome da montanha mais alta de toda a cordilheira dos Alpes e da Europa Ocidental?",
+    "dica": "O nome significa 'Monte Branco' em francês. Possui um famoso túnel rodoviário sob sua base.",
+    "resposta": "Monte Branco"
+  },
+  {
+    "pergunta": "Qual é a capital da Austrália, uma cidade inteiramente planejada no início do século XX para encerrar a disputa entre Sydney e Melbourne pelo título de sede do governo?",
+    "dica": "Seu nome deriva de um termo aborígene local que significa 'lugar de encontro'. Começa com a letra 'C'.",
+    "resposta": "Camberra"
+  },
+  {
+    "pergunta": "Qual tratado assinado em 1959 e em vigor desde 1961 determinou que todo um continente do planeta seria utilizado exclusivamente para fins pacíficos e pesquisas científicas, proibindo bases militares?",
+    "dica": "O documento protege o continente mais frio, seco e isolado da Terra. Leva o nome desse território.",
+    "resposta": "Tratado da Antártida"
+  },
+  {
+    "pergunta": "Qual país do Sudeste Asiático é o maior arquipélago do mundo em número de ilhas, contando com mais de 17.000 porções de terra espalhadas entre os oceanos Índico e Pacífico?",
+    "dica": "É a nação com a maior população muçulmana do planeta. Suas ilhas principais incluem Java e Sumatra.",
+    "resposta": "Indonésia"
+  },
+  {
+    "pergunta": "Qual é o nome da famosa rota de trens inaugurada no início do século XX que cruza quase toda a extensão da Rússia, conectando Moscou à cidade portuária de Vladivostok, no Pacífico?",
+    "dica": "É a linha ferroviária contínua mais longa do mundo, cortando oito fusos horários diferentes ao longo da Sibéria.",
+    "resposta": "Ferrovia Transiberiana"
+  },
+  {
+    "pergunta": "Qual país africano tornou-se, em 2011, a nação soberana mais jovem do planeta Terra após se separar oficialmente de seu vizinho do norte por meio de um referendo?",
+    "dica": "Sua capital é a cidade de Juba e o país enfrenta severas disputas geopolíticas internas desde a sua fundação.",
+    "resposta": "Sudão do Sul"
+  },
+  {
+    "pergunta": "Qual estreito marítimo separa o extremo leste da Ásia (Rússia) do extremo oeste da América do Norte (Alasca), conectando o Mar de Bering ao Oceano Ártico?",
+    "dica": "Durante as eras glaciais, o rebaixamento dos mares transformou esse estreito em uma ponte de terra utilizada para a migração humana rumo à América.",
+    "resposta": "Estreito de Bering"
+  },
+  {
+    "pergunta": "Em qual país europeu ocorreu a histórica Revolução dos Cravos em 1974, um movimento militar pacífico que derrubou o regime ditatorial do Estado Novo?",
+    "dica": "A população colocou cravos vermelhos nos canos dos fuzis dos soldados. O evento abriu caminho para a independência de suas colônias africanas.",
+    "resposta": "Portugal"
+  },
+  {
+    "pergunta": "Qual imenso deserto de clima frio localiza-se no leste da Ásia, dividindo seu território arenoso e rochoso entre o norte da China e o sul da Mongólia?",
+    "dica": "O nome significa 'lugar sem água' em mongol e a região é historicamente famosa por importantes descobertas de fósseis de dinossauros.",
+    "resposta": "Deserto de Gobi"
+  },
+  {
+    "pergunta": "Qual organização internacional de cooperação econômica e política foi fundada em 1945, logo após o término da Segunda Guerra Mundial, com o objetivo principal de manter a paz e a segurança globais?",
+    "dica": "Sua sede principal fica localizada na cidade de Nova York e seu principal órgão de decisões é o Conselho de Segurança.",
+    "resposta": "Organização das Nações Unidas"
+  },
+  {
+    "pergunta": "Qual rio europeu, considerado o mais longo de todo o continente em extensão territorial, corre inteiramente dentro da Rússia até desaguar no Mar Cáspio?",
+    "dica": "Ele desempenha um papel central na cultura, na história e no transporte fluvial russo, sendo carinhosamente chamado de 'Mãe'. Começa com a letra 'V'.",
+    "resposta": "Rio Volga"
+  },
+
+
+  {
+    "pergunta": "Como ficou conhecido o plano econômico lançado pelos Estados Unidos em 1947 para financiar a reconstrução dos países europeus ocidentais devastados pela Segunda Guerra Mundial?",
+    "dica": "O programa levou o nome do então Secretário de Estado americano e tinha como objetivo estratégico conter o avanço do comunismo na Europa.",
+    "resposta": "Plano Marshall"
+  },
+  {
+    "pergunta": "Qual país europeu é famoso por seus impressionantes fiordes (vales rochosos inundados pelo mar) e possui a maior extensão de costa de todo o continente se contarmos suas inúmeras ilhas?",
+    "dica": "Fica na Península Escandinava, sua capital é Oslo e o país é um dos maiores exportadores de bacalhau do mundo.",
+    "resposta": "Noruega"
+  },
+  {
+    "pergunta": "Qual é o nome da imensa e árida região localizada no extremo sul da América do Sul, dividida entre os territórios do Chile e da Argentina, famosa por seus ventos fortes e geleiras?",
+    "dica": "O nome foi dado por Fernão de Magalhães e a região abriga o famoso parque nacional de Torres del Paine.",
+    "resposta": "Patagônia"
+  },
+  {
+    "pergunta": "Qual importante acordo internacional, assinado em 1985 em uma pequena cidade de Luxemburgo, permite a livre circulação de pessoas entre os países signatários na Europa, sem controle de passaporte nas fronteiras internas?",
+    "dica": "O nome desse espaço de livre circulação começa com a letra 'S' e hoje abrange a maior parte das nações da União Europeia.",
+    "resposta": "Tratado de Schengen"
+  },
+  {
+    "pergunta": "Qual rio da América do Norte cruza o sudoeste dos Estados Unidos e o norte do México, sendo o grande responsável pela escultura do icônico Grand Canyon ao longo de milhões de anos?",
+    "dica": "Leva o nome de um dos estados americanos por onde passa e deságua no Golfo da Califórnia. Começa com 'C'.",
+    "resposta": "Rio Colorado"
+  },
+  {
+    "pergunta": "Qual cidade-estado e microestado europeu, localizado na Riviera Francesa, detém o título oficial de país com a maior densidade demográfica (população por metro quadrado) do mundo?",
+    "dica": "É mundialmente conhecido por seu famoso cassino, pelo Grande Prêmio de Fórmula 1 e por ser governado pela família Grimaldi.",
+    "resposta": "Mônaco"
+  },
+  {
+    "pergunta": "Como ficou conhecida a série de protestos e revoltas populares que eclodiu em vários países do Oriente Médio e do Norte da África a partir de 2010, derrubando regimes ditatoriais de longa data?",
+    "dica": "O movimento utilizou intensamente as redes sociais para mobilização e o nome faz alusão a uma estação do ano associada à renovação.",
+    "resposta": "Primavera Árabe"
+  },
+  {
+    "pergunta": "Qual país insular do leste da África, localizado no Oceano Índico, é a maior ilha do continente africano e a quarta maior ilha do mundo inteiro?",
+    "dica": "A ilha isolou-se do continente há milhões de anos, desenvolvendo uma fauna única, como os lêmures e as árvores baobás.",
+    "resposta": "Madagascar"
+  },
+  {
+    "pergunta": "Qual é a capital do Canadá, escolhida estrategicamente pela Rainha Vitória em 1857 para ser a sede do governo e evitar rivalidades entre as grandes cidades de Toronto e Montreal?",
+    "dica": "Fica localizada na província de Ontário, bem na fronteira com a província de Quebec. Começa com a letra 'O'.",
+    "resposta": "Ottawa"
+  },
+  {
+    "pergunta": "Qual cordilheira estende-se por mais de 7.000 quilômetros ao longo da costa ocidental da América do Sul, sendo considerada a cadeia de montanhas mais longa do planeta?",
+    "dica": "Ela corta o território de sete países sul-americanos e abriga o pico do Aconcágua, o mais alto do hemisfério ocidental.",
+    "resposta": "Cordilheira dos Andes"
+  },
+  {
+    "pergunta": "Em qual país asiático localizam-se as impressionantes ruínas do complexo de templos de Angkor Wat, construído no século XII como o maior monumento religioso do mundo?",
+    "dica": "O formato das torres principais desse templo está estampado no centro da bandeira oficial do país. Sua capital é Phnom Penh.",
+    "resposta": "Camboja"
+  },
+  {
+    "pergunta": "Qual organização militar internacional foi fundada em 1949 por países ocidentais com o objetivo de garantir a defesa mútua contra a ameaça de expansão da União Soviética na Europa?",
+    "dica": "A sigla significa Organização do Tratado do Atlântico Norte.",
+    "resposta": "OTAN"
+  },
+  {
+    "pergunta": "Qual país europeu, que desempenhou um papel central na história do século XX, permanece dividido administrativamente em 16 estados federais chamados de 'Länder'?",
+    "dica": "Sua reunificação oficial ocorreu em outubro de 1990, menos de um ano após a queda do Muro de Berlim.",
+    "resposta": "Alemanha"
+  },
+  {
+    "pergunta": "Qual mar fechado, localizado no sul da Europa e sudoeste da Ásia, conecta-se ao Mar Mediterrâneo através dos estreitos de Bósforo e Dardanelos?",
+    "dica": "Ele banha países como Ucrânia, Rússia, Turquia e Romênia. Apesar do nome cromático, suas águas são normais.",
+    "resposta": "Mar Negro"
+  },
+  {
+    "pergunta": "Qual país africano abriga a foz do Rio Nilo e o histórico Delta do Nilo, sendo um elo geográfico fundamental entre o Nordeste da África e o Oriente Médio?",
+    "dica": "Sua capital é o Cairo, a maior área metropolitana do mundo árabe e da África.",
+    "resposta": "Egito"
+  },
+
+
+
+  {
+    "pergunta": "Qual importante rio da Europa Ocidental nasce nos Alpes Suíços, serve de fronteira natural entre a Alemanha e a França, e cruza os Países Baixos até desaguar no Mar do Norte?",
+    "dica": "Ele banha importantes cidades industriais europeias e a sua bacia é historicamente uma das rotas comerciais fluviais mais movimentadas do mundo. Começa com a letra 'R'.",
+    "resposta": "Rio Reno"
+  },
+  {
+    "pergunta": "Qual país da América do Sul é o único do continente a possuir costas banhadas simultaneamente pelo Oceano Pacífico e pelo Mar do Caribe?",
+    "dica": "Sua capital é Bogotá e o país faz fronteira direta com o Panamá na região do istmo.",
+    "resposta": "Colômbia"
+  },
+  {
+    "pergunta": "Assinado em 1919 pelas potências aliadas e pela Alemanha, qual tratado de paz encerrou oficialmente a Primeira Guerra Mundial e impôs severas sanções econômicas e territoriais aos alemães?",
+    "dica": "O documento foi assinado na famosa Galeria dos Espelhos do palácio de mesmo nome, localizado nos arredores de Paris.",
+    "resposta": "Tratado de Versalhes"
+  },
+  {
+    "pergunta": "Qual é a maior ilha do Mar Mediterrâneo em extensão territorial, localizada logo ao sul da península itálica e separada do continente pelo Estreito de Messina?",
+    "dica": "A ilha abriga o famoso vulcão Etna, um dos mais ativos do mundo, e sua capital é Palermo.",
+    "resposta": "Sicília"
+  },
+  {
+    "pergunta": "Como ficou conhecida a imensa barreira fortificada construída pela China Imperial ao longo de suas fronteiras ao norte para se proteger das incursões de povos nômades da estepe eólica?",
+    "dica": "Trata-se de uma das maiores obras de engenharia militar do mundo antigo, estendendo-se por milhares de quilômetros.",
+    "resposta": "Muralha da China"
+  },
+  {
+    "pergunta": "Qual país africano, localizado no Chifre da África, conseguiu resistir à tentativa de colonização italiana no final do século XIX, mantendo sua independência histórica na Batalha de Adwa?",
+    "dica": "Sua capital é Adis Abeba e o país abriga igrejas medievais escavadas na rocha em Lalibela.",
+    "resposta": "Etiópia"
+  },
+  {
+    "pergunta": "Qual estreito marítimo de enorme importância estratégica separa a ilha de Bornéu da península malaia, servindo como o principal canal de navegação entre o Oceano Índico e o Mar da China Meridional?",
+    "dica": "O nome desse estreito faz referência a um importante e próspero sultanato histórico da região. Começa com 'M'.",
+    "resposta": "Estreito de Malaca"
+  },
+  {
+    "pergunta": "Qual é a capital da Suíça, escolhida em 1848 como a sede do governo federal para equilibrar os poderes políticos entre as regiões de língua alemã e francesa do país?",
+    "dica": "A cidade é famosa por sua arquitetura medieval preservada e por seu centro histórico cortado pelo rio Aare. Começa com 'B'.",
+    "resposta": "Berna"
+  },
+  {
+    "pergunta": "Qual é o nome da imensa península localizada no norte da Europa que engloba os territórios continentais da Noruega, Suécia e o norte da Finlândia?",
+    "dica": "O nome da região deriva da denominação de um grupo de países com fortes laços culturais e linguísticos no norte europeu.",
+    "resposta": "Península Escandinava"
+  },
+  {
+    "pergunta": "Qual foi a primeira cidade do mundo a sofrer um ataque com uma bomba atômica na história da humanidade, em agosto de 1945, durante os momentos finais da Segunda Guerra Mundial?",
+    "dica": "A cidade japonesa abriga hoje o Parque Memorial da Paz e a Cúpula Genbaku, que resistiu parcialmente à explosão.",
+    "resposta": "Hiroshima"
+  },
+  {
+    "pergunta": "Qual país asiático é composto por um arquipélago de mais de 7.000 ilhas e leva o seu nome em homenagem ao rei Filipe II da Espanha, que colonizou a região no século XVI?",
+    "dica": "Sua capital é Manila e o arquipélago é frequentemente afetado por tufões devido à sua localização no Círculo de Fogo do Pacífico.",
+    "resposta": "Filipinas"
+  },
+  {
+    "pergunta": "Qual imenso deserto de areia e rocha cobre quase toda a porção norte do continente africano, estendendo-se do Oceano Atlântico ao Mar Vermelho?",
+    "dica": "Seu nome deriva de uma palavra árabe que significa literalmente 'deserto' e ele é considerado o maior deserto quente do planeta.",
+    "resposta": "Deserto do Saara"
+  },
+  {
+    "pergunta": "Qual país europeu cedeu o controle colonial da ilha de Hong Kong ao Reino Unido em 1842 e, posteriormente, recuperou a soberania sobre o território em 1997?",
+    "dica": "Trata-se da nação mais populosa do leste asiático e sua dinastia Qing assinou o Tratado de Nanquim após a Primeira Guerra do Ópio.",
+    "resposta": "China"
+  },
+  {
+    "pergunta": "Qual mar semicerrado, localizado entre o sudeste da Europa e o sudoeste da Ásia, conecta-se ao Mar Egeu através dos estreitos de Bósforo e Dardanelos?",
+    "dica": "Ele banha as costas da Turquia, Ucrânia, Rússia, Romênia, Bulgária e Geórgia. Apesar do nome escuro, suas águas são azuis.",
+    "resposta": "Mar Negro"
+  },
+  {
+    "pergunta": "Qual país da América Central abriga um impressionante lago de água doce de mesmo nome que contém tubarões adaptados ao ambiente lacustre e de onde se planejou construir um canal interoceânico concorrente ao do Panamá?",
+    "dica": "Sua capital é Manágua e a nação faz fronteira com Honduras ao norte e Costa Rica ao sul.",
+    "resposta": "Nicarágua"
+  },
+
+
+
+  {
+    "pergunta": "Como ficou conhecida a bacia industrial e carbonífera localizada no leste da Ucrânia que se tornou o epicentro de intensas disputas geopolíticas e conflitos armados com separatistas pró-Rússia desde 2014?",
+    "dica": "O nome é uma contração para 'Bacia do Rio Donets' e engloba principalmente as regiões de Donetsk e Luhansk.",
+    "resposta": "Donbas"
+  },
+  {
+    "pergunta": "Qual país europeu abriga a famosa região da Transilvânia, conhecida por suas cidades medievais cercadas pelos Montes Cárpatos e por lendas associadas ao mito do Conde Drácula?",
+    "dica": "Sua capital é Bucareste e o país faz fronteira com a Ucrânia ao norte e a Bulgária ao sul.",
+    "resposta": "Romênia"
+  },
+  {
+    "pergunta": "Qual país insular da Europa, famoso por sua rica mitologia e por ser o berço histórico da democracia ocidental, possui mais de 2.000 ilhas, das quais apenas cerca de 200 são habitadas?",
+    "dica": "Sua capital é Atenas e suas maiores ilhas turísticas incluem Creta, Santorini e Mykonos.",
+    "resposta": "Grécia"
+  },
+  {
+    "pergunta": "Qual é o nome da imensa e gélida região florestal que cobre grande parte do norte da Rússia, do Canadá e da Escandinávia, sendo considerada o maior bioma terrestre do planeta?",
+    "dica": "Também conhecida como floresta boreal, ela é composta majoritariamente por árvores coníferas (pinheiros). Começa com a letra 'T'.",
+    "resposta": "Taiga"
+  },
+  {
+    "pergunta": "Qual país sul-americano possui a maior reserva comprovada de petróleo do mundo em seu território, superando inclusive os números da Arábia Saudita?",
+    "dica": "O país enfrenta uma severa crise econômica e social de longa data. Sua capital é Caracas.",
+    "resposta": "Venezuela"
+  },
+  {
+    "pergunta": "Qual acordo diplomático secreto, assinado em 1916 entre o Reino Unido e a França (com o aval da Rússia), definiu a divisão das esferas de influência e o desmembramento do Império Otomano no Oriente Médio após a Primeira Guerra Mundial?",
+    "dica": "O tratado leva o nome dos dois diplomatas (um britânico e um francês) que desenharam as novas e controversas fronteiras da região.",
+    "resposta": "Acordo Sykes-Picot"
+  },
+  {
+    "pergunta": "Qual país do Sudeste Asiático é o único de sua região geográfica que nunca foi colonizado por nenhuma potência europeia ao longo da história?",
+    "dica": "Conhecido no passado como Reino de Sião, hoje sua capital é Bangcoc.",
+    "resposta": "Tailândia"
+  },
+  {
+    "pergunta": "Qual é a capital da Islândia, detendo oficialmente o título de capital soberana localizada mais ao norte de todo o planeta Terra?",
+    "dica": "Seu nome significa 'Baía de Fumaça' devido às fontes termais de vapor da região. Começa com a letra 'R'.",
+    "resposta": "Reykjavik"
+  },
+  {
+    "pergunta": "Qual cabo localizado no extremo sul da ilha de Hornos, no Chile, é mundialmente famoso entre os navegadores por marcar o limite norte do Estreito de Drake e ser um dos pontos marítimos mais perigosos do mundo?",
+    "dica": "Considerado o ponto mais meridional da América do Sul (excluindo a Antártida), ele leva o nome da cidade holandesa de Hoorn. Começa com 'Cabo de...'.",
+    "resposta": "Cabo de Hornos"
+  },
+  {
+    "pergunta": "Qual imenso mar interior, localizado entre o Cazaquistão e o Uzbequistão, sofreu um dos maiores desastres ambientais da história da humanidade, secando quase completamente após o desvio de seus rios alimentadores para projetos de irrigação soviéticos?",
+    "dica": "Apesar de no passado ser o quarto maior lago do mundo, hoje restam apenas pequenas porções de deserto salino em seu lugar. Leva a palavra 'Mar' no nome.",
+    "resposta": "Mar de Aral"
+  },
+  {
+    "pergunta": "Qual país africano foi o palco de um terrível e devastador genocídio em 1994, onde tensões étnicas históricas levaram extremistas da maioria Hutu a assassinar cerca de 800 mil pessoas da minoria Tutsi em apenas 100 dias?",
+    "dica": "Conhecido como a 'Terra das Mil Colinas', sua capital é Kigali.",
+    "resposta": "Ruanda"
+  },
+  {
+    "pergunta": "Qual é o nome do principal e mais longo rio da Itália, que nasce nos Alpes e cruza toda a próspera planície industrial do norte do país até desaguar no Mar Adriático?",
+    "dica": "Seu nome possui apenas duas letras e sua bacia hidrográfica concentra grande parte da produção agrícola italiana.",
+    "resposta": "Rio Po"
+  },
+  {
+    "pergunta": "Qual microestado europeu, totalmente cercado pelo território de Roma (Itália), é considerado o menor país independente do mundo em extensão territorial e população?",
+    "dica": "É a sede mundial da Igreja Católica Apostólica Romana e é governado por uma monarquia teocrática absoluta cujo chefe de Estado é o Papa.",
+    "resposta": "Vaticano"
+  },
+  {
+    "pergunta": "Qual golfo marítimo, localizado no Oceano Índico entre a Índia e a Península Malaia, detém o recorde de maior golfo do mundo em área de superfície?",
+    "dica": "Ele banha as costas de países como Bangladesh e Mianmar, e dá nome a uma famosa espécie de tigre. Começa com 'Golfo de...'.",
+    "resposta": "Golfo de Bengala"
+  },
+  {
+    "pergunta": "Qual foi o nome dado à histórica e monumental rota comercial de exploração que cruzava os Estados Unidos de leste a oeste no século XIX, permitindo a colonização em massa rumo ao Oceano Pacífico?",
+    "dica": "A trilha estendia-se por mais de 3.000 quilômetros e leva o nome do estado da costa oeste onde ela terminava.",
+    "resposta": "Trilha do Oregon"
+  },
+
+
+
+  {
+    "pergunta": "Qual é o nome da icônica e desértica depressão geográfica localizada na Califórnia (EUA) que detém o recorde oficial de temperatura mais alta já registrada na Terra, atingindo a marca de 56,7°C?",
+    "dica": "Fica situada no Deserto de Mojave e abriga o ponto de menor altitude de toda a América do Norte. O nome faz alusão à mortalidade.",
+    "resposta": "Vale da Morte"
+  },
+  {
+    "pergunta": "Assinado em 1899 após a derrota da Espanha na Guerra Hispano-Americana, qual tratado internacional marcou o fim oficial do Império Espanhol nas Américas e na Ásia, forçando a cessão de Porto Rico, Guam e das Filipinas aos Estados Unidos?",
+    "dica": "O documento leva o nome da capital europeia onde as negociações de paz ocorreram. Começa com a letra 'P'.",
+    "resposta": "Tratado de Paris"
+  },
+  {
+    "pergunta": "Qual imenso país africano, o maior do continente em extensão territorial após a divisão do Sudão em 2011, possui mais de 80% de seu território coberto pelas areias e rochas do Deserto do Saara?",
+    "dica": "Sua capital é Argel e o país foi colonizado pela França, conquistando sua independência após uma sangrenta guerra na década de 1960.",
+    "resposta": "Argélia"
+  },
+  {
+    "pergunta": "Qual linha imaginária de demarcação militar, estabelecida em 1953 após o armistício que interrompeu a Guerra da Coreia, serve até hoje como a fronteira oficial e altamente fortificada entre a Coreia do Norte e a Coreia do Sul?",
+    "dica": "Ela acompanha aproximadamente uma das linhas de latitude do planeta. É amplamente conhecida como o 'Paralelo...'.",
+    "resposta": "Paralelo 38"
+  },
+  {
+    "pergunta": "Qual arquipélago britânico ultramarino, localizado no extremo norte do Mar do Caribe, é mundialmente famoso na geopolítica e na economia por funcionar como um dos maiores paraísos fiscais e centros financeiros 'offshore' do planeta?",
+    "dica": "O nome das ilhas faz alusão a uma espécie de réptil crocodiliano. Sua capital é George Town.",
+    "resposta": "Ilhas Cayman"
+  },
+  {
+    "pergunta": "Nascendo nas montanhas da Turquia e cruzando a Síria e o Iraque, quais são os dois rios históricos que delimitavam a região da Mesopotâmia, considerada um dos principais berços da civilização humana?",
+    "dica": "Eles correm quase paralelamente e deságuam juntos no Golfo Pérsico. Um começa com 'T' e o outro com 'E'.",
+    "resposta": "Tigre e Eufrates"
+  },
+  {
+    "pergunta": "Qual país europeu abriga em seu território a região de Kaliningrado, um importante exclave militarizado situado entre a Polônia e a Lituânia, sem nenhuma conexão terrestre direta com o restante de sua nação?",
+    "dica": "A cidade pertencia à Alemanha (com o nome de Königsberg) até ser anexada por este país gigante após a Segunda Guerra Mundial.",
+    "resposta": "Rússia"
+  },
+  {
+    "pergunta": "Qual foi o nome dado ao monumental plano de reestruturação econômica e abertura política liderado por Mikhail Gorbachev na União Soviética durante a década de 1980, que acabou acelerando o colapso do bloco socialista?",
+    "dica": "Eram dois termos russos complementares: um significava 'reestruturação' e o outro 'transparência'. Um deles começa com 'P'.",
+    "resposta": "Perestroika e Glasnost"
+  },
+  {
+    "pergunta": "Qual país da América Central é o único de sua região geográfica a ter o inglês como idioma oficial, devido ao seu passado histórico como uma colônia conhecida como 'Honduras Britânica'?",
+    "dica": "Sua costa é totalmente voltada para o Mar do Caribe e o país abriga o famoso 'Grande Buraco Azul' em seus recifes de corais.",
+    "resposta": "Belize"
+  },
+  {
+    "pergunta": "Qual estreito marítimo separa a ilha da Tasmânia da costa sul do continente australiano, sendo historicamente temido pelos navegadores devido às suas águas extremamente agitadas?",
+    "dica": "Leva o nome do cirurgião e explorador britânico George Bass, que o mapeou em 1798. Começa com 'Estreito de...'.",
+    "resposta": "Estreito de Bass"
+  },
+  {
+    "pergunta": "Qual foi a segunda cidade japonesa a ser alvo de um ataque com bomba atômica pelos Estados Unidos em agosto de 1945, apenas três dias após o bombardeio devastador contra Hiroshima?",
+    "dica": "A cidade era um importante porto comercial e seu ataque forçou a rendição incondicional do Império do Japão na Segunda Guerra Mundial.",
+    "resposta": "Nagasaki"
+  },
+  {
+    "pergunta": "Qual país africano possui a maior população de todo o continente, além de deter uma das maiores economias da região impulsionada por suas gigantescas reservas de petróleo no Delta do Níger?",
+    "dica": "Sua maior e mais famosa cidade é Lagos, embora a capital oficial seja Abuja.",
+    "resposta": "Nigéria"
+  },
+  {
+    "pergunta": "Qual importante acordo de paz, assinado em 1978 e mediado pelo presidente americano Jimmy Carter, encerrou oficialmente décadas de estado de guerra entre o Egito e Israel?",
+    "dica": "O tratado leva o nome da residência oficial de campo do presidente dos Estados Unidos, onde os líderes se reuniram secretamente.",
+    "resposta": "Acordos de Camp David"
+  },
+  {
+    "pergunta": "Qual país europeu, localizado na Península Ibérica, é dividido administrativamente em 17 comunidades autônomas com fortes identidades regionais, incluindo a Catalunha, o País Basco e a Galiza?",
+    "dica": "Trata-se de uma monarquia parlamentarista cuja capital e maior cidade é Madri.",
+    "resposta": "Espanha"
+  },
+  {
+    "pergunta": "Qual é o nome do maior e mais volumoso rio da Europa Ocidental que deságua diretamente no Mar Cáspio, correndo inteiramente pelo território da Rússia europeia?",
+    "dica": "Ele desempenha um papel místico e central na literatura e na história russa, sendo frequentemente apelidado de 'Mãe'. Começa com 'V'.",
+    "resposta": "Rio Volga"
+  },
+
+
+
+
+  {
+    "pergunta": "Qual país europeu enfrentou uma violenta guerra civil na década de 1990 que resultou em sua fragmentação total e no nascimento de sete novas nações independentes, incluindo a Sérvia, a Croácia e a Eslovênia?",
+    "dica": "O país era uma federação socialista liderada por Josip Broz Tito durante grande parte do século XX. Começa com a letra 'Y'.",
+    "resposta": "Iugoslávia"
+  },
+  {
+    "pergunta": "Qual é o nome da imensa e árida depressão geográfica localizada majoritariamente em Botsuana, que se estende por partes da Namíbia e da África do Sul, cobrindo cerca de 900.000 quilômetros quadrados?",
+    "dica": "Embora seja frequentemente chamado de deserto, tecnicamente é uma savana semiárida e seu nome começa com a letra 'K'.",
+    "resposta": "Deserto do Kalahari"
+  },
+  {
+    "pergunta": "Qual tratado internacional, assinado em 1951, encerrou formalmente o estado de guerra entre as potências aliadas e o Japão após a Segunda Guerra Mundial, além de forçar os japoneses a abrirem mão de suas reivindicações coloniais?",
+    "dica": "O documento leva o nome da famosa cidade da costa oeste dos Estados Unidos onde a conferência de paz foi realizada.",
+    "resposta": "Tratado de São Francisco"
+  },
+  {
+    "pergunta": "Qual estreito marítimo separa a ilha de Terra do Fogo do continente sul-americano, funcionando como uma rota de navegação natural e estratégica entre os oceanos Atlântico e Pacífico?",
+    "dica": "Leva o nome do célebre navegador português que descobriu essa passagem em 1520 durante a primeira viagem de circunavegação do mundo.",
+    "resposta": "Estreito de Magalhães"
+  },
+  {
+    "pergunta": "Qual país da América do Sul possui o litoral mais extenso de todo o continente se medido em linha contínua de norte a sul, espremido por milhares de quilômetros entre a Cordilheira dos Andes e o Oceano Pacífico?",
+    "dica": "Sua capital é Santiago e o país possui territórios ultramarinos famosos como a Ilha de Páscoa.",
+    "resposta": "Chile"
+  },
+  {
+    "pergunta": "Como ficou conhecido o histórico período de severas reformas econômicas e privatizações em massa iniciado na China em 1978, liderado por Deng Xiaoping, que transformou o país em uma potência industrial global?",
+    "dica": "O movimento é resumido por uma expressão de quatro palavras que une os conceitos de renovação e crescimento comercial: 'Política de...'.",
+    "resposta": "Abertura Econômica"
+  },
+  {
+    "pergunta": "Qual importante rio da Europa nasce na Suíça e corre em direção ao sul pela França até deságua em um grande delta no Mar Mediterrâneo, sendo uma das principais hidrovias históricas do continente?",
+    "dica": "Seu nome tem apenas cinco letras e ele banha cidades importantes como Lyon e Avignon. Começa com 'R'.",
+    "resposta": "Rio Ródano"
+  },
+  {
+    "pergunta": "Qual arquipélago localizado no Oceano Índico é o menor país da Ásia em extensão territorial e população, sendo mundialmente famoso por seus resorts de luxo e por ser a nação com a menor altitude média do planeta?",
+    "dica": "Sua capital é Malé e o país corre sérios riscos geográficos devido ao aumento do nível dos oceanos provocado pelas mudanças climáticas.",
+    "resposta": "Maldivas"
+  },
+  {
+    "pergunta": "Qual foi o nome dado à monumental linha de demarcação estabelecida pelo Papa Alexandre VI em 1493 (um ano antes do Tratado de Tordesilhas) para dividir as terras descobertas no Novo Mundo entre Espanha e Portugal?",
+    "dica": "O documento papal tem um nome em latim que começa com a palavra 'Bula'. Leva o termo 'Inter Coetera'.",
+    "resposta": "Bula Inter Coetera"
+  },
+  {
+    "pergunta": "Qual país africano abriga a cidade de Joanesburgo e possui uma das maiores e mais complexas economias do continente, fortemente impulsionada pela extração histórica de ouro e diamantes?",
+    "dica": "A nação superou o violento regime de segregação racial conhecido como Apartheid na década de 1990 sob a liderança de Nelson Mandela.",
+    "resposta": "África do Sul"
+  },
+  {
+    "pergunta": "Qual mar fechado, localizado no sul da Europa, separa a península itálica da península dos Bálcãs, banhando as costas de países como Itália, Croácia e Albânia?",
+    "dica": "Seu nome deriva de uma antiga cidade portuária romana chamada Ádria. É o Mar... .",
+    "resposta": "Mar Adriático"
+  },
+  {
+    "pergunta": "Qual país da América Central abriga a maior densidade de biodiversidade por quilômetro quadrado do planeta e decidiu abolir constitucionalmente suas forças armadas (exército) em 1948?",
+    "dica": "Sua capital é San José e seu lema nacional mais famoso é a expressão 'Pura Vida'.",
+    "resposta": "Costa Rica"
+  },
+  {
+    "pergunta": "Qual estreito marítimo separa a ilha de Madagascar do continente africano, sendo historicamente uma rota essencial de navegação e comércio no Oceano Índico Ocidental?",
+    "dica": "Leva o nome do país soberano que fica localizado na costa oriental da África, logo em frente à grande ilha.",
+    "resposta": "Canal de Moçambique"
+  },
+  {
+    "pergunta": "Qual cidade europeia sediou em 1815 uma das conferências diplomáticas mais importantes da história, que redesenhou o mapa político do continente após a queda definitiva do imperador francês Napoleão Bonaparte?",
+    "dica": "Trata-se da capital da Áustria, famosa mundialmente por sua tradição na música clássica e por seus palácios imperiais.",
+    "resposta": "Congresso de Viena"
+  },
+  {
+    "pergunta": "Qual é a capital da Nova Zelândia, ostentando oficialmente o título de capital soberana localizada mais ao sul de todo o planeta Terra?",
+    "dica": "Fica situada no extremo sul da Ilha do Norte, logo às margens do Estreito de Cook. Começa com a letra 'W'.",
+    "resposta": "Wellington"
+  },
+
+
+
+
+  {
+    "pergunta": "Qual imenso deserto de sal, localizado no sudoeste da Bolívia a mais de 3.600 metros de altitude, é considerado a maior planície de sal do planeta Terra?",
+    "dica": "O local abriga uma das maiores reservas de lítio do mundo e transforma-se em um espelho natural gigante durante a época de chuvas. Começa com 'Salar de...'.",
+    "resposta": "Salar de Uyuni"
+  },
+  {
+    "pergunta": "Assinado em 1919 pelas potências aliadas e pela recém-criada República da Áustria, qual tratado de paz oficializou o desmembramento definitivo do poderoso Império Austro-Húngaro após a Primeira Guerra Mundial?",
+    "dica": "O documento leva o nome do castelo francês onde foi assinado, nos arredores de Paris. Começa com 'Tratado de Saint-Germain-...'.",
+    "resposta": "Tratado de Saint-Germain-en-Laye"
+  },
+  {
+    "pergunta": "Qual país africano, localizado na costa ocidental, possui o francês como idioma oficial e abriga a cidade de Abidjan, embora sua capital administrativa e política oficial seja Yamoussoukro?",
+    "dica": "O país é o maior produtor e exportador mundial de amêndoas de cacau. O nome remete a um material precioso extraído de presas de elefantes.",
+    "resposta": "Costa do Marfim"
+  },
+  {
+    "pergunta": "Qual é o nome do paralelo ou linha de latitude imaginária localizada no hemisfério sul, a aproximadamente 23°26', que delimita a zona tropical meridional do planeta?",
+    "dica": "Ele cruza o território brasileiro exatamente na altura do estado de São Paulo e leva o nome de uma constelação do zodíaco.",
+    "resposta": "Trópico de Capricórnio"
+  },
+  {
+    "pergunta": "Qual importante e estratégico estreito marítimo separa a ilha britânica da Grã-Bretanha do continente europeu (França), ligando o Canal da Mancha ao Mar do Norte?",
+    "dica": "É o estreito mais movimentado do mundo em tráfego marítimo e leva o nome da cidade portuária inglesa famosa por seus penhascos brancos.",
+    "resposta": "Estreito de Dover"
+  },
+  {
+    "pergunta": "Nascendo na cordilheira dos Andes no Peru e cruzando toda a porção norte do Brasil, qual rio detém com folga os recordes mundiais de maior extensão e maior volume de água do planeta?",
+    "dica": "Sua gigantesca bacia hidrográfica abriga a maior floresta tropical do mundo e ele deságua no Oceano Atlântico.",
+    "resposta": "Rio Amazonas"
+  },
+  {
+    "pergunta": "Qual país europeu, que desempenhou papel central na dissolução da União Soviética, é dividido administrativamente em unidades territoriais chamadas de 'Voivodias'?",
+    "dica": "Sua capital histórica é Varsóvia e a nação foi o estopim da Segunda Guerra Mundial ao ser invadida pela Alemanha em 1939.",
+    "resposta": "Polônia"
+  },
+  {
+    "pergunta": "Como ficou conhecida a monumental política de reestruturação econômica implementada no Japão a partir de 1868, que extinguiu o xogunato feudal e modernizou o país nos moldes ocidentais?",
+    "dica": "O período leva o nome do imperador que reassumiu o poder político central do país. É a chamada 'Restauração...'.",
+    "resposta": "Restauração Meiji"
+  },
+  {
+    "pergunta": "Qual país da América do Sul é o único de língua espanhola no continente a possuir um território continental que se estende tanto ao norte quanto ao sul da Linha do Equador, além de abrigar o ponto mais ocidental da massa continental sul-americana?",
+    "dica": "Sua capital é Lima e o país foi o coração do vasto e antigo Império Inca.",
+    "resposta": "Peru"
+  },
+  {
+    "pergunta": "Qual canal artificial de navegação, inaugurado em 1895 na Alemanha, conecta o Mar do Norte diretamente ao Mar Báltico, evitando a necessidade de contornar a península da Dinamarca?",
+    "dica": "É uma das rotas artificiais mais movimentadas do mundo e leva o nome da importante cidade portuária alemã localizada em sua entrada ocidental.",
+    "resposta": "Canal de Kiel"
+  },
+  {
+    "pergunta": "Qual foi a capital do Império Romano do Oriente (Império Bizantino) que resistiu por mais de mil anos até ser conquistada e saqueada definitivamente pelos turcos otomanos em 1453?",
+    "dica": "O evento histórico marcou o fim da Idade Média. No passado, a cidade chamava-se Bizâncio e hoje chama-se Istambul.",
+    "resposta": "Constantinopla"
+  },
+  {
+    "pergunta": "Qual país asiático, localizado no Leste da Ásia, ocupa a metade sul de uma península altamente militarizada e tem sua economia classificada como uma das mais tecnológicas e desenvolvidas do mundo?",
+    "dica": "Sua capital é Seul e o país abriga sedes de megacorporações globais como a Samsung e a Hyundai.",
+    "resposta": "Coreia do Sul"
+  },
+  {
+    "pergunta": "Qual imensa formação geológica de recifes de corais, localizada no Mar de Coral na Austrália, estende-se por mais de 2.300 quilômetros e é considerada a maior estrutura viva do planeta?",
+    "dica": "Ela pode ser vista perfeitamente do espaço sideral e sofre severas ameaças ecológicas devido ao branqueamento dos corais.",
+    "resposta": "Grande Barreira de Corais"
+  },
+  {
+    "pergunta": "Qual organização internacional de cooperação judicial e policial, fundada em 1923 e sediada em Lyon (França), facilita a cooperação transfronteiriça entre polícias de quase 200 países?",
+    "dica": "O nome é uma contração em inglês para 'Organização Internacional de Polícia Criminal'.",
+    "resposta": "Interpol"
+  },
+  {
+    "pergunta": "Qual é a capital da Escócia, famosa mundialmente por seu imponente castelo medieval erguido sobre uma rocha vulcânica adormecida e por sediar um dos maiores festivais de artes do planeta?",
+    "dica": "Embora Glasgow seja a maior cidade do país, esta cidade permanece como a sede histórica e política escocesa desde o século XV. Começa com 'E'.",
+    "resposta": "Edimburgo"
+  },
+
+
+
+
+  {
+    "pergunta": "Qual é o nome da linha de latitude ou paralelo imaginário localizado no hemisfério norte, a aproximadamente 23°26', que define o limite setentrional da zona tropical do planeta?",
+    "dica": "Ele cruza o território do México, Egito e Índia, e leva o nome de uma constelação do zodíaco associada a um crustáceo.",
+    "resposta": "Trópico de Câncer"
+  },
+  {
+    "pergunta": "Assinado em 1801, qual tratado de paz forçou Portugal a ceder a praça-forte de Olivença à Espanha e a fechar seus portos aos navios britânicos, em um conflito rápido que ficou conhecido como a Guerra das Laranjas?",
+    "dica": "O documento leva o nome da cidade histórica espanhola, localizada na região da Estremadura, onde foi assinado. Começa com 'Tratado de...'.",
+    "resposta": "Tratado de Badajoz"
+  },
+  {
+    "pergunta": "Qual país africano, localizado na costa ocidental, possui o francês como idioma oficial e tem a cidade de Dakar como sua capital histórica e maior centro urbano?",
+    "dica": "A ilha de Gorreia, localizada em sua costa, foi um dos maiores centros de comércio de escravizados do Atlântico e o país circunda quase totalmente a nação da Gâmbia.",
+    "resposta": "Senegal"
+  },
+  {
+    "pergunta": "Qual é o nome da imensa e profunda depressão geográfica localizada na China, considerada o ponto mais baixo da Ásia Central, situada a 154 metros abaixo do nível do mar?",
+    "dica": "O local é famoso por seu clima extremamente árido, calor intenso no verão e pela produção histórica de uvas em oásis. Começa com 'Depressão de...'.",
+    "resposta": "Depressão de Turpan"
+  },
+  {
+    "pergunta": "Qual estreito marítimo de enorme importância estratégica separa a ilha de Terra Nova da península de Labrador, servindo como uma das entradas setentrionais para o Golfo de São Lourenço no Canadá?",
+    "dica": "O nome em francês significa 'Bela Ilha'. Começa com 'Estreito de...'.",
+    "resposta": "Estreito de Belle Isle"
+  },
+  {
+    "pergunta": "Nascendo na Floresta Negra na Alemanha e desaguando em um imenso delta no Mar Negro, qual rio é o segundo mais longo da Europa e cruza ou serve de fronteira para dez países diferentes?",
+    "dica": "Ele banha quatro capitais europeias: Viena, Bratislava, Budapeste e Belgrado.",
+    "resposta": "Rio Danúbio"
+  },
+  {
+    "pergunta": "Qual país da América do Sul possui a maior extensão territorial do continente e é dividido administrativamente em 26 estados e um distrito federal?",
+    "dica": "É a única nação das Américas que fala o idioma português e sua capital foi uma cidade inteiramente planejada inaugurada em 1960.",
+    "resposta": "Brasil"
+  },
+  {
+    "pergunta": "Como ficou conhecida a monumental e violenta transição política iniciada na França em 1789, que destituiu a monarquia absolutista dos Bourbon e estabeleceu os princípios de liberdade, igualdade e fraternidade?",
+    "dica": "A queda da fortaleza da Bastilha tornou-se o maior símbolo visual do início deste processo histórico.",
+    "resposta": "Revolução Francesa"
+  },
+  {
+    "pergunta": "Qual país da América do Sul abriga a cidade de Medellín e possui costas voltadas tanto para o Oceano Pacífico quanto para o Mar do Caribe?",
+    "dica": "É o maior produtor mundial de esmeraldas e sua capital é Bogotá.",
+    "resposta": "Colômbia"
+  },
+  {
+    "pergunta": "Qual importante canal artificial, inaugurado em 1869 no Egito, conecta o Mar Mediterrâneo diretamente ao Mar Vermelho, eliminando a necessidade de as embarcações contornarem o continente africano?",
+    "dica": "Em 2021, o gigantesco navio cargueiro Ever Given encalhou em suas águas, paralisando cerca de 12% do comércio global por uma semana.",
+    "resposta": "Canal de Suez"
+  },
+  {
+    "pergunta": "Qual foi a capital do Império Inca que resistiu por séculos na cordilheira dos Andes até ser conquistada e saqueada pelos conquistadores espanhóis liderados por Francisco Pizarro em 1533?",
+    "dica": "Seu nome significa 'umbigo do mundo' na língua quéchua e a cidade fica localizada no atual território do Peru.",
+    "resposta": "Cusco"
+  },
+  {
+    "pergunta": "Qual país asiático é uma nação insular localizada no Leste da Ásia, formada por quatro ilhas principais (Honshu, Hokkaido, Kyushu e Shikoku) e conhecida historicamente como a 'Terra do Sol Nascente'?",
+    "dica": "Sua capital é a área metropolitana mais populosa do mundo e a nação tem o iene como sua moeda oficial.",
+    "resposta": "Japão"
+  },
+  {
+    "pergunta": "Qual imenso deserto de clima frio localiza-se no sudoeste da África, cobrindo grande parte do território de Botsuana e porções da Namíbia e da África do Sul?",
+    "dica": "O nome deriva de uma palavra local que significa 'a grande sede' e a região é habitada historicamente pelo povo San (bosquímanos).",
+    "resposta": "Deserto do Kalahari"
+  },
+  {
+    "pergunta": "Qual bloco econômico e político, composto hoje por 27 nações europeias, foi formalmente estabelecido pelo Tratado de Maastricht em 1993 como evolução das antigas comunidades econômicas da região?",
+    "dica": "Sua moeda única, adotada pela maioria dos países membros, é o Euro e sua sede administrativa principal fica em Bruxelas.",
+    "resposta": "União Europeia"
+  },
+  {
+    "pergunta": "Qual é a capital da Irlanda, famosa por sua rica tradição literária, por ser cortada pelo rio Liffey e por abrigar a histórica universidade Trinity College?",
+    "dica": "O nome da cidade deriva de um termo gaélico que significa 'piscina negra'. Começa com a letra 'D'.",
+    "resposta": "Dublin"
+  },
+
+
+
+
+
+  {
+    "pergunta": "Qual é o nome do enclave territorial espanhol localizado no norte da África, totalmente cercado pelo território do Marrocos e pelo Mar Mediterrâneo, que junto com Melilla gera constantes tensões migratórias?",
+    "dica": "Fica situado bem em frente ao Estreito de Gibraltar e seu nome começa com a letra 'C'.",
+    "resposta": "Ceuta"
+  },
+  {
+    "pergunta": "Assinado em 1903 após intensas disputas territoriais e uma revolução local, qual tratado internacional oficializou a anexação do atual estado do Acre ao território brasileiro, que antes pertencia à Bolívia?",
+    "dica": "O acordo foi intermediado pelo Barão do Rio Branco e leva o nome da cidade imperial fluminense onde foi assinado.",
+    "resposta": "Tratado de Petrópolis"
+  },
+  {
+    "pergunta": "Qual país africano, o mais populoso do leste do continente, perdeu todo o seu acesso ao mar em 1993 após a independência oficial da Eritreia, tornando-se o país sem saída para o oceano mais populoso do mundo?",
+    "dica": "Sua capital é Adis Abeba e a nação abriga a sede da União Africana.",
+    "resposta": "Etiópia"
+  },
+  {
+    "pergunta": "Qual é o nome da imensa fossa tectônica e geológica que se estende por milhares de quilômetros desde a Síria, no Oriente Médio, até Moçambique, na África Oriental, criando grandes lagos e vulcões?",
+    "dica": "Essa gigantesca rachadura na crosta terrestre é visível do espaço e é amplamente conhecida como o 'Vale do...'.",
+    "resposta": "Vale do Rift"
+  },
+  {
+    "pergunta": "Qual estreito marítimo separa a ilha italiana da Sardenha da ilha francesa de Córsega, sendo conhecido por suas correntes fortes e navegação historicamente desafiadora?",
+    "dica": "Leva o nome da cidade portuária corsa localizada no extremo sul da ilha francesa. Começa com 'Estreito de...'.",
+    "resposta": "Estreito de Bonifacio"
+  },
+  {
+    "pergunta": "Nascendo no planalto do Tibre e correndo em direção ao oeste até desaguar no Mar Arábico, no Paquistão, qual rio histórico deu origem ao nome de uma das maiores e mais populosas nações da Ásia Meridional?",
+    "dica": "Sua bacia hidrográfica abrigou uma das civilizações mais antigas da Idade do Bronze. Começa com a letra 'I'.",
+    "resposta": "Rio Indo"
+  },
+  {
+    "pergunta": "Qual país da América do Sul possui duas capitais oficiais em seu ordenamento jurídico: uma que sedia o poder Judiciário (capital histórica) e outra que sedia os poderes Executivo e Legislativo (sede do governo)?",
+    "dica": "As cidades em questão são Sucre e La Paz. É um país andino sem saída para o mar.",
+    "resposta": "Bolívia"
+  },
+  {
+    "pergunta": "Como ficou conhecida a histórica disputa geopolítica e militar travada entre o Império Britânico e o Império Russo pelo controle e influência na Ásia Central durante o século XIX, especialmente no território do Afeganistão?",
+    "dica": "O termo foi cunhado por oficiais britânicos e popularizado pelo escritor Rudyard Kipling. É chamado de 'O Grande...'.",
+    "resposta": "O Grande Jogo"
+  },
+  {
+    "pergunta": "Qual país da América do Sul abriga o Deserto do Atacama, considerado o deserto mais árido e seco de todo o planeta Terra?",
+    "dica": "Seu território estende-se como uma longa e estreita faixa de terra entre a cordilheira dos Andes e o Pacífico. Sua capital é Santiago.",
+    "resposta": "Chile"
+  },
+  {
+    "pergunta": "Qual canal artificial de navegação, inaugurado em 1893, corta o istmo que liga a península do Peloponneso ao restante do território continental da Grécia?",
+    "dica": "A obra possui paredes de rocha perfeitamente verticais de quase 80 metros de altura e é extremamente estreita. Leva o nome de uma famosa cidade antiga da região.",
+    "resposta": "Canal de Corinto"
+  },
+  {
+    "pergunta": "Qual foi o nome dado ao colossal plano de cerco e fortificações militares construído pela União Soviética em 1948 para isolar os setores ocidentais da antiga capital alemã, gerando uma das maiores crises da Guerra Fria?",
+    "dica": "O evento forçou os Aliados ocidentais a criarem uma histórica ponte aérea de suprimentos por quase um ano. Ficou conhecido como o 'Bloqueio de...'.",
+    "resposta": "Bloqueio de Berlim"
+  },
+  {
+    "pergunta": "Qual nação europeia, localizada na região dos Bálcãs, declarou independência da Sérvia em 2008, sendo reconhecida por mais de 100 países da ONU, mas ainda tendo sua soberania contestada por sérvios, russos e chineses?",
+    "dica": "Sua capital é Pristina e a maioria de sua população é de etnia albanesa.",
+    "resposta": "Kosovo"
+  },
+  {
+    "pergunta": "Qual imenso deserto de areia, considerado o maior deserto de dunas contínuas do mundo (Erg), cobre quase todo o terço sul da Península Arábica, estendendo-se por Arábia Saudita, Omã, Iêmen e Emirados Árabes?",
+    "dica": "Seu nome em árabe significa literalmente 'O Quarteirão Vazio'. Começa com 'Rub' al-...'.",
+    "resposta": "Rub' al-Khali"
+  },
+  {
+    "pergunta": "Qual tratado internacional, assinado em 1975, criou as bases para a fundação da CEDEAO (Comunidade Econômica dos Estados da África Ocidental), visando a integração econômica de 15 países da região?",
+    "dica": "O documento leva o nome da maior cidade e antiga capital da Nigéria, onde as delegações se reuniram.",
+    "resposta": "Tratado de Lagos"
+  },
+  {
+    "pergunta": "Qual é a capital da Turquia, uma cidade localizada no centro da península da Anatólia que foi escolhida estrategicamente por Mustafa Kemal Atatürk em 1923 para substituir Istambul como sede do novo governo republicano?",
+    "dica": "É a segunda maior cidade do país e seu nome começa com a letra 'A'.",
+    "resposta": "Ancara"
+  },
+
+
+
+
+  {
+    "pergunta": "Qual importante estreito marítimo, localizado no Sudeste Asiático entre a península malaia e a ilha indonésia de Sumatra, é considerado um dos principais gargalos do comércio marítimo global e alvo histórico de pirataria?",
+    "dica": "Cerca de um quarto de todas as mercadorias transportadas por mar no mundo passa por este canal estreito que leva o nome de um antigo sultanato. Começa com 'Estreito de...'.",
+    "resposta": "Estreito de Malaca"
+  },
+  {
+    "pergunta": "Assinado em 1923, qual tratado internacional definiu oficialmente as fronteiras da moderna República da Turquia, substituindo o controverso Tratado de Sèvres que havia desmembrado o Império Otomano?",
+    "dica": "O documento leva o nome da famosa cidade suíça onde foi assinado pelas potências europeias. Começa com 'Tratado de...'.",
+    "resposta": "Tratado de Lausanne"
+  },
+  {
+    "pergunta": "Qual país africano, localizado na costa oriental, possui o suaíli e o inglês como idiomas oficiais e abriga a cidade de Mombaça, embora sua capital seja Nairóbi?",
+    "dica": "O país é mundialmente famoso por suas reservas de safári, como o Masais Mara, e por seus atletas dominantes em corridas de longa distância.",
+    "resposta": "Quênia"
+  },
+  {
+    "pergunta": "Qual é o nome da imensa e profunda depressão geográfica localizada na fronteira entre Israel e a Jordânia, cujo espelho d'água está situado a mais de 430 metros abaixo do nível do mar?",
+    "dica": "É o ponto em terra firme de menor altitude de todo o planeta e suas águas possuem uma salinidade tão extrema que é impossível afundar nelas.",
+    "resposta": "Mar Morto"
+  },
+  {
+    "pergunta": "Qual estreito marítimo separa a ilha de ilha de Sakhalina do continente asiático (Rússia), conectando o Mar de Okhotsk ao Mar do Japão?",
+    "dica": "Leva o nome de um famoso navegador e explorador francês do século XVIII. Começa com 'Estreito de La...'.",
+    "resposta": "Estreito de La Pérouse"
+  },
+  {
+    "pergunta": "Nascendo nas montanhas de Uganda e da Etiópia e correndo em direção ao norte pelo deserto até desaguar em um grande delta no Mar Mediterrâneo, qual rio disputa historicamente o título de mais longo do mundo?",
+    "dica": "Sua bacia hidrográfica foi o berço da civilização dos faraós e suas duas principais ramificações são chamadas de ramo Azul e ramo Branco.",
+    "resposta": "Rio Nilo"
+  },
+  {
+    "pergunta": "Qual país da América do Sul possui a maior faixa litorânea contínua voltada para o Oceano Pacífico, estendendo-se por mais de 4.000 quilômetros de norte a sul?",
+    "dica": "Seu território é extremamente estreito e abriga o porto estratégico de Valparaíso, além de sua capital, Santiago.",
+    "resposta": "Chile"
+  },
+  {
+    "pergunta": "Como ficou conhecido o histórico período de transição política e social na Europa Oriental em 1989, caracterizado pela queda pacífica e em cadeia dos regimes comunistas em países como Polônia, Hungria e Tchecoslováquia?",
+    "dica": "O termo faz alusão à suavidade e à quase total ausência de violência durante as manifestações populares na maioria desses países. Ficou conhecido como as 'Revoluções de...'.",
+    "resposta": "Revoluções de Veludo"
+  },
+  {
+    "pergunta": "Qual país da América do Sul abriga as famosas ruínas de Machu Picchu, a impressionante 'cidade perdida' construída pelo Império Inca no topo de uma montanha na cordilheira dos Andes?",
+    "dica": "Sua capital histórica é Cusco e sua capital atual é Lima, localizada na costa do Pacífico.",
+    "resposta": "Peru"
+  },
+  {
+    "pergunta": "Qual importante canal artificial de navegação, inaugurado em 1895, corta o território da Alemanha para conectar o Mar do Norte diretamente ao Mar Báltico?",
+    "dica": "Ele elimina a necessidade de as embarcações contornarem a península da Jutlândia (Dinamarca) e leva o nome de uma importante cidade portuária alemã.",
+    "resposta": "Canal de Kiel"
+  },
+  {
+    "pergunta": "Qual foi a antiga e poderosa cidade-estado da Mesopotâmia que, sob o reinado de Hamurábi no século XVIII a.C., tornou-se o centro de um vasto império e ficou famosa por seus lendários Jardins Suspensos?",
+    "dica": "Suas ruínas arqueológicas ficam localizadas no atual território do Iraque, ao sul de Bagdá.",
+    "resposta": "Babilônia"
+  },
+  {
+    "pergunta": "Qual nação asiática, localizada no Oriente Médio, foi oficialmente fundada em 1948 após uma resolução da ONU que dividiu o antigo Mandato Britânico da Palestina, gerando intensos conflitos geopolíticos regionais até os dias de hoje?",
+    "dica": "Sua sede de governo fica em Tel Aviv, embora o país reivindique Jerusalém como sua capital eterna. Sua moeda é o Novo Shekel.",
+    "resposta": "Israel"
+  },
+  {
+    "pergunta": "Qual imenso deserto de areia e rocha localiza-se no norte da China e sul da Mongólia, sendo amplamente conhecido por seu clima extremo de frio no inverno e por ter sido uma barreira geográfica crucial na rota da seda?",
+    "dica": "O nome significa 'lugar sem água' em mongol e a região é um dos maiores sítios paleontológicos de ovos de dinossauro do mundo.",
+    "resposta": "Deserto de Gobi"
+  },
+  {
+    "pergunta": "Qual tratado internacional, assinado em 1944 durante uma conferência nos Estados Unidos, estabeleceu as regras para a ordem comercial e financeira global do pós-guerra, criando o FMI e o Banco Mundial?",
+    "dica": "O acordo leva o nome do complexo hoteleiro localizado em New Hampshire onde os economistas se reuniram. Começa com 'Acordo de...'.",
+    "resposta": "Acordo de Bretton Woods"
+  },
+  {
+    "pergunta": "Qual é a capital do Canadá, escolhida estrategicamente pela Rainha Vitória em 1857 para ser a sede do governo devido à sua localização segura na fronteira entre as regiões de língua inglesa e francesa do país?",
+    "dica": "Fica situada na província de Ontário, logo em frente à província de Quebec e seu nome começa com a letra 'O'.",
+    "resposta": "Ottawa"
+  },
+
+
+
+
+  {
+    "pergunta": "Qual país europeu abriga a península de mais de 500 quilômetros chamada Jutlândia, que compõe a maior parte de seu território continental e faz fronteira direta apenas com a Alemanha?",
+    "dica": "Trata-se de uma das monarquias mais antigas do mundo, sua capital é Copenhague e o país exerce soberania sobre as Ilhas Faroe e a Groenlândia.",
+    "resposta": "Dinamarca"
+  },
+  {
+    "pergunta": "Assinado em 1807 após as esmagadoras vitórias militares de Napoleão Bonaparte na Europa Central, qual tratado de paz forçou a Prússia a ceder metade de seu território e transformou a Rússia em aliada do Império Francês?",
+    "dica": "O documento leva o nome da cidade histórica (hoje pertencente à Rússia com o nome de Sovetsk) onde os imperadores se reuniram em uma balsa no Rio Niemen. Começa com 'Tratado de...'.",
+    "resposta": "Tratado de Tilsit"
+  },
+  {
+    "pergunta": "Qual país africano, localizado na região do Magrebe (norte do continente), possui o árabe e o tamazight como idiomas oficiais e abriga a histórica e turística cidade de Marrakesh?",
+    "dica": "Sua capital política é Rabat, o país é uma monarquia constitucional e ele reivindica a soberania sobre o território do Saara Ocidental.",
+    "resposta": "Marrocos"
+  },
+  {
+    "pergunta": "Qual é o nome da imensa bacia hidrográfica e geológica localizada no leste da África, considerada o segundo maior lago de água doce do mundo em área de superfície, cujas águas são divididas entre Uganda, Quênia e Tanzânia?",
+    "dica": "O lago é a principal fonte do Rio Nilo Branco e foi batizado por um explorador britânico em homenagem à rainha do Reino Unido da época.",
+    "resposta": "Lago Vitória"
+  },
+  {
+    "pergunta": "Qual estreito marítimo de extrema relevância geopolítica separa a península de Omã da costa do Irã, ligando o Golfo Pérsico diretamente ao Golfo de Omã e ao Mar Arábico?",
+    "dica": "Cerca de 20% do petróleo mundial transita por este canal estreito. O nome começa com a letra 'O'.",
+    "resposta": "Estreito de Ormuz"
+  },
+  {
+    "pergunta": "Nascendo nas montanhas do Tibre e correndo em direção ao leste pela China até deságua no Mar da China Oriental, qual é o rio mais longo de todo o continente asiático e o terceiro mais longo do mundo?",
+    "dica": "Também conhecido como Rio Azul, ele abriga a monumental Usina de Três Gargantas, a maior usina hidrelétrica do planeta em capacidade instalada.",
+    "resposta": "Rio Yangtzé"
+  },
+  {
+    "pergunta": "Qual país da América do Sul é o único do continente a ter o holandês como idioma oficial, devido ao seu passado colonial como parte das antigas Índias Ocidentais Holandesas?",
+    "dica": "Sua capital é Paramaribo, sua costa é voltada para o Oceano Atlântico e o país faz fronteira direta com o estado brasileiro do Amapá.",
+    "resposta": "Suriname"
+  },
+  {
+    "pergunta": "Como ficou conhecida a histórica e violenta disputa territorial travada entre o Império Britânico e colonos de origem holandesa no extremo sul da África entre 1899 e 1902, pelo controle de ricas jazidas de ouro e diamantes?",
+    "dica": "Os colonos de ascendência holandesa eram chamados por um termo que significa 'agricultor' em holandês. Ficou conhecida como a 'Guerra dos...'.",
+    "resposta": "Guerra dos Bôeres"
+  },
+  {
+    "pergunta": "Qual país da América do Sul abriga o imenso Lago de Maracaibo, um corpo d'água historicamente vital para a economia da região devido às gigantescas reservas de petróleo localizadas sob o seu leito?",
+    "dica": "Sua capital é Caracas e o país abriga o Salto Ángel, a cachoeira mais alta do mundo.",
+    "resposta": "Venezuela"
+  },
+  {
+    "pergunta": "Qual importante e histórico canal artificial de navegação, inaugurado em 1784, corta o istmo da província de Schleswig-Holstein para conectar o Mar do Norte ao Mar Báltico?",
+    "dica": "A obra foi ampliada no final do século XIX pelo Império Alemão e leva o nome de uma importante cidade portuária militar da região. É o Canal de... .",
+    "resposta": "Canal de Kiel"
+  },
+  {
+    "pergunta": "Qual foi a antiga e célebre cidade do Egito Antigo, fundada por Alexandre, o Grande, em 331 a.C., que se tornou o maior centro cultural do mundo helenístico e ficou famosa por seu gigantesco Farol e por sua monumental Biblioteca?",
+    "dica": "Localizada na costa do Mar Médio, a cidade leva o nome de seu fundador imperial.",
+    "resposta": "Alexandria"
+  },
+  {
+    "pergunta": "Qual nação asiática, localizada no Sul da Ásia, conquistou sua independência do Reino Unido em 1947 através de um histórico movimento de resistência pacífica liderado por Mahatma Gandhi, resultando na posterior partilha da região?",
+    "dica": "Sua capital é Nova Déli, sua moeda oficial é a Rúpia e o país possui a maior população do planeta.",
+    "resposta": "Índia"
+  },
+  {
+    "pergunta": "Qual imenso deserto de clima quente localiza-se no Oriente Médio, cobrindo quase toda a extensão da Península Arábica, sendo considerado o segundo maior deserto subtropical do mundo?",
+    "dica": "Ele engloba o Rub' al-Khali (o quarteirão vazio) e seu território rochoso e arenoso é dividido entre países como Arábia Saudita, Iêmen e Omã.",
+    "resposta": "Deserto da Arábia"
+  },
+  {
+    "pergunta": "Qual organização internacional de cooperação econômica e financeira global, fundada em 1944 na Conferência de Bretton Woods, tem como principal objetivo garantir a estabilidade do sistema monetário internacional e prevenir crises globais?",
+    "dica": "Sua sede fica em Washington (EUA) e a sigla significa Fundo Monetário Internacional.",
+    "resposta": "FMI"
+  },
+  {
+    "pergunta": "Qual é a capital da Suécia, uma cidade inteiramente construída sobre um arquipélago de 14 ilhas conectadas por mais de 50 pontes, sendo frequentemente apelidada de 'Veneza do Norte'?",
+    "dica": "A cidade é a sede oficial da entrega anual dos prestigiados Prêmios Nobel (exceto o da Paz) e seu nome começa com a letra 'S'.",
+    "resposta": "Estocolmo"
+  },
+
+
+
+
+  {
+    "pergunta": "Qual país europeu abriga em seu território o Cabo da Roca, o ponto geográfico oficialmente reconhecido como o extremo mais ocidental de toda a massa continental da Eurásia?",
+    "dica": "O poeta Luís de Camões descreveu o local como o ponto 'onde a terra se acaba e o mar começa'. Fica próximo a Lisboa.",
+    "resposta": "Portugal"
+  },
+  {
+    "pergunta": "Assinado em 1929 entre o Reino da Itália e a Santa Sé, qual tratado histórico encerrou a 'Questão Romana' e oficializou a criação do Estado da Cidade do Vaticano como um país independente?",
+    "dica": "O documento leva o nome do palácio romano onde foi assinado pelo ditador Benito Mussolini e pelo cardeal Pietro Gasparri. Começa com 'Tratado de...'.",
+    "resposta": "Tratado de Latrão"
+  },
+  {
+    "pergunta": "Qual país africano, localizado na costa oriental, tem o suaíli como idioma nacional e abriga o arquipélago semiautônomo de Zanzibar, além de ter Dodoma como sua capital oficial?",
+    "dica": "Em seu território fica o Monte Kilimanjaro e o famoso Parque Nacional do Serengeti. Seu nome é uma fusão dos nomes de Tanganica e Zanzibar.",
+    "resposta": "Tanzânia"
+  },
+  {
+    "pergunta": "Qual é o nome da imensa e profunda fossa tectônica localizada na Sibéria (Rússia) que detém os recordes mundiais de lago mais profundo e de maior reserva de água doce líquida do planeta?",
+    "dica": "Ele atinge uma profundidade máxima de mais de 1.600 metros e sua água é incrivelmente transparente. Começa com a letra 'B'.",
+    "resposta": "Lago Baikal"
+  },
+  {
+    "pergunta": "Qual estreito marítimo de enorme importância estratégica separa a ilha de Cingapura da península malaia (Malásia), servindo como uma fronteira internacional altamente vigiada?",
+    "dica": "Leva o nome do estado e da cidade malaia localizada logo ao norte da ilha de Cingapura. Começa com 'Estreito de...'.",
+    "resposta": "Estreito de Johor"
+  },
+  {
+    "pergunta": "Nascendo nas montanhas de Minas Gerais e desaguando no Oceano Atlântico no Nordeste brasileiro, qual rio histórico é conhecido como o 'Rio da Integração Nacional'?",
+    "dica": "Ele é carinhosamente chamado de 'Velho Chico' e abriga importantes usinas hidrelétricas, como a de Paulo Afonso e Sobradinho.",
+    "resposta": "Rio São Francisco"
+  },
+  {
+    "pergunta": "Qual país da América do Sul é o único do continente a ser cortado simultaneamente pela Linha do Equador e pelo Trópico de Capricórnio?",
+    "dica": "É a maior nação da América Latina e sua costa leste é inteiramente banhada pelo Oceano Atlântico.",
+    "resposta": "Brasil"
+  },
+  {
+    "pergunta": "Como ficou conhecido o histórico conflito militar travado entre 1904 e 1905, onde o Império do Japão derrotou o Império Russo pelo controle da Manchúria e da Península de Liaodong, surpreendendo as potências ocidentais?",
+    "dica": "A vitória japonesa foi consolidada na Batalha de Tsushima e o conflito leva o nome dos dois impérios envolvidos.",
+    "resposta": "Guerra Russo-Japonesa"
+  },
+  {
+    "pergunta": "Qual país da América do Sul abriga a cidade de Punta Arenas e possui o controle político sobre o Cabo de Hornos, o ponto mais meridional das Américas (excluindo a Antártida)?",
+    "dica": "É uma nação com território longilíneo espremido entre os Andes e o Pacífico. Sua capital é Santiago.",
+    "resposta": "Chile"
+  },
+  {
+    "pergunta": "Qual importante canal artificial de navegação, inaugurado em 1869, corta o istmo que conecta o continente africano à Península do Sinai, permitindo a rota direta entre o Mar Mediterrâneo e o Mar Vermelho?",
+    "dica": "Ele é controlado pelo governo do Egito e representa uma das maiores fontes de receita estrangeira do país.",
+    "resposta": "Canal de Suez"
+  },
+  {
+    "pergunta": "Qual foi a antiga e célebre cidade da Grécia Antiga, capital da região da Lacônia, que ficou historicamente famosa por sua sociedade rigidamente militarizada e por sua rivalidade com Atenas na Guerra do Peloponneso?",
+    "dica": "Seus guerreiros ficaram imortalizados na história pela lendária resistência na Batalha das Termópilas contra os persas.",
+    "resposta": "Esparta"
+  },
+  {
+    "pergunta": "Qual nação asiática, localizada no Sul da Ásia, conquistou sua independência do Paquistão em 1971 após uma sangrenta guerra de libertação que contou com o apoio militar da Índia?",
+    "dica": "Sua capital é a densamente povoada cidade de Daca e a região corresponde à antiga província do Paquistão Oriental.",
+    "resposta": "Bangladesh"
+  },
+  {
+    "pergunta": "Qual imenso deserto, localizado no norte do Chile, é considerado pelos climatologistas como o deserto não polar mais seco e árido de todo o planeta Terra?",
+    "dica": "Devido à quase total ausência de umidade e poluição luminosa, a região abriga alguns dos maiores e mais avançados observatórios astronômicos do mundo.",
+    "resposta": "Deserto do Atacama"
+  },
+  {
+    "pergunta": "Qual bloco econômico e político, composto originalmente por Bélgica, França, Alemanha, Itália, Luxemburgo e Países Baixos, foi criado pelo Tratado de Roma em 1957 e serviu como o embrião direto da União Europeia?",
+    "dica": "A sigla original do bloco era CEE. Significa Comunidade Econômica... .",
+    "resposta": "Comunidade Econômica Europeia"
+  },
+  {
+    "pergunta": "Qual é a capital da Noruega, uma cidade localizada no fundo de um fiorde de mesmo nome, sendo considerada o centro político, econômico e cultural do país?",
+    "dica": "É a cidade onde é entregue anualmente o prestigiado Prêmio Nobel da Paz. Começa com a letra 'O'.",
+    "resposta": "Oslo"
+  },
+
+
+
+
+
+  {
+    "pergunta": "Qual foi o nome dado ao tratado assinado em 1750 entre Portugal e Espanha que redesenhou as fronteiras da América do Sul, adotando o princípio do 'uti possidetis' (quem possui de fato tem o direito) e substituindo o antigo Tratado de Tordesilhas?",
+    "dica": "O acordo foi negociado pelo diplomata Alexandre de Gusmão e leva o nome da capital espanhola onde foi assinado.",
+    "resposta": "Tratado de Madri"
+  },
+  {
+    "pergunta": "Qual é o ponto culminante (a montanha mais alta) de todo o território brasileiro, localizando-se na Serra do Piracuara, na fronteira entre o Amazonas e a Venezuela?",
+    "dica": "Possui quase 3.000 metros de altitude e seu nome faz alusão às formações gasosas que costumam cobrir o seu topo.",
+    "resposta": "Pico da Neblina"
+  },
+  {
+    "pergunta": "Eclodida em 1835 na Província do Grão-Pará, qual revolta popular do período regencial foi caracterizada pelo protagonismo das camadas mais pobres e ribeirinhas, que chegaram a tomar o poder na cidade de Belém?",
+    "dica": "O nome do movimento deriva do termo utilizado para designar as pessoas que viviam em cabanas de palha às margens dos rios.",
+    "resposta": "Cabanagem"
+  },
+  {
+    "pergunta": "Qual importante bioma brasileiro, considerado a savana mais rica em biodiversidade do mundo, ocupa grande parte do Planalto Central e sofre severas ameaças devido à expansão da fronteira agrícola?",
+    "dica": "Suas árvores costumam ter troncos retorcidos e raízes muito profundas para buscar água nos lençóis freáticos durante a estação seca.",
+    "resposta": "Cerrado"
+  },
+  {
+    "pergunta": "Como ficou conhecido o acordo diplomático assinado em 1903, liderado pelo Barão do Rio Branco, que garantiu a anexação do atual território do Acre ao Brasil após uma disputa com a Bolívia?",
+    "dica": "O tratado leva o nome da famosa cidade imperial localizada na região serrana do estado do Rio de Janeiro.",
+    "resposta": "Tratado de Petrópolis"
+  },
+  {
+    "pergunta": "Qual importante rio brasileiro nasce na Serra da Canastra, em Minas Gerais, cruza a região Nordeste e é historicamente conhecido como o 'Rio da Integração Nacional'?",
+    "dica": "Ele é carinhosamente apelidado pela população de 'Velho Chico' e abriga grandes usinas hidrelétricas, como a de Sobradinho.",
+    "resposta": "Rio São Francisco"
+  },
+  {
+    "pergunta": "Durante o período colonial e o início do Império, qual ciclo econômico baseado na mineração transformou a geopolítica do Brasil, provocando a mudança da capital de Salvador para o Rio de Janeiro em 1763?",
+    "dica": "O ápice dessa atividade ocorreu na região que hoje corresponde ao estado de Minas Gerais, impulsionando a arte barroca e o Aleijadinho.",
+    "resposta": "Ciclo do Ouro"
+  },
+  {
+    "pergunta": "Qual é o nome da maior ilha fluviomarítima do mundo, localizada no estado do Pará, na foz do Rio Amazonas, cercada por águas doces e salgadas?",
+    "dica": "O local é famoso por seus gigantescos rebanhos de búfalos e pela histórica cerâmica arqueológica produzida por seus antigos povos indígenas.",
+    "resposta": "Ilha de Marajó"
+  },
+  {
+    "pergunta": "Liderada por figuras como Bento Gonçalves e Giuseppe Garibaldi entre 1835 e 1845, qual foi a mais longa revolta provincial da história do Brasil, que buscava a autonomia e chegou a proclamar repúblicas no sul do país?",
+    "dica": "O conflito também é amplamente conhecido como a Guerra dos Farrapos.",
+    "resposta": "Revolução Farroupilha"
+  },
+  {
+    "pergunta": "Qual formação geomorfológica estende-se por milhares de quilômetros ao longo do litoral do Nordeste e Sudeste do Brasil, apresentando paredões rochosos verticais e escarpas íngremes que separam o planalto da planície costeira?",
+    "dica": "A Serra do Mar e a Serra da Mantiqueira são partes integrantes desse imenso sistema de relevo. Começa com 'Serra do...'.",
+    "resposta": "Serra do Mar"
+  },
+  {
+    "pergunta": "Qual foi o primeiro documento constitucional da história do Brasil, outorgado por D. Pedro I em 1824, que instituía o Poder Moderador como um mecanismo de controle absoluto do imperador sobre os demais poderes?",
+    "dica": "Ela manteve o voto censitário (baseado na renda) e a Igreja Católica atrelada ao Estado através do sistema de padroado.",
+    "resposta": "Constituição de 1824"
+  },
+  {
+    "pergunta": "Localizada na divisa entre o Brasil e o Paraguai, qual gigantesca usina hidrelétrica binacional é uma das maiores do mundo em geração de energia limpa e acumulada e teve sua construção iniciada na década de 1970?",
+    "dica": "Seu nome em guarani significa 'a pedra que canta' e o represamento de suas águas fez desaparecer as famosas cachoeiras de Sete Quedas.",
+    "resposta": "Itaipu Binacional"
+  },
+  {
+    "pergunta": "Como ficou conhecido o movimento político e social de 1983 e 1984 que mobilizou milhões de brasileiros nas ruas para exigir o retorno das eleições presidenciais diretas após duas décadas de ditadura militar?",
+    "dica": "O movimento foi impulsionado pela emenda Dante de Oliveira e seu slogan usava uma coroa de flores amarelas. Começa com 'Diretas...'.",
+    "resposta": "Diretas Já"
+  },
+  {
+    "pergunta": "Qual é a maior bacia hidrográfica localizada inteiramente dentro do território brasileiro, cujo rio principal nasce no estado de Goiás e corre em direção ao norte até desaguar no Atlântico, próximo à ilha de Marajó?",
+    "dica": "Essa bacia abriga a Ilha do Bananal (a maior ilha genuinamente fluvial do mundo) e leva o nome de dois grandes rios integrados.",
+    "resposta": "Bacia do Tocantins-Araguaia"
+  },
+  {
+    "pergunta": "Assinado em 1713 entre Portugal e a França, qual tratado histórico definiu o Rio Oiapoque como a fronteira oficial definitiva entre o norte do Brasil e a Guiana Francesa?",
+    "dica": "O documento leva o nome da cidade dos Países Baixos (Holanda) onde as negociações de paz europeias ocorreram. Começa com 'Tratado de...'.",
+    "resposta": "Tratado de Utrecht"
+  },
+
+  
+  {
+    "pergunta": "Qual foi a primeira rebelião de caráter emancipacionista da história do Brasil Colonial, ocorrida em 1789 na Capitania de Minas Gerais, que contestava a cobrança forçada de impostos atrasados conhecida como derrama?",
+    "dica": "O movimento foi fortemente influenciado pelas ideias iluministas e pela Independência dos EUA. Um de seus líderes mais famosos foi o alferes Joaquim José da Silva Xavier.",
+    "resposta": "Inconfidência Mineira"
+  },
+  {
+    "pergunta": "Qual é a maior ilha genuinamente fluvial do mundo (cercada apenas por rios de água doce), localizada no estado de Tocantins e delimitada pelos rios Araguaia e Javaés?",
+    "dica": "O local abriga um importante ecossistema de transição entre o Cerrado e a Amazônia e é uma grande reserva indígena protegida. Começa com 'Ilha do...'.",
+    "resposta": "Ilha do Bananal"
+  },
+  {
+    "pergunta": "Eclodida em 1848 na Província de Pernambuco, qual foi a última grande revolta de caráter liberal e separatista do período imperial brasileiro, influenciada pela Primavera dos Povos na Europa?",
+    "dica": "O movimento contestava o monopólio comercial dos portugueses e o poder dos grandes latifundiários. Leva o nome do jornal onde os rebeldes publicavam suas ideias. Começa com 'Revolução...'.",
+    "resposta": "Revolução Praieira"
+  },
+  {
+    "pergunta": "Como é conhecido o fenômeno climático que afeta drasticamente a região Norte do Brasil, caracterizado por uma queda brusca e repentina de temperatura provocada pela chegada de massas de ar polar atlânticas que sobem pelo interior do continente?",
+    "dica": "Esse termo é muito comum na região amazônica durante os meses de inverno do hemisfério sul. Começa com a letra 'F'.",
+    "resposta": "Friagem"
+  },
+  {
+    "pergunta": "Assinado em 1715, qual tratado internacional encerrou os conflitos da Guerra de Sucessão Espanhola na América do Sul, forçando a Espanha a devolver o controle da estratégica Colônia do Sacramento (no atual Uruguai) para Portugal?",
+    "dica": "O documento leva o nome da mesma cidade dos Países Baixos onde foi assinado o tratado que definiu as fronteiras do norte do Brasil com a Guiana Francesa.",
+    "resposta": "Tratado de Utrecht"
+  },
+  {
+    "pergunta": "Qual imensa formação de relevo plano e elevado estende-se por grande parte das regiões Nordeste, Sudeste e Centro-Oeste do Brasil, funcionando como um divisor de águas para as principais bacias hidrográficas nacionais?",
+    "dica": "Ele abriga as nascentes de rios vitais como o São Francisco e o Tocantins, e seu solo é a base do bioma do Cerrado. É o Planalto... .",
+    "resposta": "Planalto Central"
+  },
+  {
+    "pergunta": "Qual foi o nome dado ao movimento político de 1932 em São Paulo, que resultou em uma revolta armada contra o governo provisório de Getúlio Vargas para exigir a convocação de uma Assembleia Constituinte?",
+    "dica": "O conflito é lembrado anualmente no estado como um feriado civil no dia 9 de julho. É a chamada Revolução... .",
+    "resposta": "Revolução Constitucionalista"
+  },
+  {
+    "pergunta": "Qual é o ponto geográfico oficialmente reconhecido como o extremo mais setentrional (ao norte) de todo o território brasileiro, localizado no estado de Roraima?",
+    "dica": "Fica situado na fronteira com a Guiana, na nascente de um importante rio local. Superou o antigo mito escolar de que o extremo norte era o Rio Oiapoque.",
+    "resposta": "Monte Caburaí"
+  },
+  {
+    "pergunta": "Durante o início do século XX, qual importante conflito social e messiânico ocorreu na fronteira entre os estados do Paraná e de Santa Catarina, envolvendo camponeses pobres expulsos de suas terras pela construção de uma ferrovia?",
+    "dica": "O movimento foi liderado pelo monge José Maria e o nome faz alusão ao território contestado judicialmente pelos dois estados sulistas.",
+    "resposta": "Guerra do Contestado"
+  },
+  {
+    "pergunta": "Qual importante acidente geográfico e geológico estende-se como uma monumental escarpa rochosa ao longo do litoral brasileiro, separando abruptamente o Planalto Atlântico da Planície Costeira?",
+    "dica": "Ela abriga uma das maiores extensões contínuas preservadas de Mata Atlântica e foi um grande desafio de engenharia para a construção das primeiras ferrovias rumo ao porto de Santos.",
+    "resposta": "Serra do Mar"
+  },
+  {
+    "pergunta": "Qual tratado assinado em 1777 entre Portugal e Espanha tentou encerrar as violentas disputas territoriais no sul do Brasil, devolvendo a ilha de Santa Catarina aos portugueses, mas cedendo a Colônia do Sacramento definitivamente aos espanhóis?",
+    "dica": "O acordo leva o nome de um santo católico muito popular na península ibérica. Começa com 'Tratado de Santo...'.",
+    "resposta": "Tratado de Santo Ildefonso"
+  },
+  {
+    "pergunta": "Qual é o maior arquipélago oceânico pertencente ao território brasileiro, localizado no Oceano Atlântico a cerca de 350 km da costa do Rio Grande do Norte, sendo mundialmente famoso por seu ecossistema marinho preservado?",
+    "dica": "Trata-se de um parque nacional marinho e um dos destinos turísticos mais cobiçados do país, composto por 21 ilhas. Leva o nome de um navegador português.",
+    "resposta": "Fernando de Noronha"
+  },
+  {
+    "pergunta": "Liderado por intelectuais e escravizados libertos na Bahia em 1798, qual movimento conspiratório de caráter republicano e abolicionista ficou conhecido por suas propostas radicais de igualdade racial e social?",
+    "dica": "O movimento também recebeu o nome de 'Revolta dos Alfaiates' devido à profissão de grande parte de seus organizadores.",
+    "resposta": "Conjuração Baiana"
+  },
+  {
+    "pergunta": "Qual importante rio da região hidrográfica do Paraná serve de fronteira natural entre o Brasil e a Argentina, abrigando em seu curso uma das Sete Maravilhas Naturais do Mundo Moderno?",
+    "dica": "Seu nome em tupi significa 'água grande' e ele deságua no Rio Paraná logo após as famosas quedas d'água de Foz.",
+    "resposta": "Rio Iguaçu"
+  },
+  {
+    "pergunta": "Como ficou conhecida a violenta insurreição de escravizados africanos de maioria muçulmana (da etnia hauçá e nagô) ocorrida na cidade de Salvador em 1835, considerada a maior revolta urbana de escravizados da história do Brasil?",
+    "dica": "O termo utilizado para nomear a revolta era a denominação dada aos negros muçulmanos que sabiam ler e escrever em árabe no período colonial. Começa com 'Revolta dos...'.",
+    "resposta": "Revolta dos Malês"
+  },
+
+
+
+  {
+    "pergunta": "Ocorrida no Rio de Janeiro em 1910, qual revolta militar foi liderada por marinheiros de baixa patente, sob o comando de João Cândido (o 'Almirante Negro'), contra os castigos físicos e as péssimas condições de trabalho na Marinha brasileira?",
+    "dica": "O nome do movimento faz referência direta ao instrumento de punição corporal feito de tiras de couro que os oficiais utilizavam contra os marinheiros.",
+    "resposta": "Revolta da Chibata"
+  },
+  {
+    "pergunta": "Qual é o nome do maior e mais importante aquífero de água doce totalmente confinado e localizado em território brasileiro, abrangendo grande parte da região Norte (especialmente nos estados do Amazonas, Pará e Amapá)?",
+    "dica": "Superou o Aquífero Guarani em volume de água utilizável e sua sigla ou nome alternativo está associado ao Rio Amazonas. É o Sistema Aquífero... .",
+    "resposta": "Alter do Chão"
+  },
+  {
+    "pergunta": "Liderada por figuras como Frei Caneca em 1824, qual revolta de caráter republicano e separatista eclodiu em Pernambuco como reação ao fechamento da Assembleia Constituinte e à outorga da Constituição autoritária de D. Pedro I?",
+    "dica": "O movimento tentou unir várias províncias do Nordeste em uma república independente e leva o nome da linha imaginária que divide a Terra ao meio.",
+    "resposta": "Confederação do Equador"
+  },
+  {
+    "pergunta": "Como é conhecido o fenômeno climático e geográfico que afeta o Sertão do Nordeste brasileiro, caracterizado por uma massa de ar seco descendente que impede a chegada de frentes frias e chuvas, intensificando as estiagens na região do Polígono das Secas?",
+    "dica": "A barreira física do Planalto da Borborema ajuda a acentuar esse efeito de bloqueio de umidade. É a dinâmica da massa... .",
+    "resposta": "Alta da Bolívia"
+  },
+  {
+    "pergunta": "Durante o Ciclo da Borracha na Amazônia, qual lendária e trágica linha ferroviária foi construída entre 1907 e 1912 para contornar as cachoeiras do Rio Madeira e escoar a produção, ficando conhecida como a 'Ferrovia do Diabo' devido às milhares de mortes por malária?",
+    "dica": "Ela conectava Porto Velho a Guajará-Mirim e leva o nome dos dois grandes rios amazônicos que marcavam a região de fronteira.",
+    "resposta": "Estrada de Ferro Madeira-Mamoré"
+  },
+  {
+    "pergunta": "Qual importante depressão e planalto localizado no interior do Nordeste brasileiro atua como uma barreira orográfica essencial, retendo a umidade do oceano e criando o chamado 'Brejo de Altitude' em contraste com a Caatinga ao redor?",
+    "dica": "Estende-se por estados como Paraíba, Pernambuco e Rio Grande do Norte. Começa com 'Planalto da...'.",
+    "resposta": "Planalto da Borborema"
+  },
+  {
+    "pergunta": "Qual foi o nome dado à primeira grande crise econômica da República Velha brasileira, na década de 1890, provocada pela emissão descontrolada de papel-moeda e pela criação de empresas fantasmas pelo ministro Rui Barbosa?",
+    "dica": "O termo faz uma metáfora com o ambiente de apostas de corrida de cavalos, devido à intensa especulação financeira na Bolsa de Valores.",
+    "resposta": "Encilhamento"
+  },
+  {
+    "pergunta": "Qual é o ponto geográfico oficialmente reconhecido como o extremo mais oriental (a leste) de toda a massa continental das Américas, localizado no estado da Paraíba?",
+    "dica": "Fica situado na cidade de João Pessoa e abriga um famoso farol projetado por Oscar Niemeyer. É a Ponta do... .",
+    "resposta": "Ponta do Seixas"
+  },
+  {
+    "pergunta": "Qual foi o principal conflito messiânico e social do período republicano brasileiro, ocorrido no sertão da Bahia entre 1896 e 1907, onde uma comunidade liderada por Antônio Conselheiro foi totalmente destruída pelo exército?",
+    "dica": "A história dessa guerra foi imortalizada por Euclides da Cunha no clássico livro de literatura 'Os Sertões'.",
+    "resposta": "Guerra de Canudos"
+  },
+  {
+    "pergunta": "Qual importante acidente geográfico e ecológico estende-se como a maior planície de inundação contínua do planeta Terra, localizando-se majoritariamente nos estados de Mato Grosso e Mato Grosso do Sul?",
+    "dica": "O bioma é fortemente influenciado pelos ciclos de cheia e seca dos rios da Bacia do Paraguai.",
+    "resposta": "Pantanal"
+  },
+  {
+    "pergunta": "Outorgada em 1937 por Getúlio Vargas para institucionalizar a ditadura do Estado Novo, qual constituição brasileira ficou conhecida pelo apelido de 'Polaca' devido à sua forte inspiração em regimes autoritários e fascistas da Europa Oriental?",
+    "dica": "Ela extinguiu os partidos políticos, acabou com a autonomia dos estados e instituiu a pena de morte no ordenamento jurídico nacional.",
+    "resposta": "Constituição de 1937"
+  },
+  {
+    "pergunta": "Qual é a maior ilha marítima do Brasil localizada no litoral do Nordeste, que abriga uma capital estadual e foi fundada originalmente por colonizadores franceses em 1612 antes de ser retomada por Portugal?",
+    "dica": "Fica situada no estado do Maranhão e é carinhosamente apelidada de 'Ilha do Amor' ou 'Jamaica Brasileira' devido à forte tradição do reggae.",
+    "resposta": "Ilha de São Luís"
+  },
+  {
+    "pergunta": "Qual foi a maior e mais importante revolta de escravizados urbanos da história do Brasil, ocorrida em Salvador na noite de janeiro de 1835, sendo liderada por africanos de etnia muçulmana que sabiam ler e escrever em árabe?",
+    "dica": "O termo que dá nome ao movimento era a denominação dada aos negros muçulmanos no período imperial. Começa com 'Revolta dos...'.",
+    "resposta": "Revolta dos Malês"
+  },
+  {
+    "pergunta": "Qual importante bacia hidrográfica, a segunda maior localizada inteiramente em território brasileiro, possui o rio principal correndo em direção ao sul e abriga o bioma do Pantanal e a hidrovia Tietê-Paraná?",
+    "dica": "Ela junta-se aos rios Uruguai e Paraguai para formar a gigantesca Bacia do Prata. Leva o nome do segundo rio mais longo da América do Sul.",
+    "resposta": "Bacia do Paraná"
+  },
+  {
+    "pergunta": "Eclodida em Vila Rica em 1720, qual revolta colonial contestava a criação das Casas de Fundição pela coroa portuguesa e o monopólio do comércio local, resultando na execução de seu líder esfaqueado e esquartejado?",
+    "dica": "O movimento também é amplamente conhecido na historiografia como a Revolta de Vila Rica ou Revolta de... (sobrenome do líder).",
+    "resposta": "Revolta de Filipe dos Santos"
+  },
+
+
+
+
+  {
+    "pergunta": "Qual foi o nome dado à revolta colonial ocorrida no Maranhão em 1684, liderada por proprietários rurais locais contra o monopólio da Companhia de Comércio do Maranhão e a atuação dos jesuítas na proteção dos indígenas?",
+    "dica": "O movimento foi liderado por dois irmãos cafeicultores e terminou com a execução de um deles na fofoca histórica da região. Leva o sobrenome deles. Começa com 'Revolta de...'.",
+    "resposta": "Revolta de Beckman"
+  },
+  {
+    "pergunta": "Qual importante ecossistema costeiro e de transição, considerado um 'berçário natural' da vida marinha, ocorre ao longo de quase todo o litoral brasileiro onde rios deságuam no mar, sendo caracterizado por solos lodosos e plantas com raízes aéreas?",
+    "dica": "Suas árvores são adaptadas à salinidade e o bioma é famoso pela abundância de caranguejos. Começa com a letra 'M'.",
+    "resposta": "Manguezal"
+  },
+  {
+    "pergunta": "Liderada por nomes como Cipriano Barata em 1817, qual importante revolta de caráter republicano e separatista eclodiu em Pernambuco, chegando a governar a província por mais de dois meses antes de ser esmagada pelas forças de D. João VI?",
+    "dica": "O movimento é a razão de existir da atual bandeira do estado de Pernambuco e ocorreu poucos anos antes da Independência oficial do Brasil.",
+    "resposta": "Revolução Pernambucana"
+  },
+  {
+    "pergunta": "Como é conhecido na geografia física do Brasil o clima que domina a maior parte do Planalto Central, caracterizado por apresentar duas estações do ano extremamente bem definidas: um verão chuvoso e um inverno severamente seco?",
+    "dica": "É o clima que rege o comportamento da vegetação do Cerrado brasileiro. É o clima... .",
+    "resposta": "Tropical Semiúmido"
+  },
+  {
+    "pergunta": "Durante o período colonial, qual expedição militarizada e privada partia majoritariamente da Capitania de São Vicente rumo ao interior do continente com o objetivo principal de capturar indígenas e destruir quilombos?",
+    "dica": "Os membros dessas expedições ficaram conhecidos na história nacional como bandeirantes.",
+    "resposta": "Bandeiras"
+  },
+  {
+    "pergunta": "Qual importante bacia hidrográfica brasileira, considerada a terceira maior em potencial de geração de energia e localizada quase totalmente no Nordeste, possui o Rio Parnaíba como seu principal eixo de escoamento e divisória de estados?",
+    "dica": "Ela banha grande parte dos territórios dos estados do Piauí e do Maranhão. É a Bacia do... .",
+    "resposta": "Bacia do Parnaíba"
+  },
+  {
+    "pergunta": "Qual foi a última província do Brasil a aceitar oficialmente a Independência do país em 1823, sendo palco de violentas batalhas navais e terrestres entre tropas brasileiras e forças militares fiéis a Portugal?",
+    "dica": "A consolidação da vitória nessa província é celebrada anualmente na região como o feriado do 'Dois de Julho'.",
+    "resposta": "Bahia"
+  },
+  {
+    "pergunta": "Qual é o nome da menor e mais setentrional região geográfica do Brasil, que apesar de ocupar uma imensa extensão territorial, possui a menor densidade demográfica (população por quilômetro quadrado) do país?",
+    "dica": "Ela abriga quase a totalidade da Floresta Amazônica e da Bacia do Rio Amazonas.",
+    "resposta": "Região Norte"
+  },
+  {
+    "pergunta": "Ocorrido no sertão de Sergipe em 1938, qual evento histórico e policial marcou o fim definitivo do ciclo do Cangaço no Nordeste brasileiro?",
+    "dica": "Envolveu uma emboscada armada por forças volantes na Grota de Angicos, resultando na morte do líder Virgulino Ferreira da Silva e de Maria Bonita.",
+    "resposta": "Morte de Lampião"
+  },
+  {
+    "pergunta": "Qual imensa formação geológica de relevo plano ou suavemente ondulado domina a maior parte da região Sul do Brasil, sendo historicamente utilizada para a pecuária e correspondendo ao bioma dos Pampas?",
+    "dica": "A região também é conhecida na literatura geográfica como a Campanha Gaúcha. É o Planalto... .",
+    "resposta": "Planalto Sul-Rio-Grandense"
+  },
+  {
+    "pergunta": "Promulgada em 1988 após o fim do regime militar, qual constituição brasileira ficou conhecida historicamente pelo apelido de 'Constituição Cidadã' devido ao seu pioneirismo na garantia de direitos civis e sociais?",
+    "dica": "Ela restabeleceu as eleições diretas em dois turnos, instituiu o SUS e foi liderada pelo deputado Ulysses Guimarães.",
+    "resposta": "Constituição de 1988"
+  },
+  {
+    "pergunta": "Qual é a capital estadual brasileira localizada em uma ilha oceânica que se conecta ao continente por pontes, sendo mundialmente famosa por suas praias e apelidada historicamente de 'Ilha da Magia'?",
+    "dica": "É a capital do estado de Santa Catarina, na região Sul do país. Começa com 'F'.",
+    "resposta": "Florianópolis"
+  },
+  {
+    "pergunta": "Qual foi o nome dado à violenta revolta ocorrida em Pernambuco entre 1710 e 1711, motivada pela rivalidade política e econômica entre os senhores de engenho de Olinda e os comerciantes portugueses de Recife?",
+    "dica": "O termo que dá nome ao conflito faz referência direta ao apelido pejorativo que os senhores de engenho davam aos comerciantes lusitanos. Começa com 'Guerra dos...'.",
+    "resposta": "Guerra dos Mascates"
+  },
+  {
+    "pergunta": "Qual é a denominação oficial dada ao ponto geográfico que marca o extremo mais meridional (ao sul) de todo o território brasileiro, localizado no estado do Rio Grande do Sul?",
+    "dica": "Fica situado na fronteira com o Uruguai, no município de Santa Vitória do Palmar. É o Arroio... .",
+    "resposta": "Arroio Chuí"
+  },
+  {
+    "pergunta": "Eclodida no Rio de Janeiro em 1904, qual revolta popular urbana contestava a obrigatoriedade da vacinação contra a varíola e as reformas urbanas autoritárias promovidas pelo prefeito Pereira Passos?",
+    "dica": "O movimento foi inflado pelo sanitarista Oswaldo Cruz, que liderava a campanha de saúde pública. Ficou conhecida como a Revolta da... .",
+    "resposta": "Revolta da Vacina"
+  },
+
+
+
+
+
+  {
+    "pergunta": "Qual foi a maior rebelião da história colonial do Brasil, ocorrida em 1641 no atual estado de São Paulo, onde colonos locais e bandeirantes tentaram aclamar um líder local como rei, rompendo temporariamente com a Coroa Portuguesa logo após o fim da União Ibérica?",
+    "dica": "O fazendeiro escolhido para ser rei acabou recusando o título e jurando fidelidade a Portugal. Ficou conhecida como a Aclamação de... (sobrenome do líder).",
+    "resposta": "Aclamação de Amador Bueno"
+  },
+  {
+    "pergunta": "Qual importante massa de ar atua no Brasil de forma muito intensa durante o inverno, nascendo no extremo sul do continente e sendo a grande responsável pelas frentes frias, geadas no Sul e pelo fenômeno da friagem na Amazônia?",
+    "dica": "Sua sigla climatológica é mPa. Significa Massa Polar... .",
+    "resposta": "Massa Polar Atlântica"
+  },
+  {
+    "pergunta": "Eclodida em Salvador em 1798 e fortemente influenciada pela Revolução Francesa, qual conspiração colonial defendia não apenas a independência e a república, mas também a abolição da escravidão e a igualdade social de direitos?",
+    "dica": "O movimento também é amplamente conhecido na história brasileira como a Revolta dos Alfaiates, devido à profissão de muitos de seus líderes.",
+    "resposta": "Conjuração Baiana"
+  },
+  {
+    "pergunta": "Como é chamada a vegetação típica e pioneira que ocorre em terrenos arenosos e dunas do litoral brasileiro, composta por plantas rasteiras, arbustos e árvores baixas adaptadas à salinidade e aos ventos fortes da costa?",
+    "dica": "Essa formação florestal atua fixando a areia das praias e protegendo a costa contra a erosão marítima. Começa com a letra 'R'.",
+    "resposta": "Restinga"
+  },
+  {
+    "pergunta": "Assinado em 1777 entre as coroas de Portugal e Espanha, qual tratado tentou resolver as sangrentas disputas territoriais no extremo sul do Brasil, devolvendo a ilha de Santa Catarina aos portugueses, mas cedendo a estratégica Colônia do Sacramento definitivamente aos espanhóis?",
+    "dica": "O acordo leva o nome de um santo católico muito popular. Começa com 'Tratado de Santo...'.",
+    "resposta": "Tratado de Santo Ildefonso"
+  },
+  {
+    "pergunta": "Qual importante acidente geográfico e geológico estende-se como um imenso paredão rochoso no interior do Nordeste do Brasil, servindo de divisa natural entre os estados do Ceará, Piauí e Pernambuco?",
+    "dica": "Essa formação de relevo em formato de cuesta é famosa por abrigar importantes fósseis da era dos dinossauros. É a Chapada do... .",
+    "resposta": "Chapada do Araripe"
+  },
+  {
+    "pergunta": "Qual foi o nome dado ao movimento militar de 1924, liderado por jovens oficiais do exército no Rio de Janeiro e em São Paulo, que contestava o controle político das oligarquias cafeicultoras e exigia reformas como o voto secreto?",
+    "dica": "O movimento deu origem à famosa marcha de mais de 25 mil quilômetros pelo interior do país liderada por Luís Carlos Prestes. É o movimento... .",
+    "resposta": "Tenentismo"
+  },
+  {
+    "pergunta": "Qual é a bacia hidrográfica que detém o título de maior bacia genuinamente e inteiramente brasileira (que não compartilha suas águas com nenhum outro país vizinho)?",
+    "dica": "O seu rio principal nasce em Goiás, corre em direção ao norte e abriga a Ilha do Bananal, a maior ilha fluvial do mundo.",
+    "resposta": "Bacia do Tocantins-Araguaia"
+  },
+  {
+    "pergunta": "Durante o início do século XX, qual grande revolta social ocorreu no Rio de Janeiro (1904) como reação popular contra a obrigatoriedade da imunização pública e as demolições forçadas promovidas pela reforma urbana do prefeito Pereira Passos?",
+    "dica": "O estopim do quebra-quebra generalizado foi a campanha sanitária liderada pelo médico Oswaldo Cruz para erradicar a varíola.",
+    "resposta": "Revolta da Vacina"
+  },
+  {
+    "pergunta": "Qual importante formação vegetal de transição, localizada principalmente nos estados do Maranhão, Piauí e Tocantins, atua como um elo geográfico entre a Floresta Amazônica, a Caatinga e o Cerrado?",
+    "dica": "Essa floresta é dominada por palmeiras nativas economicamente vitais para as comunidades locais, como o babaçu e a carnaúba. É a Mata dos... .",
+    "resposta": "Mata dos Cocais"
+  },
+  {
+    "pergunta": "Promulgada em 1891 logo após a queda da monarquia, qual constituição brasileira instituiu oficialmente o presidencialismo, o federalismo (autonomia dos estados) e o fim do voto censitário, separando a Igreja do Estado?",
+    "dica": "Foi a primeira constituição republicana do país e adotou o voto aberto (não secreto), o que facilitou a prática do coronelismo.",
+    "resposta": "Constituição de 1891"
+  },
+  {
+    "pergunta": "Qual é o nome do ponto geográfico oficialmente reconhecido como o extremo mais ocidental (a oeste) de todo o território brasileiro, localizando-se no estado do Acre, na fronteira com o Peru?",
+    "dica": "Fica situado nas nascentes de um importante rio local na densa floresta amazônica acreana. É a Nascente do Rio... .",
+    "resposta": "Nascente do Rio Moa"
+  },
+  {
+    "pergunta": "Ocorrido em Pernambuco entre 1645 e 1654, qual foi o nome dado ao movimento militar liderado por colonos luso-brasileiros, indígenas e negros para expulsar os invasores holandeses do Nordeste do Brasil?",
+    "dica": "A Batalha dos Guararapes, travada durante esse conflito, é considerada historicamente o marco de nascimento simbólico do Exército Brasileiro.",
+    "resposta": "Insurreição Pernambucana"
+  },
+  {
+    "pergunta": "Qual importante formação geomorfológica estende-se como um imenso planalto erosionado no interior do Nordeste brasileiro, abrangendo partes da Bahia e de Minas Gerais, sendo famoso por suas cavernas e formações calcárias cortadas pelo Rio São Francisco?",
+    "dica": "Leva o nome de uma histórica província ou bacia sedimentar da região. É o Planalto do... .",
+    "resposta": "Planalto do São Francisco"
+  },
+  {
+    "pergunta": "Eclodida em Minas Gerais em 1707, qual foi a primeira grande guerra civil entre colonos da história do Brasil, motivada pela disputa do controle das recém-descobertas jazidas de ouro entre os descobridores paulistas e os imigrantes vindos de fora?",
+    "dica": "O termo pejorativo que dá nome ao conflito faz referência à denominação que os paulistas davam aos estrangeiros e portugueses, significando 'aves de pés calçados'.",
+    "resposta": "Guerra dos Emboabas"
+  },
+
+]
